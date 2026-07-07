@@ -2,5121 +2,5121 @@
   {
     "id": 1,
     "name": "hack",
-    "img": "/covers/hack.jpg"
+    "img": "./covers/hack.jpg"
   },
   {
     "id": 2,
     "name": "1080 Snowboarding",
-    "img": "/covers/1080 Snowboarding.jpg"
+    "img": "./covers/1080 Snowboarding.jpg"
   },
   {
     "id": 3,
     "name": "13 Sentinels",
-    "img": "/covers/13 Sentinels.jpg"
+    "img": "./covers/13 Sentinels.jpg"
   },
   {
     "id": 4,
     "name": "1942",
-    "img": "/covers/1942.jpg"
+    "img": "./covers/1942.jpg"
   },
   {
     "id": 5,
     "name": "2064 Read Only Memories",
-    "img": "/covers/2064 Read Only Memories.jpg"
+    "img": "./covers/2064 Read Only Memories.jpg"
   },
   {
     "id": 6,
     "name": "428 Shibuya Scramble",
-    "img": "/covers/428 Shibuya Scramble.jpg"
+    "img": "./covers/428 Shibuya Scramble.jpg"
   },
   {
     "id": 7,
     "name": "Harry Potter",
-    "img": "/covers/Harry Potter.jpg"
+    "img": "./covers/Harry Potter.jpg"
   },
   {
     "id": 8,
     "name": "999",
-    "img": "/covers/999.jpg"
+    "img": "./covers/999.jpg"
   },
   {
     "id": 9,
     "name": "A Plague Tale",
-    "img": "/covers/A Plague Tale.jpg"
+    "img": "./covers/A Plague Tale.jpg"
   },
   {
     "id": 10,
     "name": "A Short Hike",
-    "img": "/covers/A Short Hike.jpg"
+    "img": "./covers/A Short Hike.jpg"
   },
   {
     "id": 11,
     "name": "A Way Out",
-    "img": "/covers/A Way Out.jpg"
+    "img": "./covers/A Way Out.jpg"
   },
   {
     "id": 12,
     "name": "A-10 Cuba!",
-    "img": "/covers/A-10 Cuba!.jpg"
+    "img": "./covers/A-10 Cuba!.jpg"
   },
   {
     "id": 13,
     "name": "Abe's Exoddus",
-    "img": "/covers/Abe's Exoddus.jpg"
+    "img": "./covers/Abe's Exoddus.jpg"
   },
   {
     "id": 14,
     "name": "Abe's Oddysee",
-    "img": "/covers/Abe's Oddysee.jpg"
+    "img": "./covers/Abe's Oddysee.jpg"
   },
   {
     "id": 15,
     "name": "Abzu",
-    "img": "/covers/Abzu.jpg"
+    "img": "./covers/Abzu.jpg"
   },
   {
     "id": 16,
     "name": "Ace Attorney",
-    "img": "/covers/Ace Attorney.jpg"
+    "img": "./covers/Ace Attorney.jpg"
   },
   {
     "id": 17,
     "name": "Plague Inc",
-    "img": "/covers/Plague Inc.jpg"
+    "img": "./covers/Plague Inc.jpg"
   },
   {
     "id": 18,
     "name": "Ace Combat",
-    "img": "/covers/Ace Combat.jpg"
+    "img": "./covers/Ace Combat.jpg"
   },
   {
     "id": 19,
     "name": "ActRaiser",
-    "img": "/covers/ActRaiser.jpg"
+    "img": "./covers/ActRaiser.jpg"
   },
   {
     "id": 20,
     "name": "ADOM",
-    "img": "/covers/ADOM.jpg"
+    "img": "./covers/ADOM.jpg"
   },
   {
     "id": 21,
     "name": "Advance Wars",
-    "img": "/covers/Advance Wars.jpg"
+    "img": "./covers/Advance Wars.jpg"
   },
   {
     "id": 22,
     "name": "After Burner",
-    "img": "/covers/After Burner.jpg"
+    "img": "./covers/After Burner.jpg"
   },
   {
     "id": 23,
     "name": "Against the Storm",
-    "img": "/covers/Against the Storm.jpg"
+    "img": "./covers/Against the Storm.jpg"
   },
   {
     "id": 24,
     "name": "Age of Empires",
-    "img": "/covers/Age of Empires.jpg"
+    "img": "./covers/Age of Empires.jpg"
   },
   {
     "id": 25,
     "name": "Age of Mythology",
-    "img": "/covers/Age of Mythology.jpg"
+    "img": "./covers/Age of Mythology.jpg"
   },
   {
     "id": 26,
     "name": "AI The Somnium Files",
-    "img": "/covers/AI The Somnium Files.jpg"
+    "img": "./covers/AI The Somnium Files.jpg"
   },
   {
     "id": 27,
     "name": "Akalabeth",
-    "img": "/covers/Akalabeth.jpg"
+    "img": "./covers/Akalabeth.jpg"
   },
   {
     "id": 28,
     "name": "Alan Wake",
-    "img": "/covers/Alan Wake.jpg"
+    "img": "./covers/Alan Wake.jpg"
   },
   {
     "id": 29,
     "name": "Def Jam",
-    "img": "/covers/Def Jam.jpg"
+    "img": "./covers/Def Jam.jpg"
   },
   {
     "id": 30,
     "name": "Albion",
-    "img": "/covers/Albion.jpg"
+    "img": "./covers/Albion.jpg"
   },
   {
     "id": 31,
     "name": "Alien Isolation",
-    "img": "/covers/Alien Isolation.jpg"
+    "img": "./covers/Alien Isolation.jpg"
   },
   {
     "id": 32,
     "name": "Alone in the Dark",
-    "img": "/covers/Alone in the Dark.jpg"
+    "img": "./covers/Alone in the Dark.jpg"
   },
   {
     "id": 33,
     "name": "Alpha Centauri",
-    "img": "/covers/Alpha Centauri.jpg"
+    "img": "./covers/Alpha Centauri.jpg"
   },
   {
     "id": 34,
     "name": "Altered Beast",
-    "img": "/covers/Altered Beast.jpg"
+    "img": "./covers/Altered Beast.jpg"
   },
   {
     "id": 35,
     "name": "Carrion",
-    "img": "/covers/Carrion.jpg"
+    "img": "./covers/Carrion.jpg"
   },
   {
     "id": 36,
     "name": "American McGee's Alice",
-    "img": "/covers/American McGee's Alice.jpg"
+    "img": "./covers/American McGee's Alice.jpg"
   },
   {
     "id": 37,
     "name": "American Truck Simulator",
-    "img": "/covers/American Truck Simulator.jpg"
+    "img": "./covers/American Truck Simulator.jpg"
   },
   {
     "id": 38,
     "name": "Amnesia",
-    "img": "/covers/Amnesia.jpg"
+    "img": "./covers/Amnesia.jpg"
   },
   {
     "id": 39,
     "name": "Angband",
-    "img": "/covers/Angband.jpg"
+    "img": "./covers/Angband.jpg"
   },
   {
     "id": 40,
     "name": "Animal Crossing",
-    "img": "/covers/Animal Crossing.jpg"
+    "img": "./covers/Animal Crossing.jpg"
   },
   {
     "id": 41,
     "name": "Anno",
-    "img": "/covers/Anno.jpg"
+    "img": "./covers/Anno.jpg"
   },
   {
     "id": 42,
     "name": "Another Code",
-    "img": "/covers/Another Code.jpg"
+    "img": "./covers/Another Code.jpg"
   },
   {
     "id": 43,
     "name": "Another World",
-    "img": "/covers/Another World.jpg"
+    "img": "./covers/Another World.jpg"
   },
   {
     "id": 44,
     "name": "Antichamber",
-    "img": "/covers/Antichamber.jpg"
+    "img": "./covers/Antichamber.jpg"
   },
   {
     "id": 45,
     "name": "Ao Oni",
-    "img": "/covers/Ao Oni.jpg"
+    "img": "./covers/Ao Oni.jpg"
   },
   {
     "id": 46,
     "name": "Ape Escape",
-    "img": "/covers/Ape Escape.jpg"
+    "img": "./covers/Ape Escape.jpg"
   },
   {
     "id": 47,
     "name": "Apex Legends",
-    "img": "/covers/Apex Legends.jpg"
+    "img": "./covers/Apex Legends.jpg"
   },
   {
     "id": 48,
     "name": "Aquaria",
-    "img": "/covers/Aquaria.jpg"
+    "img": "./covers/Aquaria.jpg"
   },
   {
     "id": 49,
     "name": "Ar tonelico",
-    "img": "/covers/Ar tonelico.jpg"
+    "img": "./covers/Ar tonelico.jpg"
   },
   {
     "id": 50,
     "name": "Arc the Lad",
-    "img": "/covers/Arc the Lad.jpg"
+    "img": "./covers/Arc the Lad.jpg"
   },
   {
     "id": 51,
     "name": "Arcanum",
-    "img": "/covers/Arcanum.jpg"
+    "img": "./covers/Arcanum.jpg"
   },
   {
     "id": 52,
     "name": "ARK Survival Evolved",
-    "img": "/covers/ARK Survival Evolved.jpg"
+    "img": "./covers/ARK Survival Evolved.jpg"
   },
   {
     "id": 53,
     "name": "Arkanoid",
-    "img": "/covers/Arkanoid.jpg"
+    "img": "./covers/Arkanoid.jpg"
   },
   {
     "id": 54,
     "name": "Arma",
-    "img": "/covers/Arma.jpg"
+    "img": "./covers/Arma.jpg"
   },
   {
     "id": 55,
     "name": "Armored Core",
-    "img": "/covers/Armored Core.jpg"
+    "img": "./covers/Armored Core.jpg"
   },
   {
     "id": 56,
     "name": "Art of Fighting",
-    "img": "/covers/Art of Fighting.jpg"
+    "img": "./covers/Art of Fighting.jpg"
   },
   {
     "id": 57,
     "name": "Assassin's Creed",
-    "img": "/covers/Assassin's Creed.jpg"
+    "img": "./covers/Assassin's Creed.jpg"
   },
   {
     "id": 58,
     "name": "Asteroids",
-    "img": "/covers/Asteroids.jpg"
+    "img": "./covers/Asteroids.jpg"
   },
   {
     "id": 59,
     "name": "Astral Chain",
-    "img": "/covers/Astral Chain.jpg"
+    "img": "./covers/Astral Chain.jpg"
   },
   {
     "id": 60,
     "name": "Astro Bot",
-    "img": "/covers/Astro Bot.jpg"
+    "img": "./covers/Astro Bot.jpg"
   },
   {
     "id": 61,
     "name": "Astroneer",
-    "img": "/covers/Astroneer.jpg"
+    "img": "./covers/Astroneer.jpg"
   },
   {
     "id": 62,
     "name": "Asura's Wrath",
-    "img": "/covers/Asura's Wrath.jpg"
+    "img": "./covers/Asura's Wrath.jpg"
   },
   {
     "id": 63,
     "name": "Atelier",
-    "img": "/covers/Atelier.jpg"
+    "img": "./covers/Atelier.jpg"
   },
   {
     "id": 64,
     "name": "Axiom Verge",
-    "img": "/covers/Axiom Verge.jpg"
+    "img": "./covers/Axiom Verge.jpg"
   },
   {
     "id": 65,
     "name": "Baba Is You",
-    "img": "/covers/Baba Is You.jpg"
+    "img": "./covers/Baba Is You.jpg"
   },
   {
     "id": 66,
     "name": "Bad Day L.A.",
-    "img": "/covers/Bad Day L.A..jpg"
+    "img": "./covers/Bad Day L.A..jpg"
   },
   {
     "id": 67,
     "name": "Balatro",
-    "img": "/covers/Balatro.jpg"
+    "img": "./covers/Balatro.jpg"
   },
   {
     "id": 68,
     "name": "Baldur's Gate",
-    "img": "/covers/Baldur's Gate.jpg"
+    "img": "./covers/Baldur's Gate.jpg"
   },
   {
     "id": 69,
     "name": "Balloon Fight",
-    "img": "/covers/Balloon Fight.jpg"
+    "img": "./covers/Balloon Fight.jpg"
   },
   {
     "id": 70,
     "name": "Banished",
-    "img": "/covers/Banished.jpg"
+    "img": "./covers/Banished.jpg"
   },
   {
     "id": 71,
     "name": "Banjo-Kazooie",
-    "img": "/covers/Banjo-Kazooie.jpg"
+    "img": "./covers/Banjo-Kazooie.jpg"
   },
   {
     "id": 72,
     "name": "Bastion",
-    "img": "/covers/Bastion.jpg"
+    "img": "./covers/Bastion.jpg"
   },
   {
     "id": 73,
     "name": "Baten Kaitos",
-    "img": "/covers/Baten Kaitos.jpg"
+    "img": "./covers/Baten Kaitos.jpg"
   },
   {
     "id": 74,
     "name": "Battlefield",
-    "img": "/covers/Battlefield.jpg"
+    "img": "./covers/Battlefield.jpg"
   },
   {
     "id": 75,
     "name": "Battletoads",
-    "img": "/covers/Battletoads.jpg"
+    "img": "./covers/Battletoads.jpg"
   },
   {
     "id": 76,
     "name": "Bayonetta",
-    "img": "/covers/Bayonetta.jpg"
+    "img": "./covers/Bayonetta.jpg"
   },
   {
     "id": 77,
     "name": "Beat Saber",
-    "img": "/covers/Beat Saber.jpg"
+    "img": "./covers/Beat Saber.jpg"
   },
   {
     "id": 78,
     "name": "Before Your Eyes",
-    "img": "/covers/Before Your Eyes.jpg"
+    "img": "./covers/Before Your Eyes.jpg"
   },
   {
     "id": 79,
     "name": "Beholder",
-    "img": "/covers/Beholder.jpg"
+    "img": "./covers/Beholder.jpg"
   },
   {
     "id": 80,
     "name": "Beneath a Steel Sky",
-    "img": "/covers/Beneath a Steel Sky.jpg"
+    "img": "./covers/Beneath a Steel Sky.jpg"
   },
   {
     "id": 81,
     "name": "Betrayal at Krondor",
-    "img": "/covers/Betrayal at Krondor.jpg"
+    "img": "./covers/Betrayal at Krondor.jpg"
   },
   {
     "id": 82,
     "name": "Beyond Good & Evil",
-    "img": "/covers/Beyond Good & Evil.jpg"
+    "img": "./covers/Beyond Good & Evil.jpg"
   },
   {
     "id": 83,
     "name": "Beyond Oasis",
-    "img": "/covers/Beyond Oasis.jpg"
+    "img": "./covers/Beyond Oasis.jpg"
   },
   {
     "id": 84,
     "name": "Binary Domain",
-    "img": "/covers/Binary Domain.jpg"
+    "img": "./covers/Binary Domain.jpg"
   },
   {
     "id": 85,
     "name": "Bionic Commando",
-    "img": "/covers/Bionic Commando.jpg"
+    "img": "./covers/Bionic Commando.jpg"
   },
   {
     "id": 86,
     "name": "BioShock",
-    "img": "/covers/BioShock.jpg"
+    "img": "./covers/BioShock.jpg"
   },
   {
     "id": 87,
     "name": "Black",
-    "img": "/covers/Black.jpg"
+    "img": "./covers/Black.jpg"
   },
   {
     "id": 88,
     "name": "Black & White",
-    "img": "/covers/Black & White.jpg"
+    "img": "./covers/Black & White.jpg"
   },
   {
     "id": 89,
     "name": "Black Desert",
-    "img": "/covers/Black Desert.jpg"
+    "img": "./covers/Black Desert.jpg"
   },
   {
     "id": 90,
     "name": "Blackthorne",
-    "img": "/covers/Blackthorne.jpg"
+    "img": "./covers/Blackthorne.jpg"
   },
   {
     "id": 91,
     "name": "Blade Runner",
-    "img": "/covers/Blade Runner.jpg"
+    "img": "./covers/Blade Runner.jpg"
   },
   {
     "id": 92,
     "name": "Blasphemous",
-    "img": "/covers/Blasphemous.jpg"
+    "img": "./covers/Blasphemous.jpg"
   },
   {
     "id": 93,
     "name": "BlazBlue",
-    "img": "/covers/BlazBlue.jpg"
+    "img": "./covers/BlazBlue.jpg"
   },
   {
     "id": 94,
     "name": "Blood",
-    "img": "/covers/Blood.jpg"
+    "img": "./covers/Blood.jpg"
   },
   {
     "id": 95,
     "name": "Bloodborne",
-    "img": "/covers/Bloodborne.jpg"
+    "img": "./covers/Bloodborne.jpg"
   },
   {
     "id": 96,
     "name": "Bloody Roar",
-    "img": "/covers/Bloody Roar.jpg"
+    "img": "./covers/Bloody Roar.jpg"
   },
   {
     "id": 97,
     "name": "Blue Dragon",
-    "img": "/covers/Blue Dragon.jpg"
+    "img": "./covers/Blue Dragon.jpg"
   },
   {
     "id": 98,
     "name": "Blue Reflection",
-    "img": "/covers/Blue Reflection.jpg"
+    "img": "./covers/Blue Reflection.jpg"
   },
   {
     "id": 99,
     "name": "Blur",
-    "img": "/covers/Blur.jpg"
+    "img": "./covers/Blur.jpg"
   },
   {
     "id": 100,
     "name": "Bomberman",
-    "img": "/covers/Bomberman.jpg"
+    "img": "./covers/Bomberman.jpg"
   },
   {
     "id": 101,
     "name": "Borderlands",
-    "img": "/covers/Borderlands.jpg"
+    "img": "./covers/Borderlands.jpg"
   },
   {
     "id": 102,
     "name": "Botanicula",
-    "img": "/covers/Botanicula.jpg"
+    "img": "./covers/Botanicula.jpg"
   },
   {
     "id": 103,
     "name": "Braid",
-    "img": "/covers/Braid.jpg"
+    "img": "./covers/Braid.jpg"
   },
   {
     "id": 104,
     "name": "Brain Age",
-    "img": "/covers/Brain Age.jpg"
+    "img": "./covers/Brain Age.jpg"
   },
   {
     "id": 105,
     "name": "Breakout",
-    "img": "/covers/Breakout.jpg"
+    "img": "./covers/Breakout.jpg"
   },
   {
     "id": 106,
     "name": "Breath of Fire",
-    "img": "/covers/Breath of Fire.jpg"
+    "img": "./covers/Breath of Fire.jpg"
   },
   {
     "id": 107,
     "name": "Broken Sword",
-    "img": "/covers/Broken Sword.jpg"
+    "img": "./covers/Broken Sword.jpg"
   },
   {
     "id": 108,
     "name": "Brothers in Arms",
-    "img": "/covers/Brothers in Arms.jpg"
+    "img": "./covers/Brothers in Arms.jpg"
   },
   {
     "id": 109,
     "name": "Brothers A Tale of Two Sons",
-    "img": "/covers/Brothers A Tale of Two Sons.jpg"
+    "img": "./covers/Brothers A Tale of Two Sons.jpg"
   },
   {
     "id": 110,
     "name": "Brutal Legend",
-    "img": "/covers/Brutal Legend.jpg"
+    "img": "./covers/Brutal Legend.jpg"
   },
   {
     "id": 111,
     "name": "Bubble Bobble",
-    "img": "/covers/Bubble Bobble.jpg"
+    "img": "./covers/Bubble Bobble.jpg"
   },
   {
     "id": 112,
     "name": "Bully",
-    "img": "/covers/Bully.jpg"
+    "img": "./covers/Bully.jpg"
   },
   {
     "id": 113,
     "name": "Burnout",
-    "img": "/covers/Burnout.jpg"
+    "img": "./covers/Burnout.jpg"
   },
   {
     "id": 114,
     "name": "Bushido Blade",
-    "img": "/covers/Bushido Blade.jpg"
+    "img": "./covers/Bushido Blade.jpg"
   },
   {
     "id": 115,
     "name": "Bust a Groove",
-    "img": "/covers/Bust a Groove.jpg"
+    "img": "./covers/Bust a Groove.jpg"
   },
   {
     "id": 116,
     "name": "Caesar",
-    "img": "/covers/Caesar.jpg"
+    "img": "./covers/Caesar.jpg"
   },
   {
     "id": 117,
     "name": "Call of Duty",
-    "img": "/covers/Call of Duty.jpg"
+    "img": "./covers/Call of Duty.jpg"
   },
   {
     "id": 118,
     "name": "Capcom vs. SNK",
-    "img": "/covers/Capcom vs. SNK.jpg"
+    "img": "./covers/Capcom vs. SNK.jpg"
   },
   {
     "id": 119,
     "name": "Captain Rainbow",
-    "img": "/covers/Captain Rainbow.jpg"
+    "img": "./covers/Captain Rainbow.jpg"
   },
   {
     "id": 120,
     "name": "Card Crawl",
-    "img": "/covers/Card Crawl.jpg"
+    "img": "./covers/Card Crawl.jpg"
   },
   {
     "id": 121,
     "name": "Carmageddon",
-    "img": "/covers/Carmageddon.jpg"
+    "img": "./covers/Carmageddon.jpg"
   },
   {
     "id": 122,
     "name": "Castlevania",
-    "img": "/covers/Castlevania.jpg"
+    "img": "./covers/Castlevania.jpg"
   },
   {
     "id": 123,
     "name": "Catacomb",
-    "img": "/covers/Catacomb.jpg"
+    "img": "./covers/Catacomb.jpg"
   },
   {
     "id": 124,
     "name": "Cave Story",
-    "img": "/covers/Cave Story.jpg"
+    "img": "./covers/Cave Story.jpg"
   },
   {
     "id": 125,
     "name": "Celeste",
-    "img": "/covers/Celeste.jpg"
+    "img": "./covers/Celeste.jpg"
   },
   {
     "id": 126,
     "name": "Centipede",
-    "img": "/covers/Centipede.jpg"
+    "img": "./covers/Centipede.jpg"
   },
   {
     "id": 127,
     "name": "Ceville",
-    "img": "/covers/Ceville.jpg"
+    "img": "./covers/Ceville.jpg"
   },
   {
     "id": 128,
     "name": "Chained Echoes",
-    "img": "/covers/Chained Echoes.jpg"
+    "img": "./covers/Chained Echoes.jpg"
   },
   {
     "id": 129,
     "name": "Championship Manager",
-    "img": "/covers/Championship Manager.jpg"
+    "img": "./covers/Championship Manager.jpg"
   },
   {
     "id": 130,
     "name": "Chaos;Child",
-    "img": "/covers/Chaos;Child.jpg"
+    "img": "./covers/Chaos;Child.jpg"
   },
   {
     "id": 131,
     "name": "Chrono",
-    "img": "/covers/Chrono.jpg"
+    "img": "./covers/Chrono.jpg"
   },
   {
     "id": 132,
     "name": "Chrono Cross",
-    "img": "/covers/Chrono Cross.jpg"
+    "img": "./covers/Chrono Cross.jpg"
   },
   {
     "id": 133,
     "name": "Chrono Trigger",
-    "img": "/covers/Chrono Trigger.jpg"
+    "img": "./covers/Chrono Trigger.jpg"
   },
   {
     "id": 134,
     "name": "Cities Skylines",
-    "img": "/covers/Cities Skylines.jpg"
+    "img": "./covers/Cities Skylines.jpg"
   },
   {
     "id": 135,
     "name": "Citizen Sleeper",
-    "img": "/covers/Citizen Sleeper.jpg"
+    "img": "./covers/Citizen Sleeper.jpg"
   },
   {
     "id": 136,
     "name": "Civilization",
-    "img": "/covers/Civilization.jpg"
+    "img": "./covers/Civilization.jpg"
   },
   {
     "id": 137,
     "name": "Clannad",
-    "img": "/covers/Clannad.jpg"
+    "img": "./covers/Clannad.jpg"
   },
   {
     "id": 138,
     "name": "ClayFighter",
-    "img": "/covers/ClayFighter.jpg"
+    "img": "./covers/ClayFighter.jpg"
   },
   {
     "id": 139,
     "name": "Clive Barker's Jericho",
-    "img": "/covers/Clive Barker's Jericho.jpg"
+    "img": "./covers/Clive Barker's Jericho.jpg"
   },
   {
     "id": 140,
     "name": "Clock Tower",
-    "img": "/covers/Clock Tower.jpg"
+    "img": "./covers/Clock Tower.jpg"
   },
   {
     "id": 141,
     "name": "Dustforce",
-    "img": "/covers/Dustforce.jpg"
+    "img": "./covers/Dustforce.jpg"
   },
   {
     "id": 142,
     "name": "Clu Clu Land",
-    "img": "/covers/Clu Clu Land.jpg"
+    "img": "./covers/Clu Clu Land.jpg"
   },
   {
     "id": 143,
     "name": "Cocoon",
-    "img": "/covers/Cocoon.jpg"
+    "img": "./covers/Cocoon.jpg"
   },
   {
     "id": 144,
     "name": "Coffee Talk",
-    "img": "/covers/Coffee Talk.jpg"
+    "img": "./covers/Coffee Talk.jpg"
   },
   {
     "id": 145,
     "name": "Command & Conquer",
-    "img": "/covers/Command & Conquer.jpg"
+    "img": "./covers/Command & Conquer.jpg"
   },
   {
     "id": 146,
     "name": "Commander Keen",
-    "img": "/covers/Commander Keen.jpg"
+    "img": "./covers/Commander Keen.jpg"
   },
   {
     "id": 147,
     "name": "Commandos",
-    "img": "/covers/Commandos.jpg"
+    "img": "./covers/Commandos.jpg"
   },
   {
     "id": 148,
     "name": "Company of Heroes",
-    "img": "/covers/Company of Heroes.jpg"
+    "img": "./covers/Company of Heroes.jpg"
   },
   {
     "id": 149,
     "name": "Concrete Genie",
-    "img": "/covers/Concrete Genie.jpg"
+    "img": "./covers/Concrete Genie.jpg"
   },
   {
     "id": 150,
     "name": "Condemned",
-    "img": "/covers/Condemned.jpg"
+    "img": "./covers/Condemned.jpg"
   },
   {
     "id": 151,
     "name": "Conker's Bad Fur Day",
-    "img": "/covers/Conker's Bad Fur Day.jpg"
+    "img": "./covers/Conker's Bad Fur Day.jpg"
   },
   {
     "id": 152,
     "name": "Contra",
-    "img": "/covers/Contra.jpg"
+    "img": "./covers/Contra.jpg"
   },
   {
     "id": 153,
     "name": "Control",
-    "img": "/covers/Control.jpg"
+    "img": "./covers/Control.jpg"
   },
   {
     "id": 154,
     "name": "Core Keeper",
-    "img": "/covers/Core Keeper.jpg"
+    "img": "./covers/Core Keeper.jpg"
   },
   {
     "id": 155,
     "name": "Corpse Party",
-    "img": "/covers/Corpse Party.jpg"
+    "img": "./covers/Corpse Party.jpg"
   },
   {
     "id": 156,
     "name": "Costume Quest",
-    "img": "/covers/Costume Quest.jpg"
+    "img": "./covers/Costume Quest.jpg"
   },
   {
     "id": 157,
     "name": "Counter-Strike",
-    "img": "/covers/Counter-Strike.jpg"
+    "img": "./covers/Counter-Strike.jpg"
   },
   {
     "id": 158,
     "name": "Crackdown",
-    "img": "/covers/Crackdown.jpg"
+    "img": "./covers/Crackdown.jpg"
   },
   {
     "id": 159,
     "name": "Crash Team Racing",
-    "img": "/covers/Crash Team Racing.jpg"
+    "img": "./covers/Crash Team Racing.jpg"
   },
   {
     "id": 160,
     "name": "Crazy Taxi",
-    "img": "/covers/Crazy Taxi.jpg"
+    "img": "./covers/Crazy Taxi.jpg"
   },
   {
     "id": 161,
     "name": "Creatures",
-    "img": "/covers/Creatures.jpg"
+    "img": "./covers/Creatures.jpg"
   },
   {
     "id": 162,
     "name": "Crimson Skies",
-    "img": "/covers/Crimson Skies.jpg"
+    "img": "./covers/Crimson Skies.jpg"
   },
   {
     "id": 163,
     "name": "CrossCode",
-    "img": "/covers/CrossCode.jpg"
+    "img": "./covers/CrossCode.jpg"
   },
   {
     "id": 164,
     "name": "Cruelty Squad",
-    "img": "/covers/Cruelty Squad.jpg"
+    "img": "./covers/Cruelty Squad.jpg"
   },
   {
     "id": 165,
     "name": "Crusader Kings",
-    "img": "/covers/Crusader Kings.jpg"
+    "img": "./covers/Crusader Kings.jpg"
   },
   {
     "id": 166,
     "name": "Crying Suns",
-    "img": "/covers/Crying Suns.jpg"
+    "img": "./covers/Crying Suns.jpg"
   },
   {
     "id": 167,
     "name": "Cryostasis",
-    "img": "/covers/Cryostasis.jpg"
+    "img": "./covers/Cryostasis.jpg"
   },
   {
     "id": 168,
     "name": "Crypt of the NecroDancer",
-    "img": "/covers/Crypt of the NecroDancer.jpg"
+    "img": "./covers/Crypt of the NecroDancer.jpg"
   },
   {
     "id": 169,
     "name": "Crysis",
-    "img": "/covers/Crysis.jpg"
+    "img": "./covers/Crysis.jpg"
   },
   {
     "id": 170,
     "name": "Cubivore",
-    "img": "/covers/Cubivore.jpg"
+    "img": "./covers/Cubivore.jpg"
   },
   {
     "id": 171,
     "name": "Cult of the Lamb",
-    "img": "/covers/Cult of the Lamb.jpg"
+    "img": "./covers/Cult of the Lamb.jpg"
   },
   {
     "id": 172,
     "name": "Cuphead",
-    "img": "/covers/Cuphead.jpg"
+    "img": "./covers/Cuphead.jpg"
   },
   {
     "id": 173,
     "name": "Custom Robo",
-    "img": "/covers/Custom Robo.jpg"
+    "img": "./covers/Custom Robo.jpg"
   },
   {
     "id": 174,
     "name": "Cyberpunk 2077",
-    "img": "/covers/Cyberpunk 2077.jpg"
+    "img": "./covers/Cyberpunk 2077.jpg"
   },
   {
     "id": 175,
     "name": "D",
-    "img": "/covers/D.jpg"
+    "img": "./covers/D.jpg"
   },
   {
     "id": 176,
     "name": "Daemon X Machina",
-    "img": "/covers/Daemon X Machina.jpg"
+    "img": "./covers/Daemon X Machina.jpg"
   },
   {
     "id": 177,
     "name": "Dance Dance Revolution",
-    "img": "/covers/Dance Dance Revolution.jpg"
+    "img": "./covers/Dance Dance Revolution.jpg"
   },
   {
     "id": 178,
     "name": "Danganronpa",
-    "img": "/covers/Danganronpa.jpg"
+    "img": "./covers/Danganronpa.jpg"
   },
   {
     "id": 179,
     "name": "Darius",
-    "img": "/covers/Darius.jpg"
+    "img": "./covers/Darius.jpg"
   },
   {
     "id": 180,
     "name": "Dark Souls",
-    "img": "/covers/Dark Souls.jpg"
+    "img": "./covers/Dark Souls.jpg"
   },
   {
     "id": 181,
     "name": "Darkest Dungeon",
-    "img": "/covers/Darkest Dungeon.jpg"
+    "img": "./covers/Darkest Dungeon.jpg"
   },
   {
     "id": 182,
     "name": "Darklands",
-    "img": "/covers/Darklands.jpg"
+    "img": "./covers/Darklands.jpg"
   },
   {
     "id": 183,
     "name": "Darksiders",
-    "img": "/covers/Darksiders.jpg"
+    "img": "./covers/Darksiders.jpg"
   },
   {
     "id": 184,
     "name": "Darkstalkers",
-    "img": "/covers/Darkstalkers.jpg"
+    "img": "./covers/Darkstalkers.jpg"
   },
   {
     "id": 185,
     "name": "Darkwood",
-    "img": "/covers/Darkwood.jpg"
+    "img": "./covers/Darkwood.jpg"
   },
   {
     "id": 186,
     "name": "Dauntless",
-    "img": "/covers/Dauntless.jpg"
+    "img": "./covers/Dauntless.jpg"
   },
   {
     "id": 187,
     "name": "Day of the Tentacle",
-    "img": "/covers/Day of the Tentacle.jpg"
+    "img": "./covers/Day of the Tentacle.jpg"
   },
   {
     "id": 188,
     "name": "Daytona USA",
-    "img": "/covers/Daytona USA.jpg"
+    "img": "./covers/Daytona USA.jpg"
   },
   {
     "id": 189,
     "name": "DayZ",
-    "img": "/covers/DayZ.jpg"
+    "img": "./covers/DayZ.jpg"
   },
   {
     "id": 190,
     "name": "DCS World",
-    "img": "/covers/DCS World.jpg"
+    "img": "./covers/DCS World.jpg"
   },
   {
     "id": 191,
     "name": "Dead Cells",
-    "img": "/covers/Dead Cells.jpg"
+    "img": "./covers/Dead Cells.jpg"
   },
   {
     "id": 192,
     "name": "Dead or Alive",
-    "img": "/covers/Dead or Alive.jpg"
+    "img": "./covers/Dead or Alive.jpg"
   },
   {
     "id": 193,
     "name": "Dead Rising",
-    "img": "/covers/Dead Rising.jpg"
+    "img": "./covers/Dead Rising.jpg"
   },
   {
     "id": 194,
     "name": "Dead Space",
-    "img": "/covers/Dead Space.jpg"
+    "img": "./covers/Dead Space.jpg"
   },
   {
     "id": 195,
     "name": "Dear Esther",
-    "img": "/covers/Dear Esther.jpg"
+    "img": "./covers/Dear Esther.jpg"
   },
   {
     "id": 196,
     "name": "Death's Door",
-    "img": "/covers/Death's Door.jpg"
+    "img": "./covers/Death's Door.jpg"
   },
   {
     "id": 197,
     "name": "Deathloop",
-    "img": "/covers/Deathloop.jpg"
+    "img": "./covers/Deathloop.jpg"
   },
   {
     "id": 198,
     "name": "Deltarune",
-    "img": "/covers/Deltarune.jpg"
+    "img": "./covers/Deltarune.jpg"
   },
   {
     "id": 199,
     "name": "Democracy",
-    "img": "/covers/Democracy.jpg"
+    "img": "./covers/Democracy.jpg"
   },
   {
     "id": 200,
     "name": "Demon's Souls",
-    "img": "/covers/Demon's Souls.jpg"
+    "img": "./covers/Demon's Souls.jpg"
   },
   {
     "id": 201,
     "name": "Dengeki Bunko Fighting Climax",
-    "img": "/covers/Dengeki Bunko Fighting Climax.jpg"
+    "img": "./covers/Dengeki Bunko Fighting Climax.jpg"
   },
   {
     "id": 202,
     "name": "Descent",
-    "img": "/covers/Descent.jpg"
+    "img": "./covers/Descent.jpg"
   },
   {
     "id": 203,
     "name": "Deadly Premonition",
-    "img": "/covers/Deadly Premonition.jpg"
+    "img": "./covers/Deadly Premonition.jpg"
   },
   {
     "id": 204,
     "name": "Desperados",
-    "img": "/covers/Desperados.jpg"
+    "img": "./covers/Desperados.jpg"
   },
   {
     "id": 205,
     "name": "Destiny",
-    "img": "/covers/Destiny.jpg"
+    "img": "./covers/Destiny.jpg"
   },
   {
     "id": 206,
     "name": "Destroy All Humans!",
-    "img": "/covers/Destroy All Humans!.jpg"
+    "img": "./covers/Destroy All Humans!.jpg"
   },
   {
     "id": 207,
     "name": "Detention",
-    "img": "/covers/Detention.jpg"
+    "img": "./covers/Detention.jpg"
   },
   {
     "id": 208,
     "name": "Deus Ex",
-    "img": "/covers/Deus Ex.jpg"
+    "img": "./covers/Deus Ex.jpg"
   },
   {
     "id": 209,
     "name": "Devil May Cry",
-    "img": "/covers/Devil May Cry.jpg"
+    "img": "./covers/Devil May Cry.jpg"
   },
   {
     "id": 210,
     "name": "Devil Summoner",
-    "img": "/covers/Devil Summoner.jpg"
+    "img": "./covers/Devil Summoner.jpg"
   },
   {
     "id": 211,
     "name": "Devotion",
-    "img": "/covers/Devotion.jpg"
+    "img": "./covers/Devotion.jpg"
   },
   {
     "id": 212,
     "name": "Diablo",
-    "img": "/covers/Diablo.jpg"
+    "img": "./covers/Diablo.jpg"
   },
   {
     "id": 213,
     "name": "Dicey Dungeons",
-    "img": "/covers/Dicey Dungeons.jpg"
+    "img": "./covers/Dicey Dungeons.jpg"
   },
   {
     "id": 214,
     "name": "Diddy Kong Racing",
-    "img": "/covers/Diddy Kong Racing.jpg"
+    "img": "./covers/Diddy Kong Racing.jpg"
   },
   {
     "id": 215,
     "name": "Digimon World",
-    "img": "/covers/Digimon World.jpg"
+    "img": "./covers/Digimon World.jpg"
   },
   {
     "id": 216,
     "name": "Digital Devil Saga",
-    "img": "/covers/Digital Devil Saga.jpg"
+    "img": "./covers/Digital Devil Saga.jpg"
   },
   {
     "id": 217,
     "name": "Dino Crisis",
-    "img": "/covers/Dino Crisis.jpg"
+    "img": "./covers/Dino Crisis.jpg"
   },
   {
     "id": 218,
     "name": "Disciples",
-    "img": "/covers/Disciples.jpg"
+    "img": "./covers/Disciples.jpg"
   },
   {
     "id": 219,
     "name": "Disco Elysium",
-    "img": "/covers/Disco Elysium.jpg"
+    "img": "./covers/Disco Elysium.jpg"
   },
   {
     "id": 220,
     "name": "Discworld",
-    "img": "/covers/Discworld.jpg"
+    "img": "./covers/Discworld.jpg"
   },
   {
     "id": 221,
     "name": "Disgaea",
-    "img": "/covers/Disgaea.jpg"
+    "img": "./covers/Disgaea.jpg"
   },
   {
     "id": 222,
     "name": "Dishonored",
-    "img": "/covers/Dishonored.jpg"
+    "img": "./covers/Dishonored.jpg"
   },
   {
     "id": 223,
     "name": "Disney’s Aladdin",
-    "img": "/covers/Disney’s Aladdin.jpg"
+    "img": "./covers/Disney’s Aladdin.jpg"
   },
   {
     "id": 224,
     "name": "Divinity",
-    "img": "/covers/Divinity.jpg"
+    "img": "./covers/Divinity.jpg"
   },
   {
     "id": 225,
     "name": "Doki Doki Literature Club",
-    "img": "/covers/Doki Doki Literature Club.jpg"
+    "img": "./covers/Doki Doki Literature Club.jpg"
   },
   {
     "id": 226,
     "name": "Don't Starve",
-    "img": "/covers/Don't Starve.jpg"
+    "img": "./covers/Don't Starve.jpg"
   },
   {
     "id": 227,
     "name": "Donkey Kong",
-    "img": "/covers/Donkey Kong.jpg"
+    "img": "./covers/Donkey Kong.jpg"
   },
   {
     "id": 228,
     "name": "Doom",
-    "img": "/covers/Doom.jpg"
+    "img": "./covers/Doom.jpg"
   },
   {
     "id": 229,
     "name": "Dorfromantik",
-    "img": "/covers/Dorfromantik.jpg"
+    "img": "./covers/Dorfromantik.jpg"
   },
   {
     "id": 230,
     "name": "Doshin the Giant",
-    "img": "/covers/Doshin the Giant.jpg"
+    "img": "./covers/Doshin the Giant.jpg"
   },
   {
     "id": 231,
     "name": "Dota",
-    "img": "/covers/Dota.jpg"
+    "img": "./covers/Dota.jpg"
   },
   {
     "id": 232,
     "name": "Double Dragon",
-    "img": "/covers/Double Dragon.jpg"
+    "img": "./covers/Double Dragon.jpg"
   },
   {
     "id": 233,
     "name": "Downwell",
-    "img": "/covers/Downwell.jpg"
+    "img": "./covers/Downwell.jpg"
   },
   {
     "id": 234,
     "name": "Dragon Age",
-    "img": "/covers/Dragon Age.jpg"
+    "img": "./covers/Dragon Age.jpg"
   },
   {
     "id": 235,
     "name": "Dragon Ball FighterZ",
-    "img": "/covers/Dragon Ball FighterZ.jpg"
+    "img": "./covers/Dragon Ball FighterZ.jpg"
   },
   {
     "id": 236,
     "name": "Dragon Quest",
-    "img": "/covers/Dragon Quest.jpg"
+    "img": "./covers/Dragon Quest.jpg"
   },
   {
     "id": 237,
     "name": "Dragon Warrior",
-    "img": "/covers/Dragon Warrior.jpg"
+    "img": "./covers/Dragon Warrior.jpg"
   },
   {
     "id": 238,
     "name": "Dragon's Crown",
-    "img": "/covers/Dragon's Crown.jpg"
+    "img": "./covers/Dragon's Crown.jpg"
   },
   {
     "id": 239,
     "name": "Dragon's Dogma",
-    "img": "/covers/Dragon's Dogma.jpg"
+    "img": "./covers/Dragon's Dogma.jpg"
   },
   {
     "id": 240,
     "name": "Drakengard",
-    "img": "/covers/Drakengard.jpg"
+    "img": "./covers/Drakengard.jpg"
   },
   {
     "id": 241,
     "name": "Dreamfall",
-    "img": "/covers/Dreamfall.jpg"
+    "img": "./covers/Dreamfall.jpg"
   },
   {
     "id": 242,
     "name": "Dreams",
-    "img": "/covers/Dreams.jpg"
+    "img": "./covers/Dreams.jpg"
   },
   {
     "id": 243,
     "name": "Driveclub",
-    "img": "/covers/Driveclub.jpg"
+    "img": "./covers/Driveclub.jpg"
   },
   {
     "id": 244,
     "name": "Driver",
-    "img": "/covers/Driver.jpg"
+    "img": "./covers/Driver.jpg"
   },
   {
     "id": 245,
     "name": "Duck Game",
-    "img": "/covers/Duck Game.jpg"
+    "img": "./covers/Duck Game.jpg"
   },
   {
     "id": 246,
     "name": "Duck Hunt",
-    "img": "/covers/Duck Hunt.jpg"
+    "img": "./covers/Duck Hunt.jpg"
   },
   {
     "id": 247,
     "name": "DuckTales",
-    "img": "/covers/DuckTales.jpg"
+    "img": "./covers/DuckTales.jpg"
   },
   {
     "id": 248,
     "name": "Duke Nukem",
-    "img": "/covers/Duke Nukem.jpg"
+    "img": "./covers/Duke Nukem.jpg"
   },
   {
     "id": 249,
     "name": "Dune",
-    "img": "/covers/Dune.jpg"
+    "img": "./covers/Dune.jpg"
   },
   {
     "id": 250,
     "name": "BattleBlock Theater",
-    "img": "/covers/BattleBlock Theater.jpg"
+    "img": "./covers/BattleBlock Theater.jpg"
   },
   {
     "id": 251,
     "name": "Dungeon Crawl Stone Soup",
-    "img": "/covers/Dungeon Crawl Stone Soup.jpg"
+    "img": "./covers/Dungeon Crawl Stone Soup.jpg"
   },
   {
     "id": 252,
     "name": "Dungeon Keeper",
-    "img": "/covers/Dungeon Keeper.jpg"
+    "img": "./covers/Dungeon Keeper.jpg"
   },
   {
     "id": 253,
     "name": "Dungeon Master",
-    "img": "/covers/Dungeon Master.jpg"
+    "img": "./covers/Dungeon Master.jpg"
   },
   {
     "id": 254,
     "name": "Dungeon Siege",
-    "img": "/covers/Dungeon Siege.jpg"
+    "img": "./covers/Dungeon Siege.jpg"
   },
   {
     "id": 255,
     "name": "Dust An Elysian Tail",
-    "img": "/covers/Dust An Elysian Tail.jpg"
+    "img": "./covers/Dust An Elysian Tail.jpg"
   },
   {
     "id": 256,
     "name": "Dwarf Fortress",
-    "img": "/covers/Dwarf Fortress.jpg"
+    "img": "./covers/Dwarf Fortress.jpg"
   },
   {
     "id": 257,
     "name": "Dynamite Headdy",
-    "img": "/covers/Dynamite Headdy.jpg"
+    "img": "./covers/Dynamite Headdy.jpg"
   },
   {
     "id": 258,
     "name": "Dyson Sphere Program",
-    "img": "/covers/Dyson Sphere Program.jpg"
+    "img": "./covers/Dyson Sphere Program.jpg"
   },
   {
     "id": 259,
     "name": "Earth Defense Force",
-    "img": "/covers/Earth Defense Force.jpg"
+    "img": "./covers/Earth Defense Force.jpg"
   },
   {
     "id": 260,
     "name": "EarthBound",
-    "img": "/covers/EarthBound.jpg"
+    "img": "./covers/EarthBound.jpg"
   },
   {
     "id": 261,
     "name": "Eastward",
-    "img": "/covers/Eastward.jpg"
+    "img": "./covers/Eastward.jpg"
   },
   {
     "id": 262,
     "name": "Ecco the Dolphin",
-    "img": "/covers/Ecco the Dolphin.jpg"
+    "img": "./covers/Ecco the Dolphin.jpg"
   },
   {
     "id": 263,
     "name": "Ehrgeiz",
-    "img": "/covers/Ehrgeiz.jpg"
+    "img": "./covers/Ehrgeiz.jpg"
   },
   {
     "id": 264,
     "name": "El Shaddai",
-    "img": "/covers/El Shaddai.jpg"
+    "img": "./covers/El Shaddai.jpg"
   },
   {
     "id": 265,
     "name": "Elden Ring",
-    "img": "/covers/Elden Ring.jpg"
+    "img": "./covers/Elden Ring.jpg"
   },
   {
     "id": 266,
     "name": "Electroplankton",
-    "img": "/covers/Electroplankton.jpg"
+    "img": "./covers/Electroplankton.jpg"
   },
   {
     "id": 267,
     "name": "Elex",
-    "img": "/covers/Elex.jpg"
+    "img": "./covers/Elex.jpg"
   },
   {
     "id": 268,
     "name": "Elite",
-    "img": "/covers/Elite.jpg"
+    "img": "./covers/Elite.jpg"
   },
   {
     "id": 269,
     "name": "Elite Beat Agents",
-    "img": "/covers/Elite Beat Agents.jpg"
+    "img": "./covers/Elite Beat Agents.jpg"
   },
   {
     "id": 270,
     "name": "Elite Dangerous",
-    "img": "/covers/Elite Dangerous.jpg"
+    "img": "./covers/Elite Dangerous.jpg"
   },
   {
     "id": 271,
     "name": "Enemy Zero",
-    "img": "/covers/Enemy Zero.jpg"
+    "img": "./covers/Enemy Zero.jpg"
   },
   {
     "id": 272,
     "name": "Enslaved Odyssey to the West",
-    "img": "/covers/Enslaved Odyssey to the West.jpg"
+    "img": "./covers/Enslaved Odyssey to the West.jpg"
   },
   {
     "id": 273,
     "name": "Enter the Gungeon",
-    "img": "/covers/Enter the Gungeon.jpg"
+    "img": "./covers/Enter the Gungeon.jpg"
   },
   {
     "id": 274,
     "name": "Escape from Tarkov",
-    "img": "/covers/Escape from Tarkov.jpg"
+    "img": "./covers/Escape from Tarkov.jpg"
   },
   {
     "id": 275,
     "name": "Eternal Darkness",
-    "img": "/covers/Eternal Darkness.jpg"
+    "img": "./covers/Eternal Darkness.jpg"
   },
   {
     "id": 276,
     "name": "Etrian Odyssey",
-    "img": "/covers/Etrian Odyssey.jpg"
+    "img": "./covers/Etrian Odyssey.jpg"
   },
   {
     "id": 277,
     "name": "Euro Truck Simulator",
-    "img": "/covers/Euro Truck Simulator.jpg"
+    "img": "./covers/Euro Truck Simulator.jpg"
   },
   {
     "id": 278,
     "name": "Europa Universalis",
-    "img": "/covers/Europa Universalis.jpg"
+    "img": "./covers/Europa Universalis.jpg"
   },
   {
     "id": 279,
     "name": "EVE Online",
-    "img": "/covers/EVE Online.jpg"
+    "img": "./covers/EVE Online.jpg"
   },
   {
     "id": 280,
     "name": "EverQuest",
-    "img": "/covers/EverQuest.jpg"
+    "img": "./covers/EverQuest.jpg"
   },
   {
     "id": 281,
     "name": "Everspace",
-    "img": "/covers/Everspace.jpg"
+    "img": "./covers/Everspace.jpg"
   },
   {
     "id": 282,
     "name": "Every Extend Extra",
-    "img": "/covers/Every Extend Extra.jpg"
+    "img": "./covers/Every Extend Extra.jpg"
   },
   {
     "id": 283,
     "name": "Everybody's Golf",
-    "img": "/covers/Everybody's Golf.jpg"
+    "img": "./covers/Everybody's Golf.jpg"
   },
   {
     "id": 284,
     "name": "Everybody's Gone to the Rapture",
-    "img": "/covers/Everybody's Gone to the Rapture.jpg"
+    "img": "./covers/Everybody's Gone to the Rapture.jpg"
   },
   {
     "id": 285,
     "name": "Everything",
-    "img": "/covers/Everything.jpg"
+    "img": "./covers/Everything.jpg"
   },
   {
     "id": 286,
     "name": "Excitebike",
-    "img": "/covers/Excitebike.jpg"
+    "img": "./covers/Excitebike.jpg"
   },
   {
     "id": 287,
     "name": "Eye of the Beholder",
-    "img": "/covers/Eye of the Beholder.jpg"
+    "img": "./covers/Eye of the Beholder.jpg"
   },
   {
     "id": 288,
     "name": "F-Zero",
-    "img": "/covers/F-Zero.jpg"
+    "img": "./covers/F-Zero.jpg"
   },
   {
     "id": 289,
     "name": "F.E.A.R.",
-    "img": "/covers/F.E.A.R..jpg"
+    "img": "./covers/F.E.A.R..jpg"
   },
   {
     "id": 290,
     "name": "Fable",
-    "img": "/covers/Fable.jpg"
+    "img": "./covers/Fable.jpg"
   },
   {
     "id": 291,
     "name": "Factorio",
-    "img": "/covers/Factorio.jpg"
+    "img": "./covers/Factorio.jpg"
   },
   {
     "id": 292,
     "name": "Fade to Black",
-    "img": "/covers/Fade to Black.jpg"
+    "img": "./covers/Fade to Black.jpg"
   },
   {
     "id": 293,
     "name": "Faith The Unholy Trinity",
-    "img": "/covers/Faith The Unholy Trinity.jpg"
+    "img": "./covers/Faith The Unholy Trinity.jpg"
   },
   {
     "id": 294,
     "name": "Falcon",
-    "img": "/covers/Falcon.jpg"
+    "img": "./covers/Falcon.jpg"
   },
   {
     "id": 295,
     "name": "Fallout",
-    "img": "/covers/Fallout.jpg"
+    "img": "./covers/Fallout.jpg"
   },
   {
     "id": 296,
     "name": "Fantasy Life",
-    "img": "/covers/Fantasy Life.jpg"
+    "img": "./covers/Fantasy Life.jpg"
   },
   {
     "id": 297,
     "name": "Fantasy Zone",
-    "img": "/covers/Fantasy Zone.jpg"
+    "img": "./covers/Fantasy Zone.jpg"
   },
   {
     "id": 298,
     "name": "Far Cry",
-    "img": "/covers/Far Cry.jpg"
+    "img": "./covers/Far Cry.jpg"
   },
   {
     "id": 299,
     "name": "Fatal Frame",
-    "img": "/covers/Fatal Frame.jpg"
+    "img": "./covers/Fatal Frame.jpg"
   },
   {
     "id": 300,
     "name": "Fatal Fury",
-    "img": "/covers/Fatal Fury.jpg"
+    "img": "./covers/Fatal Fury.jpg"
   },
   {
     "id": 301,
     "name": "Fate",
-    "img": "/covers/Fate.jpg"
+    "img": "./covers/Fate.jpg"
   },
   {
     "id": 302,
     "name": "Fear & Hunger",
-    "img": "/covers/Fear & Hunger.jpg"
+    "img": "./covers/Fear & Hunger.jpg"
   },
   {
     "id": 303,
     "name": "Fez",
-    "img": "/covers/Fez.jpg"
+    "img": "./covers/Fez.jpg"
   },
   {
     "id": 304,
     "name": "FIFA",
-    "img": "/covers/FIFA.jpg"
+    "img": "./covers/FIFA.jpg"
   },
   {
     "id": 305,
     "name": "Fight Night",
-    "img": "/covers/Fight Night.jpg"
+    "img": "./covers/Fight Night.jpg"
   },
   {
     "id": 306,
     "name": "Fighting EX Layer",
-    "img": "/covers/Fighting EX Layer.jpg"
+    "img": "./covers/Fighting EX Layer.jpg"
   },
   {
     "id": 307,
     "name": "Final Fantasy",
-    "img": "/covers/Final Fantasy.jpg"
+    "img": "./covers/Final Fantasy.jpg"
   },
   {
     "id": 308,
     "name": "Final Fight",
-    "img": "/covers/Final Fight.jpg"
+    "img": "./covers/Final Fight.jpg"
   },
   {
     "id": 309,
     "name": "Fire Emblem",
-    "img": "/covers/Fire Emblem.jpg"
+    "img": "./covers/Fire Emblem.jpg"
   },
   {
     "id": 310,
     "name": "Firewatch",
-    "img": "/covers/Firewatch.jpg"
+    "img": "./covers/Firewatch.jpg"
   },
   {
     "id": 311,
     "name": "Five Nights at Freddy's",
-    "img": "/covers/Five Nights at Freddy's.jpg"
+    "img": "./covers/Five Nights at Freddy's.jpg"
   },
   {
     "id": 312,
     "name": "Flashback",
-    "img": "/covers/Flashback.jpg"
+    "img": "./covers/Flashback.jpg"
   },
   {
     "id": 313,
     "name": "FlatOut",
-    "img": "/covers/FlatOut.jpg"
+    "img": "./covers/FlatOut.jpg"
   },
   {
     "id": 314,
     "name": "Florence",
-    "img": "/covers/Florence.jpg"
+    "img": "./covers/Florence.jpg"
   },
   {
     "id": 315,
     "name": "Flow",
-    "img": "/covers/Flow.jpg"
+    "img": "./covers/Flow.jpg"
   },
   {
     "id": 316,
     "name": "Flower",
-    "img": "/covers/Flower.jpg"
+    "img": "./covers/Flower.jpg"
   },
   {
     "id": 317,
     "name": "Flower, Sun, and Rain",
-    "img": "/covers/Flower, Sun, and Rain.jpg"
+    "img": "./covers/Flower, Sun, and Rain.jpg"
   },
   {
     "id": 318,
     "name": "Folklore",
-    "img": "/covers/Folklore.jpg"
+    "img": "./covers/Folklore.jpg"
   },
   {
     "id": 319,
     "name": "Football Manager",
-    "img": "/covers/Football Manager.jpg"
+    "img": "./covers/Football Manager.jpg"
   },
   {
     "id": 320,
     "name": "Fortnite",
-    "img": "/covers/Fortnite.jpg"
+    "img": "./covers/Fortnite.jpg"
   },
   {
     "id": 321,
     "name": "Forza",
-    "img": "/covers/Forza.jpg"
+    "img": "./covers/Forza.jpg"
   },
   {
     "id": 322,
     "name": "Fran Bow",
-    "img": "/covers/Fran Bow.jpg"
+    "img": "./covers/Fran Bow.jpg"
   },
   {
     "id": 323,
     "name": "Freedom Fighters",
-    "img": "/covers/Freedom Fighters.jpg"
+    "img": "./covers/Freedom Fighters.jpg"
   },
   {
     "id": 324,
     "name": "Freelancer",
-    "img": "/covers/Freelancer.jpg"
+    "img": "./covers/Freelancer.jpg"
   },
   {
     "id": 325,
     "name": "Frogger",
-    "img": "/covers/Frogger.jpg"
+    "img": "./covers/Frogger.jpg"
   },
   {
     "id": 326,
     "name": "Front Mission",
-    "img": "/covers/Front Mission.jpg"
+    "img": "./covers/Front Mission.jpg"
   },
   {
     "id": 327,
     "name": "Frostpunk",
-    "img": "/covers/Frostpunk.jpg"
+    "img": "./covers/Frostpunk.jpg"
   },
   {
     "id": 328,
     "name": "FTL Faster Than Light",
-    "img": "/covers/FTL Faster Than Light.jpg"
+    "img": "./covers/FTL Faster Than Light.jpg"
   },
   {
     "id": 329,
     "name": "Full Throttle",
-    "img": "/covers/Full Throttle.jpg"
+    "img": "./covers/Full Throttle.jpg"
   },
   {
     "id": 330,
     "name": "Gabriel Knight",
-    "img": "/covers/Gabriel Knight.jpg"
+    "img": "./covers/Gabriel Knight.jpg"
   },
   {
     "id": 331,
     "name": "Galaga",
-    "img": "/covers/Galaga.jpg"
+    "img": "./covers/Galaga.jpg"
   },
   {
     "id": 332,
     "name": "Galaxian",
-    "img": "/covers/Galaxian.jpg"
+    "img": "./covers/Galaxian.jpg"
   },
   {
     "id": 333,
     "name": "Galaxy Force",
-    "img": "/covers/Galaxy Force.jpg"
+    "img": "./covers/Galaxy Force.jpg"
   },
   {
     "id": 334,
     "name": "Gang Beasts",
-    "img": "/covers/Gang Beasts.jpg"
+    "img": "./covers/Gang Beasts.jpg"
   },
   {
     "id": 335,
     "name": "Garou",
-    "img": "/covers/Garou.jpg"
+    "img": "./covers/Garou.jpg"
   },
   {
     "id": 336,
     "name": "Garry's Mod",
-    "img": "/covers/Garry's Mod.jpg"
+    "img": "./covers/Garry's Mod.jpg"
   },
   {
     "id": 337,
     "name": "Gears of War",
-    "img": "/covers/Gears of War.jpg"
+    "img": "./covers/Gears of War.jpg"
   },
   {
     "id": 338,
     "name": "Getting Over It",
-    "img": "/covers/Getting Over It.jpg"
+    "img": "./covers/Getting Over It.jpg"
   },
   {
     "id": 339,
     "name": "Gex",
-    "img": "/covers/Gex.jpg"
+    "img": "./covers/Gex.jpg"
   },
   {
     "id": 340,
     "name": "Ghost of Tsushima",
-    "img": "/covers/Ghost of Tsushima.jpg"
+    "img": "./covers/Ghost of Tsushima.jpg"
   },
   {
     "id": 341,
     "name": "Ghost Trick",
-    "img": "/covers/Ghost Trick.jpg"
+    "img": "./covers/Ghost Trick.jpg"
   },
   {
     "id": 342,
     "name": "Ghosts 'n Goblins",
-    "img": "/covers/Ghosts 'n Goblins.jpg"
+    "img": "./covers/Ghosts 'n Goblins.jpg"
   },
   {
     "id": 343,
     "name": "Giftpia",
-    "img": "/covers/Giftpia.jpg"
+    "img": "./covers/Giftpia.jpg"
   },
   {
     "id": 344,
     "name": "Gitaroo Man",
-    "img": "/covers/Gitaroo Man.jpg"
+    "img": "./covers/Gitaroo Man.jpg"
   },
   {
     "id": 345,
     "name": "Goat Simulator",
-    "img": "/covers/Goat Simulator.jpg"
+    "img": "./covers/Goat Simulator.jpg"
   },
   {
     "id": 346,
     "name": "God Hand",
-    "img": "/covers/God Hand.jpg"
+    "img": "./covers/God Hand.jpg"
   },
   {
     "id": 347,
     "name": "God of War",
-    "img": "/covers/God of War.jpg"
+    "img": "./covers/God of War.jpg"
   },
   {
     "id": 348,
     "name": "Goemon",
-    "img": "/covers/Goemon.jpg"
+    "img": "./covers/Goemon.jpg"
   },
   {
     "id": 349,
     "name": "Golden Axe",
-    "img": "/covers/Golden Axe.jpg"
+    "img": "./covers/Golden Axe.jpg"
   },
   {
     "id": 350,
     "name": "Golden Sun",
-    "img": "/covers/Golden Sun.jpg"
+    "img": "./covers/Golden Sun.jpg"
   },
   {
     "id": 351,
     "name": "GoldenEye 007",
-    "img": "/covers/GoldenEye 007.jpg"
+    "img": "./covers/GoldenEye 007.jpg"
   },
   {
     "id": 352,
     "name": "Gone Home",
-    "img": "/covers/Gone Home.jpg"
+    "img": "./covers/Gone Home.jpg"
   },
   {
     "id": 353,
     "name": "Gothic",
-    "img": "/covers/Gothic.jpg"
+    "img": "./covers/Gothic.jpg"
   },
   {
     "id": 354,
     "name": "Gradius",
-    "img": "/covers/Gradius.jpg"
+    "img": "./covers/Gradius.jpg"
   },
   {
     "id": 355,
     "name": "Gran Turismo",
-    "img": "/covers/Gran Turismo.jpg"
+    "img": "./covers/Gran Turismo.jpg"
   },
   {
     "id": 356,
     "name": "Grand Theft Auto",
-    "img": "/covers/Grand Theft Auto.jpg"
+    "img": "./covers/Grand Theft Auto.jpg"
   },
   {
     "id": 357,
     "name": "Grandia",
-    "img": "/covers/Grandia.jpg"
+    "img": "./covers/Grandia.jpg"
   },
   {
     "id": 358,
     "name": "Gravity Rush",
-    "img": "/covers/Gravity Rush.jpg"
+    "img": "./covers/Gravity Rush.jpg"
   },
   {
     "id": 359,
     "name": "GreedFall",
-    "img": "/covers/GreedFall.jpg"
+    "img": "./covers/GreedFall.jpg"
   },
   {
     "id": 360,
     "name": "Green Hell",
-    "img": "/covers/Green Hell.jpg"
+    "img": "./covers/Green Hell.jpg"
   },
   {
     "id": 361,
     "name": "Grid",
-    "img": "/covers/Grid.jpg"
+    "img": "./covers/Grid.jpg"
   },
   {
     "id": 362,
     "name": "Griftlands",
-    "img": "/covers/Griftlands.jpg"
+    "img": "./covers/Griftlands.jpg"
   },
   {
     "id": 363,
     "name": "Grim Dawn",
-    "img": "/covers/Grim Dawn.jpg"
+    "img": "./covers/Grim Dawn.jpg"
   },
   {
     "id": 364,
     "name": "Grim Fandango",
-    "img": "/covers/Grim Fandango.jpg"
+    "img": "./covers/Grim Fandango.jpg"
   },
   {
     "id": 365,
     "name": "GrimGrimoire",
-    "img": "/covers/GrimGrimoire.jpg"
+    "img": "./covers/GrimGrimoire.jpg"
   },
   {
     "id": 366,
     "name": "Gris",
-    "img": "/covers/Gris.jpg"
+    "img": "./covers/Gris.jpg"
   },
   {
     "id": 367,
     "name": "Ground Control",
-    "img": "/covers/Ground Control.jpg"
+    "img": "./covers/Ground Control.jpg"
   },
   {
     "id": 368,
     "name": "Growlanser",
-    "img": "/covers/Growlanser.jpg"
+    "img": "./covers/Growlanser.jpg"
   },
   {
     "id": 369,
     "name": "Guacamelee",
-    "img": "/covers/Guacamelee.jpg"
+    "img": "./covers/Guacamelee.jpg"
   },
   {
     "id": 370,
     "name": "Guild Wars",
-    "img": "/covers/Guild Wars.jpg"
+    "img": "./covers/Guild Wars.jpg"
   },
   {
     "id": 371,
     "name": "Guilty Gear",
-    "img": "/covers/Guilty Gear.jpg"
+    "img": "./covers/Guilty Gear.jpg"
   },
   {
     "id": 372,
     "name": "Guitar Hero",
-    "img": "/covers/Guitar Hero.jpg"
+    "img": "./covers/Guitar Hero.jpg"
   },
   {
     "id": 373,
     "name": "Gunstar Heroes",
-    "img": "/covers/Gunstar Heroes.jpg"
+    "img": "./covers/Gunstar Heroes.jpg"
   },
   {
     "id": 374,
     "name": "H.A.W.X.",
-    "img": "/covers/H.A.W.X..jpg"
+    "img": "./covers/H.A.W.X..jpg"
   },
   {
     "id": 375,
     "name": "Habbo",
-    "img": "/covers/Habbo.jpg"
+    "img": "./covers/Habbo.jpg"
   },
   {
     "id": 376,
     "name": "We Were Here",
-    "img": "/covers/We Were Here.jpg"
+    "img": "./covers/We Were Here.jpg"
   },
   {
     "id": 377,
     "name": "Hades",
-    "img": "/covers/Hades.jpg"
+    "img": "./covers/Hades.jpg"
   },
   {
     "id": 378,
     "name": "Half-Life",
-    "img": "/covers/Half-Life.jpg"
+    "img": "./covers/Half-Life.jpg"
   },
   {
     "id": 379,
     "name": "Halo",
-    "img": "/covers/Halo.jpg"
+    "img": "./covers/Halo.jpg"
   },
   {
     "id": 380,
     "name": "Harvest Moon",
-    "img": "/covers/Harvest Moon.jpg"
+    "img": "./covers/Harvest Moon.jpg"
   },
   {
     "id": 381,
     "name": "Haunting Ground",
-    "img": "/covers/Haunting Ground.jpg"
+    "img": "./covers/Haunting Ground.jpg"
   },
   {
     "id": 382,
     "name": "Heart of Darkness",
-    "img": "/covers/Heart of Darkness.jpg"
+    "img": "./covers/Heart of Darkness.jpg"
   },
   {
     "id": 383,
     "name": "Hearthstone",
-    "img": "/covers/Hearthstone.jpg"
+    "img": "./covers/Hearthstone.jpg"
   },
   {
     "id": 384,
     "name": "Hearts of Iron",
-    "img": "/covers/Hearts of Iron.jpg"
+    "img": "./covers/Hearts of Iron.jpg"
   },
   {
     "id": 385,
     "name": "Heaven's Vault",
-    "img": "/covers/Heaven's Vault.jpg"
+    "img": "./covers/Heaven's Vault.jpg"
   },
   {
     "id": 386,
     "name": "Heavenly Sword",
-    "img": "/covers/Heavenly Sword.jpg"
+    "img": "./covers/Heavenly Sword.jpg"
   },
   {
     "id": 387,
     "name": "Her Story",
-    "img": "/covers/Her Story.jpg"
+    "img": "./covers/Her Story.jpg"
   },
   {
     "id": 388,
     "name": "Heretic",
-    "img": "/covers/Heretic.jpg"
+    "img": "./covers/Heretic.jpg"
   },
   {
     "id": 389,
     "name": "Heroes of Might and Magic",
-    "img": "/covers/Heroes of Might and Magic.jpg"
+    "img": "./covers/Heroes of Might and Magic.jpg"
   },
   {
     "id": 390,
     "name": "Heroes of the Storm",
-    "img": "/covers/Heroes of the Storm.jpg"
+    "img": "./covers/Heroes of the Storm.jpg"
   },
   {
     "id": 391,
     "name": "Hexen",
-    "img": "/covers/Hexen.jpg"
+    "img": "./covers/Hexen.jpg"
   },
   {
     "id": 392,
     "name": "Higurashi",
-    "img": "/covers/Higurashi.jpg"
+    "img": "./covers/Higurashi.jpg"
   },
   {
     "id": 393,
     "name": "Hollow Knight",
-    "img": "/covers/Hollow Knight.jpg"
+    "img": "./covers/Hollow Knight.jpg"
   },
   {
     "id": 394,
     "name": "Homeworld",
-    "img": "/covers/Homeworld.jpg"
+    "img": "./covers/Homeworld.jpg"
   },
   {
     "id": 395,
     "name": "Clash of Clans",
-    "img": "/covers/Clash of Clans.jpg"
+    "img": "./covers/Clash of Clans.jpg"
   },
   {
     "id": 396,
     "name": "Hotel Dusk",
-    "img": "/covers/Hotel Dusk.jpg"
+    "img": "./covers/Hotel Dusk.jpg"
   },
   {
     "id": 397,
     "name": "Hotline Miami",
-    "img": "/covers/Hotline Miami.jpg"
+    "img": "./covers/Hotline Miami.jpg"
   },
   {
     "id": 398,
     "name": "House Flipper",
-    "img": "/covers/House Flipper.jpg"
+    "img": "./covers/House Flipper.jpg"
   },
   {
     "id": 399,
     "name": "House of the Dead",
-    "img": "/covers/House of the Dead.jpg"
+    "img": "./covers/House of the Dead.jpg"
   },
   {
     "id": 400,
     "name": "Human Fall Flat",
-    "img": "/covers/Human Fall Flat.jpg"
+    "img": "./covers/Human Fall Flat.jpg"
   },
   {
     "id": 401,
     "name": "Hunt Showdown",
-    "img": "/covers/Hunt Showdown.jpg"
+    "img": "./covers/Hunt Showdown.jpg"
   },
   {
     "id": 402,
     "name": "Hylics",
-    "img": "/covers/Hylics.jpg"
+    "img": "./covers/Hylics.jpg"
   },
   {
     "id": 403,
     "name": "Hyper Light Drifter",
-    "img": "/covers/Hyper Light Drifter.jpg"
+    "img": "./covers/Hyper Light Drifter.jpg"
   },
   {
     "id": 404,
     "name": "I Am Bread",
-    "img": "/covers/I Am Bread.jpg"
+    "img": "./covers/I Am Bread.jpg"
   },
   {
     "id": 405,
     "name": "I Have No Mouth, and I Must Scream",
-    "img": "/covers/I Have No Mouth, and I Must Scream.jpg"
+    "img": "./covers/I Have No Mouth, and I Must Scream.jpg"
   },
   {
     "id": 406,
     "name": "Ib",
-    "img": "/covers/Ib.jpg"
+    "img": "./covers/Ib.jpg"
   },
   {
     "id": 407,
     "name": "Ice Climber",
-    "img": "/covers/Ice Climber.jpg"
+    "img": "./covers/Ice Climber.jpg"
   },
   {
     "id": 408,
     "name": "Icewind Dale",
-    "img": "/covers/Icewind Dale.jpg"
+    "img": "./covers/Icewind Dale.jpg"
   },
   {
     "id": 409,
     "name": "ICO",
-    "img": "/covers/ICO.jpg"
+    "img": "./covers/ICO.jpg"
   },
   {
     "id": 410,
     "name": "Iconoclasts",
-    "img": "/covers/Iconoclasts.jpg"
+    "img": "./covers/Iconoclasts.jpg"
   },
   {
     "id": 411,
     "name": "Ikaruga",
-    "img": "/covers/Ikaruga.jpg"
+    "img": "./covers/Ikaruga.jpg"
   },
   {
     "id": 412,
     "name": "IL-2 Sturmovik",
-    "img": "/covers/IL-2 Sturmovik.jpg"
+    "img": "./covers/IL-2 Sturmovik.jpg"
   },
   {
     "id": 413,
     "name": "Illusion of Gaia",
-    "img": "/covers/Illusion of Gaia.jpg"
+    "img": "./covers/Illusion of Gaia.jpg"
   },
   {
     "id": 414,
     "name": "Immortality",
-    "img": "/covers/Immortality.jpg"
+    "img": "./covers/Immortality.jpg"
   },
   {
     "id": 415,
     "name": "IMVU",
-    "img": "/covers/IMVU.jpg"
+    "img": "./covers/IMVU.jpg"
   },
   {
     "id": 416,
     "name": "In Other Waters",
-    "img": "/covers/In Other Waters.jpg"
+    "img": "./covers/In Other Waters.jpg"
   },
   {
     "id": 417,
     "name": "Independence War",
-    "img": "/covers/Independence War.jpg"
+    "img": "./covers/Independence War.jpg"
   },
   {
     "id": 418,
     "name": "Indiana Jones and the Fate of Atlantis",
-    "img": "/covers/Indiana Jones and the Fate of Atlantis.jpg"
+    "img": "./covers/Indiana Jones and the Fate of Atlantis.jpg"
   },
   {
     "id": 419,
     "name": "Infamous",
-    "img": "/covers/Infamous.jpg"
+    "img": "./covers/Infamous.jpg"
   },
   {
     "id": 420,
     "name": "Initial D Arcade Stage",
-    "img": "/covers/Initial D Arcade Stage.jpg"
+    "img": "./covers/Initial D Arcade Stage.jpg"
   },
   {
     "id": 421,
     "name": "Inscryption",
-    "img": "/covers/Inscryption.jpg"
+    "img": "./covers/Inscryption.jpg"
   },
   {
     "id": 422,
     "name": "Inside",
-    "img": "/covers/Inside.jpg"
+    "img": "./covers/Inside.jpg"
   },
   {
     "id": 423,
     "name": "Into the Breach",
-    "img": "/covers/Into the Breach.jpg"
+    "img": "./covers/Into the Breach.jpg"
   },
   {
     "id": 424,
     "name": "It Takes Two",
-    "img": "/covers/It Takes Two.jpg"
+    "img": "./covers/It Takes Two.jpg"
   },
   {
     "id": 425,
     "name": "Jade Empire",
-    "img": "/covers/Jade Empire.jpg"
+    "img": "./covers/Jade Empire.jpg"
   },
   {
     "id": 426,
     "name": "Jagged Alliance",
-    "img": "/covers/Jagged Alliance.jpg"
+    "img": "./covers/Jagged Alliance.jpg"
   },
   {
     "id": 427,
     "name": "Jak and Daxter",
-    "img": "/covers/Jak and Daxter.jpg"
+    "img": "./covers/Jak and Daxter.jpg"
   },
   {
     "id": 428,
     "name": "Jeanne d'Arc",
-    "img": "/covers/Jeanne d'Arc.jpg"
+    "img": "./covers/Jeanne d'Arc.jpg"
   },
   {
     "id": 429,
     "name": "Jet Force Gemini",
-    "img": "/covers/Jet Force Gemini.jpg"
+    "img": "./covers/Jet Force Gemini.jpg"
   },
   {
     "id": 430,
     "name": "Jet Set Radio",
-    "img": "/covers/Jet Set Radio.jpg"
+    "img": "./covers/Jet Set Radio.jpg"
   },
   {
     "id": 431,
     "name": "Journey",
-    "img": "/covers/Journey.jpg"
+    "img": "./covers/Journey.jpg"
   },
   {
     "id": 432,
     "name": "Jump King",
-    "img": "/covers/Jump King.jpg"
+    "img": "./covers/Jump King.jpg"
   },
   {
     "id": 433,
     "name": "Just Cause",
-    "img": "/covers/Just Cause.jpg"
+    "img": "./covers/Just Cause.jpg"
   },
   {
     "id": 434,
     "name": "Kameo",
-    "img": "/covers/Kameo.jpg"
+    "img": "./covers/Kameo.jpg"
   },
   {
     "id": 435,
     "name": "Kamiwaza",
-    "img": "/covers/Kamiwaza.jpg"
+    "img": "./covers/Kamiwaza.jpg"
   },
   {
     "id": 436,
     "name": "Karaoke Revolution",
-    "img": "/covers/Karaoke Revolution.jpg"
+    "img": "./covers/Karaoke Revolution.jpg"
   },
   {
     "id": 437,
     "name": "Punch Club",
-    "img": "/covers/Punch Club.jpg"
+    "img": "./covers/Punch Club.jpg"
   },
   {
     "id": 438,
     "name": "Katana ZERO",
-    "img": "/covers/Katana ZERO.jpg"
+    "img": "./covers/Katana ZERO.jpg"
   },
   {
     "id": 439,
     "name": "Keep Talking and Nobody Explodes",
-    "img": "/covers/Keep Talking and Nobody Explodes.jpg"
+    "img": "./covers/Keep Talking and Nobody Explodes.jpg"
   },
   {
     "id": 440,
     "name": "Kentucky Route Zero",
-    "img": "/covers/Kentucky Route Zero.jpg"
+    "img": "./covers/Kentucky Route Zero.jpg"
   },
   {
     "id": 441,
     "name": "Kerbal Space Program",
-    "img": "/covers/Kerbal Space Program.jpg"
+    "img": "./covers/Kerbal Space Program.jpg"
   },
   {
     "id": 442,
     "name": "Kid Icarus",
-    "img": "/covers/Kid Icarus.jpg"
+    "img": "./covers/Kid Icarus.jpg"
   },
   {
     "id": 443,
     "name": "Killer Instinct",
-    "img": "/covers/Killer Instinct.jpg"
+    "img": "./covers/Killer Instinct.jpg"
   },
   {
     "id": 444,
     "name": "Killer7",
-    "img": "/covers/Killer7.jpg"
+    "img": "./covers/Killer7.jpg"
   },
   {
     "id": 445,
     "name": "Killzone",
-    "img": "/covers/Killzone.jpg"
+    "img": "./covers/Killzone.jpg"
   },
   {
     "id": 446,
     "name": "King of Fighters '98",
-    "img": "/covers/King of Fighters '98.jpg"
+    "img": "./covers/King of Fighters '98.jpg"
   },
   {
     "id": 447,
     "name": "King's Quest",
-    "img": "/covers/King's Quest.jpg"
+    "img": "./covers/King's Quest.jpg"
   },
   {
     "id": 448,
     "name": "Kingdom Hearts",
-    "img": "/covers/Kingdom Hearts.jpg"
+    "img": "./covers/Kingdom Hearts.jpg"
   },
   {
     "id": 449,
     "name": "Kingdoms of Amalur",
-    "img": "/covers/Kingdoms of Amalur.jpg"
+    "img": "./covers/Kingdoms of Amalur.jpg"
   },
   {
     "id": 450,
     "name": "Kirby",
-    "img": "/covers/Kirby.jpg"
+    "img": "./covers/Kirby.jpg"
   },
   {
     "id": 451,
     "name": "Knack",
-    "img": "/covers/Knack.jpg"
+    "img": "./covers/Knack.jpg"
   },
   {
     "id": 452,
     "name": "Knights of the Old Republic",
-    "img": "/covers/Knights of the Old Republic.jpg"
+    "img": "./covers/Knights of the Old Republic.jpg"
   },
   {
     "id": 453,
     "name": "KORG DS-10",
-    "img": "/covers/KORG DS-10.jpg"
+    "img": "./covers/KORG DS-10.jpg"
   },
   {
     "id": 454,
     "name": "Kunio-kun",
-    "img": "/covers/Kunio-kun.jpg"
+    "img": "./covers/Kunio-kun.jpg"
   },
   {
     "id": 455,
     "name": "Kuon",
-    "img": "/covers/Kuon.jpg"
+    "img": "./covers/Kuon.jpg"
   },
   {
     "id": 456,
     "name": "L.A. Noire",
-    "img": "/covers/L.A. Noire.jpg"
+    "img": "./covers/L.A. Noire.jpg"
   },
   {
     "id": 457,
     "name": "La Pucelle",
-    "img": "/covers/La Pucelle.jpg"
+    "img": "./covers/La Pucelle.jpg"
   },
   {
     "id": 458,
     "name": "La-Mulana",
-    "img": "/covers/La-Mulana.jpg"
+    "img": "./covers/La-Mulana.jpg"
   },
   {
     "id": 459,
     "name": "Lands of Lore",
-    "img": "/covers/Lands of Lore.jpg"
+    "img": "./covers/Lands of Lore.jpg"
   },
   {
     "id": 460,
     "name": "Landstalker",
-    "img": "/covers/Landstalker.jpg"
+    "img": "./covers/Landstalker.jpg"
   },
   {
     "id": 461,
     "name": "Langrisser",
-    "img": "/covers/Langrisser.jpg"
+    "img": "./covers/Langrisser.jpg"
   },
   {
     "id": 462,
     "name": "Layers of Fear",
-    "img": "/covers/Layers of Fear.jpg"
+    "img": "./covers/Layers of Fear.jpg"
   },
   {
     "id": 463,
     "name": "Left 4 Dead",
-    "img": "/covers/Left 4 Dead.jpg"
+    "img": "./covers/Left 4 Dead.jpg"
   },
   {
     "id": 464,
     "name": "Legend of Dragoon",
-    "img": "/covers/Legend of Dragoon.jpg"
+    "img": "./covers/Legend of Dragoon.jpg"
   },
   {
     "id": 465,
     "name": "Legend of Legaia",
-    "img": "/covers/Legend of Legaia.jpg"
+    "img": "./covers/Legend of Legaia.jpg"
   },
   {
     "id": 466,
     "name": "Leisure Suit Larry",
-    "img": "/covers/Leisure Suit Larry.jpg"
+    "img": "./covers/Leisure Suit Larry.jpg"
   },
   {
     "id": 467,
     "name": "Lemmings",
-    "img": "/covers/Lemmings.jpg"
+    "img": "./covers/Lemmings.jpg"
   },
   {
     "id": 468,
     "name": "Library of Ruina",
-    "img": "/covers/Library of Ruina.jpg"
+    "img": "./covers/Library of Ruina.jpg"
   },
   {
     "id": 469,
     "name": "Limbo",
-    "img": "/covers/Limbo.jpg"
+    "img": "./covers/Limbo.jpg"
   },
   {
     "id": 470,
     "name": "Linda³",
-    "img": "/covers/Linda³.jpg"
+    "img": "./covers/Linda³.jpg"
   },
   {
     "id": 471,
     "name": "Lineage",
-    "img": "/covers/Lineage.jpg"
+    "img": "./covers/Lineage.jpg"
   },
   {
     "id": 472,
     "name": "Lisa",
-    "img": "/covers/Lisa.jpg"
+    "img": "./covers/Lisa.jpg"
   },
   {
     "id": 473,
     "name": "Little Big Adventure",
-    "img": "/covers/Little Big Adventure.jpg"
+    "img": "./covers/Little Big Adventure.jpg"
   },
   {
     "id": 474,
     "name": "Little Inferno",
-    "img": "/covers/Little Inferno.jpg"
+    "img": "./covers/Little Inferno.jpg"
   },
   {
     "id": 475,
     "name": "Little Misfortune",
-    "img": "/covers/Little Misfortune.jpg"
+    "img": "./covers/Little Misfortune.jpg"
   },
   {
     "id": 476,
     "name": "Little Nightmares",
-    "img": "/covers/Little Nightmares.jpg"
+    "img": "./covers/Little Nightmares.jpg"
   },
   {
     "id": 477,
     "name": "LittleBigPlanet",
-    "img": "/covers/LittleBigPlanet.jpg"
+    "img": "./covers/LittleBigPlanet.jpg"
   },
   {
     "id": 478,
     "name": "Live A Live",
-    "img": "/covers/Live A Live.jpg"
+    "img": "./covers/Live A Live.jpg"
   },
   {
     "id": 479,
     "name": "Lobotomy Corporation",
-    "img": "/covers/Lobotomy Corporation.jpg"
+    "img": "./covers/Lobotomy Corporation.jpg"
   },
   {
     "id": 480,
     "name": "LocoRoco",
-    "img": "/covers/LocoRoco.jpg"
+    "img": "./covers/LocoRoco.jpg"
   },
   {
     "id": 481,
     "name": "Lode Runner",
-    "img": "/covers/Lode Runner.jpg"
+    "img": "./covers/Lode Runner.jpg"
   },
   {
     "id": 482,
     "name": "Lollipop Chainsaw",
-    "img": "/covers/Lollipop Chainsaw.jpg"
+    "img": "./covers/Lollipop Chainsaw.jpg"
   },
   {
     "id": 483,
     "name": "Loop Hero",
-    "img": "/covers/Loop Hero.jpg"
+    "img": "./covers/Loop Hero.jpg"
   },
   {
     "id": 484,
     "name": "Lost Odyssey",
-    "img": "/covers/Lost Odyssey.jpg"
+    "img": "./covers/Lost Odyssey.jpg"
   },
   {
     "id": 485,
     "name": "Lost Planet",
-    "img": "/covers/Lost Planet.jpg"
+    "img": "./covers/Lost Planet.jpg"
   },
   {
     "id": 486,
     "name": "Lovers in a Dangerous Spacetime",
-    "img": "/covers/Lovers in a Dangerous Spacetime.jpg"
+    "img": "./covers/Lovers in a Dangerous Spacetime.jpg"
   },
   {
     "id": 487,
     "name": "Luigi's Mansion",
-    "img": "/covers/Luigi's Mansion.jpg"
+    "img": "./covers/Luigi's Mansion.jpg"
   },
   {
     "id": 488,
     "name": "Lumines",
-    "img": "/covers/Lumines.jpg"
+    "img": "./covers/Lumines.jpg"
   },
   {
     "id": 489,
     "name": "Lunar",
-    "img": "/covers/Lunar.jpg"
+    "img": "./covers/Lunar.jpg"
   },
   {
     "id": 490,
     "name": "M.U.G.E.N",
-    "img": "/covers/M.U.G.E.N.jpg"
+    "img": "./covers/M.U.G.E.N.jpg"
   },
   {
     "id": 491,
     "name": "Machinarium",
-    "img": "/covers/Machinarium.jpg"
+    "img": "./covers/Machinarium.jpg"
   },
   {
     "id": 492,
     "name": "Mad Father",
-    "img": "/covers/Mad Father.jpg"
+    "img": "./covers/Mad Father.jpg"
   },
   {
     "id": 493,
     "name": "Madden NFL",
-    "img": "/covers/Madden NFL.jpg"
+    "img": "./covers/Madden NFL.jpg"
   },
   {
     "id": 494,
     "name": "Mafia",
-    "img": "/covers/Mafia.jpg"
+    "img": "./covers/Mafia.jpg"
   },
   {
     "id": 495,
     "name": "Makai Kingdom",
-    "img": "/covers/Makai Kingdom.jpg"
+    "img": "./covers/Makai Kingdom.jpg"
   },
   {
     "id": 496,
     "name": "Maken X",
-    "img": "/covers/Maken X.jpg"
+    "img": "./covers/Maken X.jpg"
   },
   {
     "id": 497,
     "name": "Angry Birds",
-    "img": "/covers/Angry Birds.jpg"
+    "img": "./covers/Angry Birds.jpg"
   },
   {
     "id": 498,
     "name": "Mana Khemia",
-    "img": "/covers/Mana Khemia.jpg"
+    "img": "./covers/Mana Khemia.jpg"
   },
   {
     "id": 499,
     "name": "Manhunt",
-    "img": "/covers/Manhunt.jpg"
+    "img": "./covers/Manhunt.jpg"
   },
   {
     "id": 500,
     "name": "Maniac Mansion",
-    "img": "/covers/Maniac Mansion.jpg"
+    "img": "./covers/Maniac Mansion.jpg"
   },
   {
     "id": 501,
     "name": "Marathon",
-    "img": "/covers/Marathon.jpg"
+    "img": "./covers/Marathon.jpg"
   },
   {
     "id": 502,
     "name": "Mario Kart",
-    "img": "/covers/Mario Kart.jpg"
+    "img": "./covers/Mario Kart.jpg"
   },
   {
     "id": 503,
     "name": "Mario Party",
-    "img": "/covers/Mario Party.jpg"
+    "img": "./covers/Mario Party.jpg"
   },
   {
     "id": 504,
     "name": "Mark of the Ninja",
-    "img": "/covers/Mark of the Ninja.jpg"
+    "img": "./covers/Mark of the Ninja.jpg"
   },
   {
     "id": 505,
     "name": "Marvel vs. Capcom",
-    "img": "/covers/Marvel vs. Capcom.jpg"
+    "img": "./covers/Marvel vs. Capcom.jpg"
   },
   {
     "id": 506,
     "name": "Mass Effect",
-    "img": "/covers/Mass Effect.jpg"
+    "img": "./covers/Mass Effect.jpg"
   },
   {
     "id": 507,
     "name": "Master of Magic",
-    "img": "/covers/Master of Magic.jpg"
+    "img": "./covers/Master of Magic.jpg"
   },
   {
     "id": 508,
     "name": "Master of Orion",
-    "img": "/covers/Master of Orion.jpg"
+    "img": "./covers/Master of Orion.jpg"
   },
   {
     "id": 509,
     "name": "Max Payne",
-    "img": "/covers/Max Payne.jpg"
+    "img": "./covers/Max Payne.jpg"
   },
   {
     "id": 510,
     "name": "MechCommander",
-    "img": "/covers/MechCommander.jpg"
+    "img": "./covers/MechCommander.jpg"
   },
   {
     "id": 511,
     "name": "MechWarrior",
-    "img": "/covers/MechWarrior.jpg"
+    "img": "./covers/MechWarrior.jpg"
   },
   {
     "id": 512,
     "name": "Medabots",
-    "img": "/covers/Medabots.jpg"
+    "img": "./covers/Medabots.jpg"
   },
   {
     "id": 513,
     "name": "Medal of Honor",
-    "img": "/covers/Medal of Honor.jpg"
+    "img": "./covers/Medal of Honor.jpg"
   },
   {
     "id": 514,
     "name": "MediEvil",
-    "img": "/covers/MediEvil.jpg"
+    "img": "./covers/MediEvil.jpg"
   },
   {
     "id": 515,
     "name": "Mega Man",
-    "img": "/covers/Mega Man.jpg"
+    "img": "./covers/Mega Man.jpg"
   },
   {
     "id": 516,
     "name": "Melty Blood",
-    "img": "/covers/Melty Blood.jpg"
+    "img": "./covers/Melty Blood.jpg"
   },
   {
     "id": 517,
     "name": "Mercenaries",
-    "img": "/covers/Mercenaries.jpg"
+    "img": "./covers/Mercenaries.jpg"
   },
   {
     "id": 518,
     "name": "Metal Gear Solid",
-    "img": "/covers/Metal Gear.jpg"
+    "img": "./covers/Metal Gear.jpg"
   },
   {
     "id": 519,
     "name": "Metal Slug",
-    "img": "/covers/Metal Slug.jpg"
+    "img": "./covers/Metal Slug.jpg"
   },
   {
     "id": 520,
     "name": "Meteos",
-    "img": "/covers/Meteos.jpg"
+    "img": "./covers/Meteos.jpg"
   },
   {
     "id": 521,
     "name": "Metro",
-    "img": "/covers/Metro.jpg"
+    "img": "./covers/Metro.jpg"
   },
   {
     "id": 522,
     "name": "Metroid",
-    "img": "/covers/Metroid.jpg"
+    "img": "./covers/Metroid.jpg"
   },
   {
     "id": 523,
     "name": "Microsoft Flight Simulator",
-    "img": "/covers/Microsoft Flight Simulator.jpg"
+    "img": "./covers/Microsoft Flight Simulator.jpg"
   },
   {
     "id": 524,
     "name": "Middle-earth Shadow of Mordor",
-    "img": "/covers/Middle-earth Shadow of Mordor.jpg"
+    "img": "./covers/Middle-earth Shadow of Mordor.jpg"
   },
   {
     "id": 525,
     "name": "Midnight Club",
-    "img": "/covers/Midnight Club.jpg"
+    "img": "./covers/Midnight Club.jpg"
   },
   {
     "id": 526,
     "name": "Midtown Madness",
-    "img": "/covers/Midtown Madness.jpg"
+    "img": "./covers/Midtown Madness.jpg"
   },
   {
     "id": 527,
     "name": "Might and Magic",
-    "img": "/covers/Might and Magic.jpg"
+    "img": "./covers/Might and Magic.jpg"
   },
   {
     "id": 528,
     "name": "Minecraft",
-    "img": "/covers/Minecraft.jpg"
+    "img": "./covers/Minecraft.jpg"
   },
   {
     "id": 529,
     "name": "Mini Metro",
-    "img": "/covers/Mini Metro.jpg"
+    "img": "./covers/Mini Metro.jpg"
   },
   {
     "id": 530,
     "name": "Riders Republic",
-    "img": "/covers/Riders Republic.jpg"
+    "img": "./covers/Riders Republic.jpg"
   },
   {
     "id": 531,
     "name": "Mirror's Edge",
-    "img": "/covers/Mirror's Edge.jpg"
+    "img": "./covers/Mirror's Edge.jpg"
   },
   {
     "id": 532,
     "name": "Missile Command",
-    "img": "/covers/Missile Command.jpg"
+    "img": "./covers/Missile Command.jpg"
   },
   {
     "id": 533,
     "name": "Monkey Island",
-    "img": "/covers/Monkey Island.jpg"
+    "img": "./covers/Monkey Island.jpg"
   },
   {
     "id": 534,
     "name": "Monster Hunter",
-    "img": "/covers/Monster Hunter.jpg"
+    "img": "./covers/Monster Hunter.jpg"
   },
   {
     "id": 535,
     "name": "Monster Rancher",
-    "img": "/covers/Monster Rancher.jpg"
+    "img": "./covers/Monster Rancher.jpg"
   },
   {
     "id": 536,
     "name": "Monster Train",
-    "img": "/covers/Monster Train.jpg"
+    "img": "./covers/Monster Train.jpg"
   },
   {
     "id": 537,
     "name": "Moon",
-    "img": "/covers/Moon.jpg"
+    "img": "./covers/Moon.jpg"
   },
   {
     "id": 538,
     "name": "Moria",
-    "img": "/covers/Moria.jpg"
+    "img": "./covers/Moria.jpg"
   },
   {
     "id": 539,
     "name": "Mortal Kombat",
-    "img": "/covers/Mortal Kombat.jpg"
+    "img": "./covers/Mortal Kombat.jpg"
   },
   {
     "id": 540,
     "name": "Mother",
-    "img": "/covers/Mother.jpg"
+    "img": "./covers/Mother.jpg"
   },
   {
     "id": 541,
     "name": "MotorStorm",
-    "img": "/covers/MotorStorm.jpg"
+    "img": "./covers/MotorStorm.jpg"
   },
   {
     "id": 542,
     "name": "Mountain",
-    "img": "/covers/Mountain.jpg"
+    "img": "./covers/Mountain.jpg"
   },
   {
     "id": 543,
     "name": "Moving Out",
-    "img": "/covers/Moving Out.jpg"
+    "img": "./covers/Moving Out.jpg"
   },
   {
     "id": 544,
     "name": "Muramasa",
-    "img": "/covers/Muramasa.jpg"
+    "img": "./covers/Muramasa.jpg"
   },
   {
     "id": 545,
     "name": "Mutazione",
-    "img": "/covers/Mutazione.jpg"
+    "img": "./covers/Mutazione.jpg"
   },
   {
     "id": 546,
     "name": "Myst",
-    "img": "/covers/Myst.jpg"
+    "img": "./covers/Myst.jpg"
   },
   {
     "id": 547,
     "name": "Mystery Dungeon",
-    "img": "/covers/Mystery Dungeon.jpg"
+    "img": "./covers/Mystery Dungeon.jpg"
   },
   {
     "id": 548,
     "name": "N++",
-    "img": "/covers/N++.jpg"
+    "img": "./covers/N++.jpg"
   },
   {
     "id": 549,
     "name": "NBA Live",
-    "img": "/covers/NBA Live.jpg"
+    "img": "./covers/NBA Live.jpg"
   },
   {
     "id": 550,
     "name": "Necesse",
-    "img": "/covers/Necesse.jpg"
+    "img": "./covers/Necesse.jpg"
   },
   {
     "id": 551,
     "name": "Need for Speed",
-    "img": "/covers/Need for Speed.jpg"
+    "img": "./covers/Need for Speed.jpg"
   },
   {
     "id": 552,
     "name": "Neo Cab",
-    "img": "/covers/Neo Cab.jpg"
+    "img": "./covers/Neo Cab.jpg"
   },
   {
     "id": 553,
     "name": "NetHack",
-    "img": "/covers/NetHack.jpg"
+    "img": "./covers/NetHack.jpg"
   },
   {
     "id": 554,
     "name": "Neverwinter Nights",
-    "img": "/covers/Neverwinter Nights.jpg"
+    "img": "./covers/Neverwinter Nights.jpg"
   },
   {
     "id": 555,
     "name": "NHL",
-    "img": "/covers/NHL.jpg"
+    "img": "./covers/NHL.jpg"
   },
   {
     "id": 556,
     "name": "Nidhogg",
-    "img": "/covers/Nidhogg.jpg"
+    "img": "./covers/Nidhogg.jpg"
   },
   {
     "id": 557,
     "name": "Nier",
-    "img": "/covers/Nier.jpg"
+    "img": "./covers/Nier.jpg"
   },
   {
     "id": 558,
     "name": "Night in the Woods",
-    "img": "/covers/Night in the Woods.jpg"
+    "img": "./covers/Night in the Woods.jpg"
   },
   {
     "id": 559,
     "name": "NiGHTS into Dreams",
-    "img": "/covers/NiGHTS into Dreams.jpg"
+    "img": "./covers/NiGHTS into Dreams.jpg"
   },
   {
     "id": 560,
     "name": "Ninja Gaiden",
-    "img": "/covers/Ninja Gaiden.jpg"
+    "img": "./covers/Ninja Gaiden.jpg"
   },
   {
     "id": 561,
     "name": "Nintendogs",
-    "img": "/covers/Nintendogs.jpg"
+    "img": "./covers/Nintendogs.jpg"
   },
   {
     "id": 562,
     "name": "Nioh",
-    "img": "/covers/Nioh.jpg"
+    "img": "./covers/Nioh.jpg"
   },
   {
     "id": 563,
     "name": "No Man's Sky",
-    "img": "/covers/No Man's Sky.jpg"
+    "img": "./covers/No Man's Sky.jpg"
   },
   {
     "id": 564,
     "name": "No More Heroes",
-    "img": "/covers/No More Heroes.jpg"
+    "img": "./covers/No More Heroes.jpg"
   },
   {
     "id": 565,
     "name": "No One Lives Forever",
-    "img": "/covers/No One Lives Forever.jpg"
+    "img": "./covers/No One Lives Forever.jpg"
   },
   {
     "id": 566,
     "name": "Norco",
-    "img": "/covers/Norco.jpg"
+    "img": "./covers/Norco.jpg"
   },
   {
     "id": 567,
     "name": "Nuclear Throne",
-    "img": "/covers/Nuclear Throne.jpg"
+    "img": "./covers/Nuclear Throne.jpg"
   },
   {
     "id": 568,
     "name": "Observer",
-    "img": "/covers/Observer.jpg"
+    "img": "./covers/Observer.jpg"
   },
   {
     "id": 569,
     "name": "Octodad",
-    "img": "/covers/Octodad.jpg"
+    "img": "./covers/Octodad.jpg"
   },
   {
     "id": 570,
     "name": "Odama",
-    "img": "/covers/Odama.jpg"
+    "img": "./covers/Odama.jpg"
   },
   {
     "id": 571,
     "name": "Oddworld",
-    "img": "/covers/Oddworld.jpg"
+    "img": "./covers/Oddworld.jpg"
   },
   {
     "id": 572,
     "name": "Odin Sphere",
-    "img": "/covers/Odin Sphere.jpg"
+    "img": "./covers/Odin Sphere.jpg"
   },
   {
     "id": 573,
     "name": "OFF",
-    "img": "/covers/OFF.jpg"
+    "img": "./covers/OFF.jpg"
   },
   {
     "id": 574,
     "name": "Ogre Battle",
-    "img": "/covers/Ogre Battle.jpg"
+    "img": "./covers/Ogre Battle.jpg"
   },
   {
     "id": 575,
     "name": "Okami",
-    "img": "/covers/Okami.jpg"
+    "img": "./covers/Okami.jpg"
   },
   {
     "id": 576,
     "name": "Omori",
-    "img": "/covers/Omori.jpg"
+    "img": "./covers/Omori.jpg"
   },
   {
     "id": 577,
     "name": "OneShot",
-    "img": "/covers/OneShot.jpg"
+    "img": "./covers/OneShot.jpg"
   },
   {
     "id": 578,
     "name": "Onimusha",
-    "img": "/covers/Onimusha.jpg"
+    "img": "./covers/Onimusha.jpg"
   },
   {
     "id": 579,
     "name": "OpenTTD",
-    "img": "/covers/OpenTTD.jpg"
+    "img": "./covers/OpenTTD.jpg"
   },
   {
     "id": 580,
     "name": "Operation Flashpoint",
-    "img": "/covers/Operation Flashpoint.jpg"
+    "img": "./covers/Operation Flashpoint.jpg"
   },
   {
     "id": 581,
     "name": "Ori",
-    "img": "/covers/Ori.jpg"
+    "img": "./covers/Ori.jpg"
   },
   {
     "id": 582,
     "name": "Osu!",
-    "img": "/covers/Osu!.jpg"
+    "img": "./covers/Osu!.jpg"
   },
   {
     "id": 583,
     "name": "Nancy Drew",
-    "img": "/covers/Nancy Drew.jpg"
+    "img": "./covers/Nancy Drew.jpg"
   },
   {
     "id": 584,
     "name": "Outer Wilds",
-    "img": "/covers/Outer Wilds.jpg"
+    "img": "./covers/Outer Wilds.jpg"
   },
   {
     "id": 585,
     "name": "Outlast",
-    "img": "/covers/Outlast.jpg"
+    "img": "./covers/Outlast.jpg"
   },
   {
     "id": 586,
     "name": "OutRun",
-    "img": "/covers/OutRun.jpg"
+    "img": "./covers/OutRun.jpg"
   },
   {
     "id": 587,
     "name": "Overcooked",
-    "img": "/covers/Overcooked.jpg"
+    "img": "./covers/Overcooked.jpg"
   },
   {
     "id": 588,
     "name": "Overwatch",
-    "img": "/covers/Overwatch.jpg"
+    "img": "./covers/Overwatch.jpg"
   },
   {
     "id": 589,
     "name": "Owlboy",
-    "img": "/covers/Owlboy.jpg"
+    "img": "./covers/Owlboy.jpg"
   },
   {
     "id": 590,
     "name": "Oxenfree",
-    "img": "/covers/Oxenfree.jpg"
+    "img": "./covers/Oxenfree.jpg"
   },
   {
     "id": 591,
     "name": "Oxygen Not Included",
-    "img": "/covers/Oxygen Not Included.jpg"
+    "img": "./covers/Oxygen Not Included.jpg"
   },
   {
     "id": 592,
     "name": "Pac-Man",
-    "img": "/covers/Pac-Man.jpg"
+    "img": "./covers/Pac-Man.jpg"
   },
   {
     "id": 593,
     "name": "Painkiller",
-    "img": "/covers/Painkiller.jpg"
+    "img": "./covers/Painkiller.jpg"
   },
   {
     "id": 594,
     "name": "Pandora's Tower",
-    "img": "/covers/Pandora's Tower.jpg"
+    "img": "./covers/Pandora's Tower.jpg"
   },
   {
     "id": 595,
     "name": "Panzer Dragoon",
-    "img": "/covers/Panzer Dragoon.jpg"
+    "img": "./covers/Panzer Dragoon.jpg"
   },
   {
     "id": 596,
     "name": "Papers, Please",
-    "img": "/covers/Papers, Please.jpg"
+    "img": "./covers/Papers, Please.jpg"
   },
   {
     "id": 597,
     "name": "Paradise Killer",
-    "img": "/covers/Paradise Killer.jpg"
+    "img": "./covers/Paradise Killer.jpg"
   },
   {
     "id": 598,
     "name": "Parappa the Rapper",
-    "img": "/covers/Parappa the Rapper.jpg"
+    "img": "./covers/Parappa the Rapper.jpg"
   },
   {
     "id": 599,
     "name": "Parasite Eve",
-    "img": "/covers/Parasite Eve.jpg"
+    "img": "./covers/Parasite Eve.jpg"
   },
   {
     "id": 600,
     "name": "Parodius",
-    "img": "/covers/Parodius.jpg"
+    "img": "./covers/Parodius.jpg"
   },
   {
     "id": 601,
     "name": "Patapon",
-    "img": "/covers/Patapon.jpg"
+    "img": "./covers/Patapon.jpg"
   },
   {
     "id": 602,
     "name": "Path of Exile",
-    "img": "/covers/Path of Exile.jpg"
+    "img": "./covers/Path of Exile.jpg"
   },
   {
     "id": 603,
     "name": "Pathfinder",
-    "img": "/covers/Pathfinder.jpg"
+    "img": "./covers/Pathfinder.jpg"
   },
   {
     "id": 604,
     "name": "Pathologic",
-    "img": "/covers/Pathologic.jpg"
+    "img": "./covers/Pathologic.jpg"
   },
   {
     "id": 605,
     "name": "Payday",
-    "img": "/covers/Payday.jpg"
+    "img": "./covers/Payday.jpg"
   },
   {
     "id": 606,
     "name": "PC Building Simulator",
-    "img": "/covers/PC Building Simulator.jpg"
+    "img": "./covers/PC Building Simulator.jpg"
   },
   {
     "id": 607,
     "name": "Peglin",
-    "img": "/covers/Peglin.jpg"
+    "img": "./covers/Peglin.jpg"
   },
   {
     "id": 608,
     "name": "Pentiment",
-    "img": "/covers/Pentiment.jpg"
+    "img": "./covers/Pentiment.jpg"
   },
   {
     "id": 609,
     "name": "Penumbra",
-    "img": "/covers/Penumbra.jpg"
+    "img": "./covers/Penumbra.jpg"
   },
   {
     "id": 610,
     "name": "Perfect Dark",
-    "img": "/covers/Perfect Dark.jpg"
+    "img": "./covers/Perfect Dark.jpg"
   },
   {
     "id": 611,
     "name": "Persona",
-    "img": "/covers/Persona.jpg"
+    "img": "./covers/Persona.jpg"
   },
   {
     "id": 612,
     "name": "Pole Chudes",
-    "img": "/covers/Pole Chudes.jpg"
+    "img": "./covers/Pole Chudes.jpg"
   },
   {
     "id": 613,
     "name": "Phantasmagoria",
-    "img": "/covers/Phantasmagoria.jpg"
+    "img": "./covers/Phantasmagoria.jpg"
   },
   {
     "id": 614,
     "name": "Phantasy Star",
-    "img": "/covers/Phantasy Star.jpg"
+    "img": "./covers/Phantasy Star.jpg"
   },
   {
     "id": 615,
     "name": "Phantom Brave",
-    "img": "/covers/Phantom Brave.jpg"
+    "img": "./covers/Phantom Brave.jpg"
   },
   {
     "id": 616,
     "name": "Pharaoh",
-    "img": "/covers/Pharaoh.jpg"
+    "img": "./covers/Pharaoh.jpg"
   },
   {
     "id": 617,
     "name": "Phoenix Wright",
-    "img": "/covers/Phoenix Wright.jpg"
+    "img": "./covers/Phoenix Wright.jpg"
   },
   {
     "id": 618,
     "name": "Picross",
-    "img": "/covers/Picross.jpg"
+    "img": "./covers/Picross.jpg"
   },
   {
     "id": 619,
     "name": "Pikmin",
-    "img": "/covers/Pikmin.jpg"
+    "img": "./covers/Pikmin.jpg"
   },
   {
     "id": 620,
     "name": "Pillars of Eternity",
-    "img": "/covers/Pillars of Eternity.jpg"
+    "img": "./covers/Pillars of Eternity.jpg"
   },
   {
     "id": 621,
     "name": "Planescape",
-    "img": "/covers/Planescape.jpg"
+    "img": "./covers/Planescape.jpg"
   },
   {
     "id": 622,
     "name": "Planet Coaster",
-    "img": "/covers/Planet Coaster.jpg"
+    "img": "./covers/Planet Coaster.jpg"
   },
   {
     "id": 623,
     "name": "Planet Zoo",
-    "img": "/covers/Planet Zoo.jpg"
+    "img": "./covers/Planet Zoo.jpg"
   },
   {
     "id": 624,
     "name": "Pogostuck",
-    "img": "/covers/Pogostuck.jpg"
+    "img": "./covers/Pogostuck.jpg"
   },
   {
     "id": 625,
     "name": "Point Blank",
-    "img": "/covers/Point Blank.jpg"
+    "img": "./covers/Point Blank.jpg"
   },
   {
     "id": 626,
     "name": "Pokémon",
-    "img": "/covers/Pokémon.jpg"
+    "img": "./covers/Pokémon.jpg"
   },
   {
     "id": 627,
     "name": "This Is the Police",
-    "img": "/covers/This Is the Police.jpg"
+    "img": "./covers/This Is the Police.jpg"
   },
   {
     "id": 628,
     "name": "Police Quest",
-    "img": "/covers/Police Quest.jpg"
+    "img": "./covers/Police Quest.jpg"
   },
   {
     "id": 629,
     "name": "Disney's Chip 'n Dale Rescue Rangers",
-    "img": "/covers/Disney's Chip 'n Dale Rescue Rangers.jpg"
+    "img": "./covers/Disney's Chip 'n Dale Rescue Rangers.jpg"
   },
   {
     "id": 630,
     "name": "Policenauts",
-    "img": "/covers/Policenauts.jpg"
+    "img": "./covers/Policenauts.jpg"
   },
   {
     "id": 631,
     "name": "Pong",
-    "img": "/covers/Pong.jpg"
+    "img": "./covers/Pong.jpg"
   },
   {
     "id": 632,
     "name": "Populous",
-    "img": "/covers/Populous.jpg"
+    "img": "./covers/Populous.jpg"
   },
   {
     "id": 633,
     "name": "Portal",
-    "img": "/covers/Portal.jpg"
+    "img": "./covers/Portal.jpg"
   },
   {
     "id": 634,
     "name": "Power Stone",
-    "img": "/covers/Power Stone.jpg"
+    "img": "./covers/Power Stone.jpg"
   },
   {
     "id": 635,
     "name": "PowerWash Simulator",
-    "img": "/covers/PowerWash Simulator.jpg"
+    "img": "./covers/PowerWash Simulator.jpg"
   },
   {
     "id": 636,
     "name": "Prey",
-    "img": "/covers/Prey.jpg"
+    "img": "./covers/Prey.jpg"
   },
   {
     "id": 637,
     "name": "Prey 2017",
-    "img": "/covers/Prey 2017.jpg"
+    "img": "./covers/Prey 2017.jpg"
   },
   {
     "id": 638,
     "name": "Primal Rage",
-    "img": "/covers/Primal Rage.jpg"
+    "img": "./covers/Primal Rage.jpg"
   },
   {
     "id": 639,
     "name": "Prince of Persia",
-    "img": "/covers/Prince of Persia.jpg"
+    "img": "./covers/Prince of Persia.jpg"
   },
   {
     "id": 640,
     "name": "Prison Architect",
-    "img": "/covers/Prison Architect.jpg"
+    "img": "./covers/Prison Architect.jpg"
   },
   {
     "id": 641,
     "name": "Privateer",
-    "img": "/covers/Privateer.jpg"
+    "img": "./covers/Privateer.jpg"
   },
   {
     "id": 642,
     "name": "Pro Evolution Soccer",
-    "img": "/covers/Pro Evolution Soccer.jpg"
+    "img": "./covers/Pro Evolution Soccer.jpg"
   },
   {
     "id": 643,
     "name": "Professor Layton",
-    "img": "/covers/Professor Layton.jpg"
+    "img": "./covers/Professor Layton.jpg"
   },
   {
     "id": 644,
     "name": "Project Gotham Racing",
-    "img": "/covers/Project Gotham Racing.jpg"
+    "img": "./covers/Project Gotham Racing.jpg"
   },
   {
     "id": 645,
     "name": "Proteus",
-    "img": "/covers/Proteus.jpg"
+    "img": "./covers/Proteus.jpg"
   },
   {
     "id": 646,
     "name": "Prototype",
-    "img": "/covers/Prototype.jpg"
+    "img": "./covers/Prototype.jpg"
   },
   {
     "id": 647,
     "name": "Psi-Ops",
-    "img": "/covers/Psi-Ops.jpg"
+    "img": "./covers/Psi-Ops.jpg"
   },
   {
     "id": 648,
     "name": "Psychonauts",
-    "img": "/covers/Psychonauts.jpg"
+    "img": "./covers/Psychonauts.jpg"
   },
   {
     "id": 649,
     "name": "Pubg",
-    "img": "/covers/Pubg.jpg"
+    "img": "./covers/Pubg.jpg"
   },
   {
     "id": 650,
     "name": "Punch-Out!!",
-    "img": "/covers/Punch-Out!!.jpg"
+    "img": "./covers/Punch-Out!!.jpg"
   },
   {
     "id": 651,
     "name": "Pursuit Force",
-    "img": "/covers/Pursuit Force.jpg"
+    "img": "./covers/Pursuit Force.jpg"
   },
   {
     "id": 652,
     "name": "Puyo Puyo",
-    "img": "/covers/Puyo Puyo.jpg"
+    "img": "./covers/Puyo Puyo.jpg"
   },
   {
     "id": 653,
     "name": "Puzzle Bobble",
-    "img": "/covers/Puzzle Bobble.jpg"
+    "img": "./covers/Puzzle Bobble.jpg"
   },
   {
     "id": 654,
     "name": "Pyre",
-    "img": "/covers/Pyre.jpg"
+    "img": "./covers/Pyre.jpg"
   },
   {
     "id": 655,
     "name": "Q.U.B.E.",
-    "img": "/covers/Q.U.B.E..jpg"
+    "img": "./covers/Q.U.B.E..jpg"
   },
   {
     "id": 656,
     "name": "Qbert",
-    "img": "/covers/Qbert.jpg"
+    "img": "./covers/Qbert.jpg"
   },
   {
     "id": 657,
     "name": "Quake",
-    "img": "/covers/Quake.jpg"
+    "img": "./covers/Quake.jpg"
   },
   {
     "id": 658,
     "name": "Quantum Break",
-    "img": "/covers/Quantum Break.jpg"
+    "img": "./covers/Quantum Break.jpg"
   },
   {
     "id": 659,
     "name": "Quest for Glory",
-    "img": "/covers/Quest for Glory.jpg"
+    "img": "./covers/Quest for Glory.jpg"
   },
   {
     "id": 660,
     "name": "QWOP",
-    "img": "/covers/QWOP.jpg"
+    "img": "./covers/QWOP.jpg"
   },
   {
     "id": 661,
     "name": "R-Type",
-    "img": "/covers/R-Type.jpg"
+    "img": "./covers/R-Type.jpg"
   },
   {
     "id": 662,
     "name": "Radiant Historia",
-    "img": "/covers/Radiant Historia.jpg"
+    "img": "./covers/Radiant Historia.jpg"
   },
   {
     "id": 663,
     "name": "Radiant Silvergun",
-    "img": "/covers/Radiant Silvergun.jpg"
+    "img": "./covers/Radiant Silvergun.jpg"
   },
   {
     "id": 664,
     "name": "Ragnarok Online",
-    "img": "/covers/Ragnarok Online.jpg"
+    "img": "./covers/Ragnarok Online.jpg"
   },
   {
     "id": 665,
     "name": "Rain",
-    "img": "/covers/Rain.jpg"
+    "img": "./covers/Rain.jpg"
   },
   {
     "id": 666,
     "name": "Ratchet & Clank",
-    "img": "/covers/Ratchet & Clank.jpg"
+    "img": "./covers/Ratchet & Clank.jpg"
   },
   {
     "id": 667,
     "name": "Rayman",
-    "img": "/covers/Rayman.jpg"
+    "img": "./covers/Rayman.jpg"
   },
   {
     "id": 668,
     "name": "Realms of Arkania",
-    "img": "/covers/Realms of Arkania.jpg"
+    "img": "./covers/Realms of Arkania.jpg"
   },
   {
     "id": 669,
     "name": "Legacy of Kain",
-    "img": "/covers/Legacy of Kain.jpg"
+    "img": "./covers/Legacy of Kain.jpg"
   },
   {
     "id": 670,
     "name": "Red Dead Redemption",
-    "img": "/covers/Red Dead Redemption.jpg"
+    "img": "./covers/Red Dead Redemption.jpg"
   },
   {
     "id": 671,
     "name": "Red Faction",
-    "img": "/covers/Red Faction.jpg"
+    "img": "./covers/Red Faction.jpg"
   },
   {
     "id": 672,
     "name": "Remember Me",
-    "img": "/covers/Remember Me.jpg"
+    "img": "./covers/Remember Me.jpg"
   },
   {
     "id": 673,
     "name": "Resident Evil",
-    "img": "/covers/Resident Evil.jpg"
+    "img": "./covers/Resident Evil.jpg"
   },
   {
     "id": 674,
     "name": "Resistance",
-    "img": "/covers/Resistance.jpg"
+    "img": "./covers/Resistance.jpg"
   },
   {
     "id": 675,
     "name": "Return of the Obra Dinn",
-    "img": "/covers/Return of the Obra Dinn.jpg"
+    "img": "./covers/Return of the Obra Dinn.jpg"
   },
   {
     "id": 676,
     "name": "ZombiU",
-    "img": "/covers/Return to Castle Wolfenstein.jpg"
+    "img": "./covers/Return to Castle Wolfenstein.jpg"
   },
   {
     "id": 677,
     "name": "Rez",
-    "img": "/covers/Rez.jpg"
+    "img": "./covers/Rez.jpg"
   },
   {
     "id": 678,
     "name": "Rhythm Heaven",
-    "img": "/covers/Rhythm Heaven.jpg"
+    "img": "./covers/Rhythm Heaven.jpg"
   },
   {
     "id": 679,
     "name": "Ridge Racer",
-    "img": "/covers/Ridge Racer.jpg"
+    "img": "./covers/Ridge Racer.jpg"
   },
   {
     "id": 680,
     "name": "Rime",
-    "img": "/covers/Rime.jpg"
+    "img": "./covers/Rime.jpg"
   },
   {
     "id": 681,
     "name": "RimWorld",
-    "img": "/covers/RimWorld.jpg"
+    "img": "./covers/RimWorld.jpg"
   },
   {
     "id": 682,
     "name": "Rise of the Triad",
-    "img": "/covers/Rise of the Triad.jpg"
+    "img": "./covers/Rise of the Triad.jpg"
   },
   {
     "id": 683,
     "name": "Risen",
-    "img": "/covers/Risen.jpg"
+    "img": "./covers/Risen.jpg"
   },
   {
     "id": 684,
     "name": "Risk of Rain",
-    "img": "/covers/Risk of Rain.jpg"
+    "img": "./covers/Risk of Rain.jpg"
   },
   {
     "id": 685,
     "name": "Ristar",
-    "img": "/covers/Ristar.jpg"
+    "img": "./covers/Ristar.jpg"
   },
   {
     "id": 686,
     "name": "Rival Schools",
-    "img": "/covers/Rival Schools.jpg"
+    "img": "./covers/Rival Schools.jpg"
   },
   {
     "id": 687,
     "name": "Riven",
-    "img": "/covers/Riven.jpg"
+    "img": "./covers/Riven.jpg"
   },
   {
     "id": 688,
     "name": "River City Ransom",
-    "img": "/covers/River City Ransom.jpg"
+    "img": "./covers/River City Ransom.jpg"
   },
   {
     "id": 689,
     "name": "Road 96",
-    "img": "/covers/Road 96.jpg"
+    "img": "./covers/Road 96.jpg"
   },
   {
     "id": 690,
     "name": "Roadwarden",
-    "img": "/covers/Roadwarden.jpg"
+    "img": "./covers/Roadwarden.jpg"
   },
   {
     "id": 691,
     "name": "Roblox",
-    "img": "/covers/Roblox.jpg"
+    "img": "./covers/Roblox.jpg"
   },
   {
     "id": 692,
     "name": "Rock Band",
-    "img": "/covers/Rock Band.jpg"
+    "img": "./covers/Rock Band.jpg"
   },
   {
     "id": 693,
     "name": "Rocket League",
-    "img": "/covers/Rocket League.jpg"
+    "img": "./covers/Rocket League.jpg"
   },
   {
     "id": 694,
     "name": "Rogue",
-    "img": "/covers/Rogue.jpg"
+    "img": "./covers/Rogue.jpg"
   },
   {
     "id": 695,
     "name": "Rogue Legacy",
-    "img": "/covers/Rogue Legacy.jpg"
+    "img": "./covers/Rogue Legacy.jpg"
   },
   {
     "id": 696,
     "name": "RollerCoaster Tycoon",
-    "img": "/covers/RollerCoaster Tycoon.jpg"
+    "img": "./covers/RollerCoaster Tycoon.jpg"
   },
   {
     "id": 697,
     "name": "Root Letter",
-    "img": "/covers/Root Letter.jpg"
+    "img": "./covers/Root Letter.jpg"
   },
   {
     "id": 698,
     "name": "Rule of Rose",
-    "img": "/covers/Rule of Rose.jpg"
+    "img": "./covers/Rule of Rose.jpg"
   },
   {
     "id": 699,
     "name": "Rune Factory",
-    "img": "/covers/Rune Factory.jpg"
+    "img": "./covers/Rune Factory.jpg"
   },
   {
     "id": 700,
     "name": "Runescape",
-    "img": "/covers/Runescape.jpg"
+    "img": "./covers/Runescape.jpg"
   },
   {
     "id": 701,
     "name": "Rust",
-    "img": "/covers/Rust.jpg"
+    "img": "./covers/Rust.jpg"
   },
   {
     "id": 702,
     "name": "S.T.A.L.K.E.R.",
-    "img": "/covers/S.T.A.L.K.E.R..jpg"
+    "img": "./covers/S.T.A.L.K.E.R..jpg"
   },
   {
     "id": 703,
     "name": "Sable",
-    "img": "/covers/Sable.jpg"
+    "img": "./covers/Sable.jpg"
   },
   {
     "id": 704,
     "name": "Sacred",
-    "img": "/covers/Sacred.jpg"
+    "img": "./covers/Sacred.jpg"
   },
   {
     "id": 705,
     "name": "Days Gone",
-    "img": "/covers/Days Gone.jpg"
+    "img": "./covers/Days Gone.jpg"
   },
   {
     "id": 706,
     "name": "Saints Row",
-    "img": "/covers/Saints Row.jpg"
+    "img": "./covers/Saints Row.jpg"
   },
   {
     "id": 707,
     "name": "Sally Face",
-    "img": "/covers/Sally Face.jpg"
+    "img": "./covers/Sally Face.jpg"
   },
   {
     "id": 708,
     "name": "Sam & Max",
-    "img": "/covers/Sam & Max.jpg"
+    "img": "./covers/Sam & Max.jpg"
   },
   {
     "id": 709,
     "name": "Samorost",
-    "img": "/covers/Samorost.jpg"
+    "img": "./covers/Samorost.jpg"
   },
   {
     "id": 710,
     "name": "Samurai Shodown",
-    "img": "/covers/Samurai Shodown.jpg"
+    "img": "./covers/Samurai Shodown.jpg"
   },
   {
     "id": 711,
     "name": "Sanitarium",
-    "img": "/covers/Sanitarium.jpg"
+    "img": "./covers/Sanitarium.jpg"
   },
   {
     "id": 712,
     "name": "Satisfactory",
-    "img": "/covers/Satisfactory.jpg"
+    "img": "./covers/Satisfactory.jpg"
   },
   {
     "id": 713,
     "name": "Sayonara Wild Hearts",
-    "img": "/covers/Sayonara Wild Hearts.jpg"
+    "img": "./covers/Sayonara Wild Hearts.jpg"
   },
   {
     "id": 714,
     "name": "Sea of Stars",
-    "img": "/covers/Sea of Stars.jpg"
+    "img": "./covers/Sea of Stars.jpg"
   },
   {
     "id": 715,
     "name": "Sea of Thieves",
-    "img": "/covers/Sea of Thieves.jpg"
+    "img": "./covers/Sea of Thieves.jpg"
   },
   {
     "id": 716,
     "name": "Seaman",
-    "img": "/covers/Seaman.jpg"
+    "img": "./covers/Seaman.jpg"
   },
   {
     "id": 717,
     "name": "Second Life",
-    "img": "/covers/Second Life.jpg"
+    "img": "./covers/Second Life.jpg"
   },
   {
     "id": 718,
     "name": "Second Sight",
-    "img": "/covers/Second Sight.jpg"
+    "img": "./covers/Second Sight.jpg"
   },
   {
     "id": 719,
     "name": "Secret of Mana",
-    "img": "/covers/Secret of Mana.jpg"
+    "img": "./covers/Secret of Mana.jpg"
   },
   {
     "id": 720,
     "name": "Sega Rally",
-    "img": "/covers/Sega Rally.jpg"
+    "img": "./covers/Sega Rally.jpg"
   },
   {
     "id": 721,
     "name": "Sekiro",
-    "img": "/covers/Sekiro.jpg"
+    "img": "./covers/Sekiro.jpg"
   },
   {
     "id": 722,
     "name": "Sengoku",
-    "img": "/covers/Sengoku.jpg"
+    "img": "./covers/Sengoku.jpg"
   },
   {
     "id": 723,
     "name": "Serious Sam",
-    "img": "/covers/Serious Sam.jpg"
+    "img": "./covers/Serious Sam.jpg"
   },
   {
     "id": 724,
     "name": "Shadow Man",
-    "img": "/covers/Shadow Man.jpg"
+    "img": "./covers/Shadow Man.jpg"
   },
   {
     "id": 725,
     "name": "Shadow of the Colossus",
-    "img": "/covers/Shadow of the Colossus.jpg"
+    "img": "./covers/Shadow of the Colossus.jpg"
   },
   {
     "id": 726,
     "name": "Shadow Tactics",
-    "img": "/covers/Shadow Tactics.jpg"
+    "img": "./covers/Shadow Tactics.jpg"
   },
   {
     "id": 727,
     "name": "Shadow Warrior",
-    "img": "/covers/Shadow Warrior.jpg"
+    "img": "./covers/Shadow Warrior.jpg"
   },
   {
     "id": 728,
     "name": "Shadows of the Damned",
-    "img": "/covers/Shadows of the Damned.jpg"
+    "img": "./covers/Shadows of the Damned.jpg"
   },
   {
     "id": 729,
     "name": "Shenmue",
-    "img": "/covers/Shenmue.jpg"
+    "img": "./covers/Shenmue.jpg"
   },
   {
     "id": 730,
     "name": "Shin Megami Tensei",
-    "img": "/covers/Shin Megami Tensei.jpg"
+    "img": "./covers/Shin Megami Tensei.jpg"
   },
   {
     "id": 731,
     "name": "Shining Force",
-    "img": "/covers/Shining Force.jpg"
+    "img": "./covers/Shining Force.jpg"
   },
   {
     "id": 732,
     "name": "Shining in the Darkness",
-    "img": "/covers/Shining in the Darkness.jpg"
+    "img": "./covers/Shining in the Darkness.jpg"
   },
   {
     "id": 733,
     "name": "Shinobi",
-    "img": "/covers/Shinobi.jpg"
+    "img": "./covers/Shinobi.jpg"
   },
   {
     "id": 734,
     "name": "Shiren the Wanderer",
-    "img": "/covers/Shiren the Wanderer.jpg"
+    "img": "./covers/Shiren the Wanderer.jpg"
   },
   {
     "id": 735,
     "name": "Shovel Knight",
-    "img": "/covers/Shovel Knight.jpg"
+    "img": "./covers/Shovel Knight.jpg"
   },
   {
     "id": 736,
     "name": "Signalis",
-    "img": "/covers/Signalis.jpg"
+    "img": "./covers/Signalis.jpg"
   },
   {
     "id": 737,
     "name": "Silent Hill",
-    "img": "/covers/Silent Hill.jpg"
+    "img": "./covers/Silent Hill.jpg"
   },
   {
     "id": 738,
     "name": "Silent Hunter",
-    "img": "/covers/Silent Hunter.jpg"
+    "img": "./covers/Silent Hunter.jpg"
   },
   {
     "id": 739,
     "name": "Silent Scope",
-    "img": "/covers/Silent Scope.jpg"
+    "img": "./covers/Silent Scope.jpg"
   },
   {
     "id": 740,
     "name": "SimCity",
-    "img": "/covers/SimCity.jpg"
+    "img": "./covers/SimCity.jpg"
   },
   {
     "id": 741,
     "name": "Simon the Sorcerer",
-    "img": "/covers/Simon the Sorcerer.jpg"
+    "img": "./covers/Simon the Sorcerer.jpg"
   },
   {
     "id": 742,
     "name": "Singularity",
-    "img": "/covers/Singularity.jpg"
+    "img": "./covers/Singularity.jpg"
   },
   {
     "id": 743,
     "name": "Sins of a Solar Empire",
-    "img": "/covers/Sins of a Solar Empire.jpg"
+    "img": "./covers/Sins of a Solar Empire.jpg"
   },
   {
     "id": 744,
     "name": "Siren",
-    "img": "/covers/Siren.jpg"
+    "img": "./covers/Siren.jpg"
   },
   {
     "id": 745,
     "name": "Sirens",
-    "img": "/covers/Sirens.jpg"
+    "img": "./covers/Sirens.jpg"
   },
   {
     "id": 746,
     "name": "Skate",
-    "img": "/covers/Skate.jpg"
+    "img": "./covers/Skate.jpg"
   },
   {
     "id": 747,
     "name": "Skies of Arcadia",
-    "img": "/covers/Skies of Arcadia.jpg"
+    "img": "./covers/Skies of Arcadia.jpg"
   },
   {
     "id": 748,
     "name": "Skullgirls",
-    "img": "/covers/Skullgirls.jpg"
+    "img": "./covers/Skullgirls.jpg"
   },
   {
     "id": 749,
     "name": "Skullmonkeys",
-    "img": "/covers/Skullmonkeys.jpg"
+    "img": "./covers/Skullmonkeys.jpg"
   },
   {
     "id": 750,
     "name": "Sky Rogue",
-    "img": "/covers/Sky Rogue.jpg"
+    "img": "./covers/Sky Rogue.jpg"
   },
   {
     "id": 751,
     "name": "Slay the Spire",
-    "img": "/covers/Slay the Spire.jpg"
+    "img": "./covers/Slay the Spire.jpg"
   },
   {
     "id": 752,
     "name": "Sleeping Dogs",
-    "img": "/covers/Sleeping Dogs.jpg"
+    "img": "./covers/Sleeping Dogs.jpg"
   },
   {
     "id": 753,
     "name": "Sly Cooper",
-    "img": "/covers/Sly Cooper.jpg"
+    "img": "./covers/Sly Cooper.jpg"
   },
   {
     "id": 754,
     "name": "Snatcher",
-    "img": "/covers/Snatcher.jpg"
+    "img": "./covers/Snatcher.jpg"
   },
   {
     "id": 755,
     "name": "Soccer Kid",
-    "img": "/covers/Soccer Kid.jpg"
+    "img": "./covers/Soccer Kid.jpg"
   },
   {
     "id": 756,
     "name": "SOCOM",
-    "img": "/covers/SOCOM.jpg"
+    "img": "./covers/SOCOM.jpg"
   },
   {
     "id": 757,
     "name": "Solar Ash",
-    "img": "/covers/Solar Ash.jpg"
+    "img": "./covers/Solar Ash.jpg"
   },
   {
     "id": 758,
     "name": "Soma",
-    "img": "/covers/Soma.jpg"
+    "img": "./covers/Soma.jpg"
   },
   {
     "id": 759,
     "name": "Sonic Riders",
-    "img": "/covers/Sonic Riders.jpg"
+    "img": "./covers/Sonic Riders.jpg"
   },
   {
     "id": 760,
     "name": "Sonic the Hedgehog",
-    "img": "/covers/Sonic the Hedgehog.jpg"
+    "img": "./covers/Sonic the Hedgehog.jpg"
   },
   {
     "id": 761,
     "name": "Murdered Soul Suspect",
-    "img": "/covers/Murdered Soul Suspect.jpg"
+    "img": "./covers/Murdered Soul Suspect.jpg"
   },
   {
     "id": 762,
     "name": "Soul Blazer",
-    "img": "/covers/Soul Blazer.jpg"
+    "img": "./covers/Soul Blazer.jpg"
   },
   {
     "id": 763,
     "name": "Soul Edge",
-    "img": "/covers/Soul Edge.jpg"
+    "img": "./covers/Soul Edge.jpg"
   },
   {
     "id": 764,
     "name": "Soulcalibur",
-    "img": "/covers/Soulcalibur.jpg"
+    "img": "./covers/Soulcalibur.jpg"
   },
   {
     "id": 765,
     "name": "Space Channel 5",
-    "img": "/covers/Space Channel 5.jpg"
+    "img": "./covers/Space Channel 5.jpg"
   },
   {
     "id": 766,
     "name": "Space Engineers",
-    "img": "/covers/Space Engineers.jpg"
+    "img": "./covers/Space Engineers.jpg"
   },
   {
     "id": 767,
     "name": "Space Harrier",
-    "img": "/covers/Space Harrier.jpg"
+    "img": "./covers/Space Harrier.jpg"
   },
   {
     "id": 768,
     "name": "Space Invaders",
-    "img": "/covers/Space Invaders.jpg"
+    "img": "./covers/Space Invaders.jpg"
   },
   {
     "id": 769,
     "name": "Space Quest",
-    "img": "/covers/Space Quest.jpg"
+    "img": "./covers/Space Quest.jpg"
   },
   {
     "id": 770,
     "name": "Spec Ops The Line",
-    "img": "/covers/Spec Ops The Line.jpg"
+    "img": "./covers/Spec Ops The Line.jpg"
   },
   {
     "id": 771,
     "name": "Spelunky",
-    "img": "/covers/Spelunky.jpg"
+    "img": "./covers/Spelunky.jpg"
   },
   {
     "id": 772,
     "name": "Spider-Man",
-    "img": "/covers/Spider-Man.jpg"
+    "img": "./covers/Spider-Man.jpg"
   },
   {
     "id": 773,
     "name": "Spiritfarer",
-    "img": "/covers/Spiritfarer.jpg"
+    "img": "./covers/Spiritfarer.jpg"
   },
   {
     "id": 774,
     "name": "Splatoon",
-    "img": "/covers/Splatoon.jpg"
+    "img": "./covers/Splatoon.jpg"
   },
   {
     "id": 775,
     "name": "Split Second",
-    "img": "/covers/Split Second.jpg"
+    "img": "./covers/Split Second.jpg"
   },
   {
     "id": 776,
     "name": "Spore",
-    "img": "/covers/Spore.jpg"
+    "img": "./covers/Spore.jpg"
   },
   {
     "id": 777,
     "name": "SSX",
-    "img": "/covers/SSX.jpg"
+    "img": "./covers/SSX.jpg"
   },
   {
     "id": 778,
     "name": "Star Citizen",
-    "img": "/covers/Star Citizen.jpg"
+    "img": "./covers/Star Citizen.jpg"
   },
   {
     "id": 779,
     "name": "Star Control",
-    "img": "/covers/Star Control.jpg"
+    "img": "./covers/Star Control.jpg"
   },
   {
     "id": 780,
     "name": "Earthworm Jim",
-    "img": "/covers/Earthworm Jim.jpg"
+    "img": "./covers/Earthworm Jim.jpg"
   },
   {
     "id": 781,
     "name": "Star Fox",
-    "img": "/covers/Star Fox.jpg"
+    "img": "./covers/Star Fox.jpg"
   },
   {
     "id": 782,
     "name": "Star Ocean",
-    "img": "/covers/Star Ocean.jpg"
+    "img": "./covers/Star Ocean.jpg"
   },
   {
     "id": 783,
     "name": "Star Wars Battlefront",
-    "img": "/covers/Star Wars Battlefront.jpg"
+    "img": "./covers/Star Wars Battlefront.jpg"
   },
   {
     "id": 784,
     "name": "Star Wars Dark Forces",
-    "img": "/covers/Star Wars Dark Forces.jpg"
+    "img": "./covers/Star Wars Dark Forces.jpg"
   },
   {
     "id": 785,
     "name": "Star Wars Empire at War",
-    "img": "/covers/Star Wars Empire at War.jpg"
+    "img": "./covers/Star Wars Empire at War.jpg"
   },
   {
     "id": 786,
     "name": "Star Wars Jedi",
-    "img": "/covers/Star Wars Jedi.jpg"
+    "img": "./covers/Star Wars Jedi.jpg"
   },
   {
     "id": 787,
     "name": "Star Wars Knights of the Old Republic",
-    "img": "/covers/Star Wars Knights of the Old Republic.jpg"
+    "img": "./covers/Star Wars Knights of the Old Republic.jpg"
   },
   {
     "id": 788,
     "name": "Star Wars Rogue Squadron",
-    "img": "/covers/Star Wars Rogue Squadron.jpg"
+    "img": "./covers/Star Wars Rogue Squadron.jpg"
   },
   {
     "id": 789,
     "name": "Star Wars The Old Republic",
-    "img": "/covers/Star Wars The Old Republic.jpg"
+    "img": "./covers/Star Wars The Old Republic.jpg"
   },
   {
     "id": 790,
     "name": "Starbound",
-    "img": "/covers/Starbound.jpg"
+    "img": "./covers/Starbound.jpg"
   },
   {
     "id": 791,
     "name": "StarCraft",
-    "img": "/covers/StarCraft.jpg"
+    "img": "./covers/StarCraft.jpg"
   },
   {
     "id": 792,
     "name": "Stardew Valley",
-    "img": "/covers/Stardew Valley.jpg"
+    "img": "./covers/Stardew Valley.jpg"
   },
   {
     "id": 793,
     "name": "Steel Battalion",
-    "img": "/covers/Steel Battalion.jpg"
+    "img": "./covers/Steel Battalion.jpg"
   },
   {
     "id": 794,
     "name": "Steins;Gate",
-    "img": "/covers/Steins;Gate.jpg"
+    "img": "./covers/Steins;Gate.jpg"
   },
   {
     "id": 795,
     "name": "Stellaris",
-    "img": "/covers/Stellaris.jpg"
+    "img": "./covers/Stellaris.jpg"
   },
   {
     "id": 796,
     "name": "Still Life",
-    "img": "/covers/Still Life.jpg"
+    "img": "./covers/Still Life.jpg"
   },
   {
     "id": 797,
     "name": "Street Fighter",
-    "img": "/covers/Street Fighter.jpg"
+    "img": "./covers/Street Fighter.jpg"
   },
   {
     "id": 798,
     "name": "Streets of Rage",
-    "img": "/covers/Streets of Rage.jpg"
+    "img": "./covers/Streets of Rage.jpg"
   },
   {
     "id": 799,
     "name": "Strider",
-    "img": "/covers/Strider.jpg"
+    "img": "./covers/Strider.jpg"
   },
   {
     "id": 800,
     "name": "Stronghold",
-    "img": "/covers/Stronghold.jpg"
+    "img": "./covers/Stronghold.jpg"
   },
   {
     "id": 801,
     "name": "Stubbs the Zombie",
-    "img": "/covers/Stubbs the Zombie.jpg"
+    "img": "./covers/Stubbs the Zombie.jpg"
   },
   {
     "id": 802,
     "name": "Subnautica",
-    "img": "/covers/Subnautica.jpg"
+    "img": "./covers/Subnautica.jpg"
   },
   {
     "id": 803,
     "name": "Suffering",
-    "img": "/covers/Suffering.jpg"
+    "img": "./covers/Suffering.jpg"
   },
   {
     "id": 804,
     "name": "Suikoden",
-    "img": "/covers/Suikoden.jpg"
+    "img": "./covers/Suikoden.jpg"
   },
   {
     "id": 805,
     "name": "Sunless Sea",
-    "img": "/covers/Sunless Sea.jpg"
+    "img": "./covers/Sunless Sea.jpg"
   },
   {
     "id": 806,
     "name": "Afrika",
-    "img": "/covers/Afrika.jpg"
+    "img": "./covers/Afrika.jpg"
   },
   {
     "id": 807,
     "name": "Super Hexagon",
-    "img": "/covers/Super Hexagon.jpg"
+    "img": "./covers/Super Hexagon.jpg"
   },
   {
     "id": 808,
     "name": "Super Mario",
-    "img": "/covers/Super Mario.jpg"
+    "img": "./covers/Super Mario.jpg"
   },
   {
     "id": 809,
     "name": "Super Meat Boy",
-    "img": "/covers/Super Meat Boy.jpg"
+    "img": "./covers/Super Meat Boy.jpg"
   },
   {
     "id": 810,
     "name": "Super Smash Bros.",
-    "img": "/covers/Super Smash Bros..jpg"
+    "img": "./covers/Super Smash Bros..jpg"
   },
   {
     "id": 811,
     "name": "Supreme Commander",
-    "img": "/covers/Supreme Commander.jpg"
+    "img": "./covers/Supreme Commander.jpg"
   },
   {
     "id": 812,
     "name": "Surgeon Simulator",
-    "img": "/covers/Surgeon Simulator.jpg"
+    "img": "./covers/Surgeon Simulator.jpg"
   },
   {
     "id": 813,
     "name": "Surviving Mars",
-    "img": "/covers/Surviving Mars.jpg"
+    "img": "./covers/Surviving Mars.jpg"
   },
   {
     "id": 814,
     "name": "SWAT",
-    "img": "/covers/SWAT.jpg"
+    "img": "./covers/SWAT.jpg"
   },
   {
     "id": 815,
     "name": "Syberia",
-    "img": "/covers/Syberia.jpg"
+    "img": "./covers/Syberia.jpg"
   },
   {
     "id": 816,
     "name": "Syphon Filter",
-    "img": "/covers/Syphon Filter.jpg"
+    "img": "./covers/Syphon Filter.jpg"
   },
   {
     "id": 817,
     "name": "System Shock",
-    "img": "/covers/System Shock.jpg"
+    "img": "./covers/System Shock.jpg"
   },
   {
     "id": 818,
     "name": "Tactics Ogre",
-    "img": "/covers/Tactics Ogre.jpg"
+    "img": "./covers/Tactics Ogre.jpg"
   },
   {
     "id": 819,
     "name": "Taiko no Tatsujin",
-    "img": "/covers/Taiko no Tatsujin.jpg"
+    "img": "./covers/Taiko no Tatsujin.jpg"
   },
   {
     "id": 820,
     "name": "The Bard’s Tale",
-    "img": "/covers/Tales.jpg"
+    "img": "./covers/Tales.jpg"
   },
   {
     "id": 821,
     "name": "Tales of Symphonia",
-    "img": "/covers/Tales of Symphonia.jpg"
+    "img": "./covers/Tales of Symphonia.jpg"
   },
   {
     "id": 822,
     "name": "Robin Hood",
-    "img": "/covers/Robin Hood.jpg"
+    "img": "./covers/Robin Hood.jpg"
   },
   {
     "id": 823,
     "name": "Team Fortress",
-    "img": "/covers/Team Fortress.jpg"
+    "img": "./covers/Team Fortress.jpg"
   },
   {
     "id": 824,
     "name": "Tearaway",
-    "img": "/covers/Tearaway.jpg"
+    "img": "./covers/Tearaway.jpg"
   },
   {
     "id": 825,
     "name": "Tekken",
-    "img": "/covers/Tekken.jpg"
+    "img": "./covers/Tekken.jpg"
   },
   {
     "id": 826,
     "name": "The Walking Dead",
-    "img": "/covers/The Walking Dead.jpg"
+    "img": "./covers/The Walking Dead.jpg"
   },
   {
     "id": 827,
     "name": "Tenchu",
-    "img": "/covers/Tenchu.jpg"
+    "img": "./covers/Tenchu.jpg"
   },
   {
     "id": 828,
     "name": "Terranigma",
-    "img": "/covers/Terranigma.jpg"
+    "img": "./covers/Terranigma.jpg"
   },
   {
     "id": 829,
     "name": "Terraria",
-    "img": "/covers/Terraria.jpg"
+    "img": "./covers/Terraria.jpg"
   },
   {
     "id": 830,
     "name": "Test Drive",
-    "img": "/covers/Test Drive.jpg"
+    "img": "./covers/Test Drive.jpg"
   },
   {
     "id": 831,
     "name": "Tetris",
-    "img": "/covers/Tetris.jpg"
+    "img": "./covers/Tetris.jpg"
   },
   {
     "id": 832,
     "name": "Tetris Effect",
-    "img": "/covers/Tetris Effect.jpg"
+    "img": "./covers/Tetris Effect.jpg"
   },
   {
     "id": 833,
     "name": "Tex Murphy",
-    "img": "/covers/Tex Murphy.jpg"
+    "img": "./covers/Tex Murphy.jpg"
   },
   {
     "id": 834,
     "name": "The 11th Hour",
-    "img": "/covers/The 11th Hour.jpg"
+    "img": "./covers/The 11th Hour.jpg"
   },
   {
     "id": 835,
     "name": "The 3rd Birthday",
-    "img": "/covers/The 3rd Birthday.jpg"
+    "img": "./covers/The 3rd Birthday.jpg"
   },
   {
     "id": 836,
     "name": "The 7th Guest",
-    "img": "/covers/The 7th Guest.jpg"
+    "img": "./covers/The 7th Guest.jpg"
   },
   {
     "id": 837,
     "name": "The Alliance Alive",
-    "img": "/covers/The Alliance Alive.jpg"
+    "img": "./covers/The Alliance Alive.jpg"
   },
   {
     "id": 838,
     "name": "The Battle for Middle-earth",
-    "img": "/covers/The Battle for Middle-earth.jpg"
+    "img": "./covers/The Battle for Middle-earth.jpg"
   },
   {
     "id": 839,
     "name": "The Beginner's Guide",
-    "img": "/covers/The Beginner's Guide.jpg"
+    "img": "./covers/The Beginner's Guide.jpg"
   },
   {
     "id": 840,
     "name": "The Binding of Isaac",
-    "img": "/covers/The Binding of Isaac.jpg"
+    "img": "./covers/The Binding of Isaac.jpg"
   },
   {
     "id": 841,
     "name": "The Black Mirror",
-    "img": "/covers/The Black Mirror.jpg"
+    "img": "./covers/The Black Mirror.jpg"
   },
   {
     "id": 842,
     "name": "The Caligula Effect",
-    "img": "/covers/The Caligula Effect.jpg"
+    "img": "./covers/The Caligula Effect.jpg"
   },
   {
     "id": 843,
     "name": "The Case of the Golden Idol",
-    "img": "/covers/The Case of the Golden Idol.jpg"
+    "img": "./covers/The Case of the Golden Idol.jpg"
   },
   {
     "id": 844,
     "name": "The Cat Lady",
-    "img": "/covers/The Cat Lady.jpg"
+    "img": "./covers/The Cat Lady.jpg"
   },
   {
     "id": 845,
     "name": "The Cave",
-    "img": "/covers/The Cave.jpg"
+    "img": "./covers/The Cave.jpg"
   },
   {
     "id": 846,
     "name": "The Chronicles of Riddick",
-    "img": "/covers/The Chronicles of Riddick.jpg"
+    "img": "./covers/The Chronicles of Riddick.jpg"
   },
   {
     "id": 847,
     "name": "The Dark Eye",
-    "img": "/covers/The Dark Eye.jpg"
+    "img": "./covers/The Dark Eye.jpg"
   },
   {
     "id": 848,
     "name": "The Darkness",
-    "img": "/covers/The Darkness.jpg"
+    "img": "./covers/The Darkness.jpg"
   },
   {
     "id": 849,
     "name": "The Dig",
-    "img": "/covers/The Dig.jpg"
+    "img": "./covers/The Dig.jpg"
   },
   {
     "id": 850,
     "name": "The Division",
-    "img": "/covers/The Division.jpg"
+    "img": "./covers/The Division.jpg"
   },
   {
     "id": 851,
     "name": "The Elder Scrolls",
-    "img": "/covers/The Elder Scrolls.jpg"
+    "img": "./covers/The Elder Scrolls.jpg"
   },
   {
     "id": 852,
     "name": "The Elder Scrolls Online",
-    "img": "/covers/The Elder Scrolls Online.jpg"
+    "img": "./covers/The Elder Scrolls Online.jpg"
   },
   {
     "id": 853,
     "name": "The Escapists",
-    "img": "/covers/The Escapists.jpg"
+    "img": "./covers/The Escapists.jpg"
   },
   {
     "id": 854,
     "name": "The Evil Within",
-    "img": "/covers/The Evil Within.jpg"
+    "img": "./covers/The Evil Within.jpg"
   },
   {
     "id": 855,
     "name": "The Excavation of Hob's Barrow",
-    "img": "/covers/The Excavation of Hob's Barrow.jpg"
+    "img": "./covers/The Excavation of Hob's Barrow.jpg"
   },
   {
     "id": 856,
     "name": "The Forest",
-    "img": "/covers/The Forest.jpg"
+    "img": "./covers/The Forest.jpg"
   },
   {
     "id": 857,
     "name": "The Forgotten City",
-    "img": "/covers/The Forgotten City.jpg"
+    "img": "./covers/The Forgotten City.jpg"
   },
   {
     "id": 858,
     "name": "The House in Fata Morgana",
-    "img": "/covers/The House in Fata Morgana.jpg"
+    "img": "./covers/The House in Fata Morgana.jpg"
   },
   {
     "id": 859,
     "name": "The Incredible Machine",
-    "img": "/covers/The Incredible Machine.jpg"
+    "img": "./covers/The Incredible Machine.jpg"
   },
   {
     "id": 860,
     "name": "The King of Fighters",
-    "img": "/covers/The King of Fighters.jpg"
+    "img": "./covers/The King of Fighters.jpg"
   },
   {
     "id": 861,
     "name": "The Last Blade",
-    "img": "/covers/The Last Blade.jpg"
+    "img": "./covers/The Last Blade.jpg"
   },
   {
     "id": 862,
     "name": "The Last Door",
-    "img": "/covers/The Last Door.jpg"
+    "img": "./covers/The Last Door.jpg"
   },
   {
     "id": 863,
     "name": "The Last Guardian",
-    "img": "/covers/The Last Guardian.jpg"
+    "img": "./covers/The Last Guardian.jpg"
   },
   {
     "id": 864,
     "name": "The Last of Us",
-    "img": "/covers/The Last of Us.jpg"
+    "img": "./covers/The Last of Us.jpg"
   },
   {
     "id": 865,
     "name": "The Last Story",
-    "img": "/covers/The Last Story.jpg"
+    "img": "./covers/The Last Story.jpg"
   },
   {
     "id": 866,
     "name": "The Legend of Heroes",
-    "img": "/covers/The Legend of Heroes.jpg"
+    "img": "./covers/The Legend of Heroes.jpg"
   },
   {
     "id": 867,
     "name": "The Legend of Zelda",
-    "img": "/covers/The Legend of Zelda.jpg"
+    "img": "./covers/The Legend of Zelda.jpg"
   },
   {
     "id": 868,
     "name": "The Long Dark",
-    "img": "/covers/The Long Dark.jpg"
+    "img": "./covers/The Long Dark.jpg"
   },
   {
     "id": 869,
     "name": "The Longest Journey",
-    "img": "/covers/The Longest Journey.jpg"
+    "img": "./covers/The Longest Journey.jpg"
   },
   {
     "id": 870,
     "name": "The Lord of the Rings Online",
-    "img": "/covers/The Lord of the Rings Online.jpg"
+    "img": "./covers/The Lord of the Rings Online.jpg"
   },
   {
     "id": 871,
     "name": "The Messenger",
-    "img": "/covers/The Messenger.jpg"
+    "img": "./covers/The Messenger.jpg"
   },
   {
     "id": 872,
     "name": "The Mortuary Assistant",
-    "img": "/covers/The Mortuary Assistant.jpg"
+    "img": "./covers/The Mortuary Assistant.jpg"
   },
   {
     "id": 873,
     "name": "The Neverhood",
-    "img": "/covers/The Neverhood.jpg"
+    "img": "./covers/The Neverhood.jpg"
   },
   {
     "id": 874,
     "name": "The Order 1886",
-    "img": "/covers/The Order 1886.jpg"
+    "img": "./covers/The Order 1886.jpg"
   },
   {
     "id": 875,
     "name": "The Outer Worlds",
-    "img": "/covers/The Outer Worlds.jpg"
+    "img": "./covers/The Outer Worlds.jpg"
   },
   {
     "id": 876,
     "name": "The Pandora Directive",
-    "img": "/covers/The Pandora Directive.jpg"
+    "img": "./covers/The Pandora Directive.jpg"
   },
   {
     "id": 877,
     "name": "The Path",
-    "img": "/covers/The Path.jpg"
+    "img": "./covers/The Path.jpg"
   },
   {
     "id": 878,
     "name": "The Pathless",
-    "img": "/covers/The Pathless.jpg"
+    "img": "./covers/The Pathless.jpg"
   },
   {
     "id": 879,
     "name": "The Red Strings Club",
-    "img": "/covers/The Red Strings Club.jpg"
+    "img": "./covers/The Red Strings Club.jpg"
   },
   {
     "id": 880,
     "name": "Marc Ecko's Getting Up",
-    "img": "/covers/Marc Ecko's Getting Up.jpg"
+    "img": "./covers/Marc Ecko's Getting Up.jpg"
   },
   {
     "id": 881,
     "name": "The Roottrees are Dead",
-    "img": "/covers/The Roottrees are Dead.jpg"
+    "img": "./covers/The Roottrees are Dead.jpg"
   },
   {
     "id": 882,
     "name": "The Saboteur",
-    "img": "/covers/The Saboteur.jpg"
+    "img": "./covers/The Saboteur.jpg"
   },
   {
     "id": 883,
     "name": "Inquisitor",
-    "img": "/covers/Inquisitor.jpg"
+    "img": "./covers/Inquisitor.jpg"
   },
   {
     "id": 884,
     "name": "The Settlers",
-    "img": "/covers/The Settlers.jpg"
+    "img": "./covers/The Settlers.jpg"
   },
   {
     "id": 885,
     "name": "The Silver Case",
-    "img": "/covers/The Silver Case.jpg"
+    "img": "./covers/The Silver Case.jpg"
   },
   {
     "id": 886,
     "name": "The Sims",
-    "img": "/covers/The Sims.jpg"
+    "img": "./covers/The Sims.jpg"
   },
   {
     "id": 887,
     "name": "The Stanley Parable",
-    "img": "/covers/The Stanley Parable.jpg"
+    "img": "./covers/The Stanley Parable.jpg"
   },
   {
     "id": 888,
     "name": "Alpha Protocol",
-    "img": "/covers/Alpha Protocol.jpg"
+    "img": "./covers/Alpha Protocol.jpg"
   },
   {
     "id": 889,
     "name": "Crimsonland",
-    "img": "/covers/The Story of Thor.jpg"
+    "img": "./covers/The Story of Thor.jpg"
   },
   {
     "id": 890,
     "name": "The Suffering",
-    "img": "/covers/The Suffering.jpg"
+    "img": "./covers/The Suffering.jpg"
   },
   {
     "id": 891,
     "name": "The Swapper",
-    "img": "/covers/The Swapper.jpg"
+    "img": "./covers/The Swapper.jpg"
   },
   {
     "id": 892,
     "name": "The Talos Principle",
-    "img": "/covers/The Talos Principle.jpg"
+    "img": "./covers/The Talos Principle.jpg"
   },
   {
     "id": 893,
     "name": "The Unfinished Swan",
-    "img": "/covers/The Unfinished Swan.jpg"
+    "img": "./covers/The Unfinished Swan.jpg"
   },
   {
     "id": 894,
     "name": "Rage",
-    "img": "/covers/Rage.jpg"
+    "img": "./covers/Rage.jpg"
   },
   {
     "id": 895,
     "name": "The Warriors",
-    "img": "/covers/The Warriors.jpg"
+    "img": "./covers/The Warriors.jpg"
   },
   {
     "id": 896,
     "name": "The Witch's House",
-    "img": "/covers/The Witch's House.jpg"
+    "img": "./covers/The Witch's House.jpg"
   },
   {
     "id": 897,
     "name": "The Witcher",
-    "img": "/covers/The Witcher.jpg"
+    "img": "./covers/The Witcher.jpg"
   },
   {
     "id": 898,
     "name": "The Witness",
-    "img": "/covers/The Witness.jpg"
+    "img": "./covers/The Witness.jpg"
   },
   {
     "id": 899,
     "name": "The World Ends with You",
-    "img": "/covers/The World Ends with You.jpg"
+    "img": "./covers/The World Ends with You.jpg"
   },
   {
     "id": 900,
     "name": "Theme Park",
-    "img": "/covers/Theme Park.jpg"
+    "img": "./covers/Theme Park.jpg"
   },
   {
     "id": 901,
     "name": "Thief",
-    "img": "/covers/Thief.jpg"
+    "img": "./covers/Thief.jpg"
   },
   {
     "id": 902,
     "name": "This War of Mine",
-    "img": "/covers/This War of Mine.jpg"
+    "img": "./covers/This War of Mine.jpg"
   },
   {
     "id": 903,
     "name": "Threads of Fate",
-    "img": "/covers/Threads of Fate.jpg"
+    "img": "./covers/Threads of Fate.jpg"
   },
   {
     "id": 904,
     "name": "Thumper",
-    "img": "/covers/Thumper.jpg"
+    "img": "./covers/Thumper.jpg"
   },
   {
     "id": 905,
     "name": "Thunder Blade",
-    "img": "/covers/Thunder Blade.jpg"
+    "img": "./covers/Thunder Blade.jpg"
   },
   {
     "id": 906,
     "name": "Thunder Force",
-    "img": "/covers/Thunder Force.jpg"
+    "img": "./covers/Thunder Force.jpg"
   },
   {
     "id": 907,
     "name": "Tie Fighter",
-    "img": "/covers/Tie Fighter.jpg"
+    "img": "./covers/Tie Fighter.jpg"
   },
   {
     "id": 908,
     "name": "Time Crisis",
-    "img": "/covers/Time Crisis.jpg"
+    "img": "./covers/Time Crisis.jpg"
   },
   {
     "id": 909,
     "name": "Timesplitters",
-    "img": "/covers/Timesplitters.jpg"
+    "img": "./covers/Timesplitters.jpg"
   },
   {
     "id": 910,
     "name": "Titan Quest",
-    "img": "/covers/Titan Quest.jpg"
+    "img": "./covers/Titan Quest.jpg"
   },
   {
     "id": 911,
     "name": "Titanfall",
-    "img": "/covers/Titanfall.jpg"
+    "img": "./covers/Titanfall.jpg"
   },
   {
     "id": 912,
     "name": "To the Moon",
-    "img": "/covers/To the Moon.jpg"
+    "img": "./covers/To the Moon.jpg"
   },
   {
     "id": 913,
     "name": "Tobal",
-    "img": "/covers/Tobal.jpg"
+    "img": "./covers/Tobal.jpg"
   },
   {
     "id": 914,
     "name": "ToeJam & Earl",
-    "img": "/covers/ToeJam & Earl.jpg"
+    "img": "./covers/ToeJam & Earl.jpg"
   },
   {
     "id": 915,
     "name": "Tokyo Jungle",
-    "img": "/covers/Tokyo Jungle.jpg"
+    "img": "./covers/Tokyo Jungle.jpg"
   },
   {
     "id": 916,
     "name": "Tokyo Xanadu",
-    "img": "/covers/Tokyo Xanadu.jpg"
+    "img": "./covers/Tokyo Xanadu.jpg"
   },
   {
     "id": 917,
     "name": "Tom Clancy's Ghost Recon",
-    "img": "/covers/Tom Clancy's Ghost Recon.jpg"
+    "img": "./covers/Tom Clancy's Ghost Recon.jpg"
   },
   {
     "id": 918,
     "name": "Tom Clancy's Rainbow Six",
-    "img": "/covers/Tom Clancy's Rainbow Six.jpg"
+    "img": "./covers/Tom Clancy's Rainbow Six.jpg"
   },
   {
     "id": 919,
     "name": "Tom Clancy's Splinter Cell",
-    "img": "/covers/Tom Clancy's Splinter Cell.jpg"
+    "img": "./covers/Tom Clancy's Splinter Cell.jpg"
   },
   {
     "id": 920,
     "name": "Tomba!",
-    "img": "/covers/Tomba!.jpg"
+    "img": "./covers/Tomba!.jpg"
   },
   {
     "id": 921,
     "name": "Tony Hawk's Pro Skater",
-    "img": "/covers/Tony Hawk's Pro Skater.jpg"
+    "img": "./covers/Tony Hawk's Pro Skater.jpg"
   },
   {
     "id": 922,
     "name": "Toonstruck",
-    "img": "/covers/Toonstruck.jpg"
+    "img": "./covers/Toonstruck.jpg"
   },
   {
     "id": 923,
     "name": "Top Gun",
-    "img": "/covers/Top Gun.jpg"
+    "img": "./covers/Top Gun.jpg"
   },
   {
     "id": 924,
     "name": "Hogwarts Legacy",
-    "img": "/covers/Hogwarts Legacy.jpg"
+    "img": "./covers/Hogwarts Legacy.jpg"
   },
   {
     "id": 925,
     "name": "Torchlight",
-    "img": "/covers/Torchlight.jpg"
+    "img": "./covers/Torchlight.jpg"
   },
   {
     "id": 926,
     "name": "Total Annihilation",
-    "img": "/covers/Total Annihilation.jpg"
+    "img": "./covers/Total Annihilation.jpg"
   },
   {
     "id": 927,
     "name": "Total War",
-    "img": "/covers/Total War.jpg"
+    "img": "./covers/Total War.jpg"
   },
   {
     "id": 928,
     "name": "TowerFall",
-    "img": "/covers/TowerFall.jpg"
+    "img": "./covers/TowerFall.jpg"
   },
   {
     "id": 929,
     "name": "Townscaper",
-    "img": "/covers/Townscaper.jpg"
+    "img": "./covers/Townscaper.jpg"
   },
   {
     "id": 930,
     "name": "Trace Memory",
-    "img": "/covers/Trace Memory.jpg"
+    "img": "./covers/Trace Memory.jpg"
   },
   {
     "id": 931,
     "name": "TrackMania",
-    "img": "/covers/TrackMania.jpg"
+    "img": "./covers/TrackMania.jpg"
   },
   {
     "id": 932,
     "name": "Batman Arkham",
-    "img": "/covers/Batman Arkham.jpg"
+    "img": "./covers/Batman Arkham.jpg"
   },
   {
     "id": 933,
     "name": "Transistor",
-    "img": "/covers/Transistor.jpg"
+    "img": "./covers/Transistor.jpg"
   },
   {
     "id": 934,
     "name": "Transport Tycoon",
-    "img": "/covers/Transport Tycoon.jpg"
+    "img": "./covers/Transport Tycoon.jpg"
   },
   {
     "id": 935,
     "name": "Tunic",
-    "img": "/covers/Tunic.jpg"
+    "img": "./covers/Tunic.jpg"
   },
   {
     "id": 936,
     "name": "Turok",
-    "img": "/covers/Turok.jpg"
+    "img": "./covers/Turok.jpg"
   },
   {
     "id": 937,
     "name": "Twinsen's Odyssey",
-    "img": "/covers/Twinsen's Odyssey.jpg"
+    "img": "./covers/Twinsen's Odyssey.jpg"
   },
   {
     "id": 938,
     "name": "Twisted Metal",
-    "img": "/covers/Twisted Metal.jpg"
+    "img": "./covers/Twisted Metal.jpg"
   },
   {
     "id": 939,
     "name": "Two Point Hospital",
-    "img": "/covers/Two Point Hospital.jpg"
+    "img": "./covers/Two Point Hospital.jpg"
   },
   {
     "id": 940,
     "name": "Two Worlds",
-    "img": "/covers/Two Worlds.jpg"
+    "img": "./covers/Two Worlds.jpg"
   },
   {
     "id": 941,
     "name": "Typing of the Dead",
-    "img": "/covers/Typing of the Dead.jpg"
+    "img": "./covers/Typing of the Dead.jpg"
   },
   {
     "id": 942,
     "name": "Tyranny",
-    "img": "/covers/Tyranny.jpg"
+    "img": "./covers/Tyranny.jpg"
   },
   {
     "id": 943,
     "name": "Ultima",
-    "img": "/covers/Ultima.jpg"
+    "img": "./covers/Ultima.jpg"
   },
   {
     "id": 944,
     "name": "Ultima Online",
-    "img": "/covers/Ultima Online.jpg"
+    "img": "./covers/Ultima Online.jpg"
   },
   {
     "id": 945,
     "name": "Um Jammer Lammy",
-    "img": "/covers/Um Jammer Lammy.jpg"
+    "img": "./covers/Um Jammer Lammy.jpg"
   },
   {
     "id": 946,
     "name": "Umineko",
-    "img": "/covers/Umineko.jpg"
+    "img": "./covers/Umineko.jpg"
   },
   {
     "id": 947,
     "name": "Uncharted",
-    "img": "/covers/Uncharted.jpg"
+    "img": "./covers/Uncharted.jpg"
   },
   {
     "id": 948,
     "name": "Under a Killing Moon",
-    "img": "/covers/Under a Killing Moon.jpg"
+    "img": "./covers/Under a Killing Moon.jpg"
   },
   {
     "id": 949,
     "name": "Under Night In-Birth",
-    "img": "/covers/Under Night In-Birth.jpg"
+    "img": "./covers/Under Night In-Birth.jpg"
   },
   {
     "id": 950,
     "name": "Undertale",
-    "img": "/covers/Undertale.jpg"
+    "img": "./covers/Undertale.jpg"
   },
   {
     "id": 951,
     "name": "Unpacking",
-    "img": "/covers/Unpacking.jpg"
+    "img": "./covers/Unpacking.jpg"
   },
   {
     "id": 952,
     "name": "Unreal",
-    "img": "/covers/Unreal.jpg"
+    "img": "./covers/Unreal.jpg"
   },
   {
     "id": 953,
     "name": "Untitled Goose Game",
-    "img": "/covers/Untitled Goose Game.jpg"
+    "img": "./covers/Untitled Goose Game.jpg"
   },
   {
     "id": 954,
     "name": "Utawarerumono",
-    "img": "/covers/Utawarerumono.jpg"
+    "img": "./covers/Utawarerumono.jpg"
   },
   {
     "id": 955,
     "name": "V Rising",
-    "img": "/covers/V Rising.jpg"
+    "img": "./covers/V Rising.jpg"
   },
   {
     "id": 956,
     "name": "VA-11 Hall-A",
-    "img": "/covers/VA-11 Hall-A.jpg"
+    "img": "./covers/VA-11 Hall-A.jpg"
   },
   {
     "id": 957,
     "name": "Vagrant Story",
-    "img": "/covers/Vagrant Story.jpg"
+    "img": "./covers/Vagrant Story.jpg"
   },
   {
     "id": 958,
     "name": "Valheim",
-    "img": "/covers/Valheim.jpg"
+    "img": "./covers/Valheim.jpg"
   },
   {
     "id": 959,
     "name": "Valkyria Chronicles",
-    "img": "/covers/Valkyria Chronicles.jpg"
+    "img": "./covers/Valkyria Chronicles.jpg"
   },
   {
     "id": 960,
     "name": "Valkyrie Profile",
-    "img": "/covers/Valkyrie Profile.jpg"
+    "img": "./covers/Valkyrie Profile.jpg"
   },
   {
     "id": 961,
     "name": "Vampire Survivors",
-    "img": "/covers/Vampire Survivors.jpg"
+    "img": "./covers/Vampire Survivors.jpg"
   },
   {
     "id": 962,
     "name": "Vampire The Masquerade",
-    "img": "/covers/Vampire The Masquerade.jpg"
+    "img": "./covers/Vampire The Masquerade.jpg"
   },
   {
     "id": 963,
     "name": "Vandal Hearts",
-    "img": "/covers/Vandal Hearts.jpg"
+    "img": "./covers/Vandal Hearts.jpg"
   },
   {
     "id": 964,
     "name": "Vanquish",
-    "img": "/covers/Vanquish.jpg"
+    "img": "./covers/Vanquish.jpg"
   },
   {
     "id": 965,
     "name": "Vib-Ribbon",
-    "img": "/covers/Vib-Ribbon.jpg"
+    "img": "./covers/Vib-Ribbon.jpg"
   },
   {
     "id": 966,
     "name": "Victoria",
-    "img": "/covers/Victoria.jpg"
+    "img": "./covers/Victoria.jpg"
   },
   {
     "id": 967,
     "name": "Viewtiful Joe",
-    "img": "/covers/Viewtiful Joe.jpg"
+    "img": "./covers/Viewtiful Joe.jpg"
   },
   {
     "id": 968,
     "name": "Virtua Cop",
-    "img": "/covers/Virtua Cop.jpg"
+    "img": "./covers/Virtua Cop.jpg"
   },
   {
     "id": 969,
     "name": "Virtua Fighter",
-    "img": "/covers/Virtua Fighter.jpg"
+    "img": "./covers/Virtua Fighter.jpg"
   },
   {
     "id": 970,
     "name": "Virtua Racing",
-    "img": "/covers/Virtua Racing.jpg"
+    "img": "./covers/Virtua Racing.jpg"
   },
   {
     "id": 971,
     "name": "Virtua Tennis",
-    "img": "/covers/Virtua Tennis.jpg"
+    "img": "./covers/Virtua Tennis.jpg"
   },
   {
     "id": 972,
     "name": "Virtual-On",
-    "img": "/covers/Virtual-On.jpg"
+    "img": "./covers/Virtual-On.jpg"
   },
   {
     "id": 973,
     "name": "Virtue's Last Reward",
-    "img": "/covers/Virtue's Last Reward.jpg"
+    "img": "./covers/Virtue's Last Reward.jpg"
   },
   {
     "id": 974,
     "name": "Visage",
-    "img": "/covers/Visage.jpg"
+    "img": "./covers/Visage.jpg"
   },
   {
     "id": 975,
     "name": "Viva Piñata",
-    "img": "/covers/Viva Piñata.jpg"
+    "img": "./covers/Viva Piñata.jpg"
   },
   {
     "id": 976,
     "name": "VVVVVV",
-    "img": "/covers/VVVVVV.jpg"
+    "img": "./covers/VVVVVV.jpg"
   },
   {
     "id": 977,
     "name": "WarCraft",
-    "img": "/covers/WarCraft.jpg"
+    "img": "./covers/WarCraft.jpg"
   },
   {
     "id": 978,
     "name": "Warframe",
-    "img": "/covers/Warframe.jpg"
+    "img": "./covers/Warframe.jpg"
   },
   {
     "id": 979,
     "name": "Warhammer 40,000",
-    "img": "/covers/Warhammer 40,000.jpg"
+    "img": "./covers/Warhammer 40,000.jpg"
   },
   {
     "id": 980,
     "name": "Warhawk",
-    "img": "/covers/Warhawk.jpg"
+    "img": "./covers/Warhawk.jpg"
   },
   {
     "id": 981,
     "name": "Wario",
-    "img": "/covers/Wario.jpg"
+    "img": "./covers/Wario.jpg"
   },
   {
     "id": 982,
     "name": "WarioWare",
-    "img": "/covers/WarioWare.jpg"
+    "img": "./covers/WarioWare.jpg"
   },
   {
     "id": 983,
     "name": "Warsong",
-    "img": "/covers/Warsong.jpg"
+    "img": "./covers/Warsong.jpg"
   },
   {
     "id": 984,
     "name": "Wasteland",
-    "img": "/covers/Wasteland.jpg"
+    "img": "./covers/Wasteland.jpg"
   },
   {
     "id": 985,
     "name": "Watch Dogs",
-    "img": "/covers/Watch Dogs.jpg"
+    "img": "./covers/Watch Dogs.jpg"
   },
   {
     "id": 986,
     "name": "Wave Race",
-    "img": "/covers/Wave Race.jpg"
+    "img": "./covers/Wave Race.jpg"
   },
   {
     "id": 987,
     "name": "Way of the Samurai",
-    "img": "/covers/Way of the Samurai.jpg"
+    "img": "./covers/Way of the Samurai.jpg"
   },
   {
     "id": 988,
     "name": "We Love Katamari",
-    "img": "/covers/We Love Katamari.jpg"
+    "img": "./covers/We Love Katamari.jpg"
   },
   {
     "id": 989,
     "name": "X-Men Origins Wolverine",
-    "img": "/covers/X-Men Origins Wolverine.jpg"
+    "img": "./covers/X-Men Origins Wolverine.jpg"
   },
   {
     "id": 990,
     "name": "What Remains of Edith Finch",
-    "img": "/covers/What Remains of Edith Finch.jpg"
+    "img": "./covers/What Remains of Edith Finch.jpg"
   },
   {
     "id": 991,
     "name": "White Knight Chronicles",
-    "img": "/covers/White Knight Chronicles.jpg"
+    "img": "./covers/White Knight Chronicles.jpg"
   },
   {
     "id": 992,
     "name": "Wii Fit",
-    "img": "/covers/Wii Fit.jpg"
+    "img": "./covers/Wii Fit.jpg"
   },
   {
     "id": 993,
     "name": "Wild Arms",
-    "img": "/covers/Wild Arms.jpg"
+    "img": "./covers/Wild Arms.jpg"
   },
   {
     "id": 994,
     "name": "Wing Commander",
-    "img": "/covers/Wing Commander.jpg"
+    "img": "./covers/Wing Commander.jpg"
   },
   {
     "id": 995,
     "name": "Wipeout",
-    "img": "/covers/Wipeout.jpg"
+    "img": "./covers/Wipeout.jpg"
   },
   {
     "id": 996,
     "name": "Wizardry",
-    "img": "/covers/Wizardry.jpg"
+    "img": "./covers/Wizardry.jpg"
   },
   {
     "id": 997,
     "name": "Wolfenstein",
-    "img": "/covers/Wolfenstein.jpg"
+    "img": "./covers/Wolfenstein.jpg"
   },
   {
     "id": 998,
     "name": "Wonder Boy",
-    "img": "/covers/Wonder Boy.jpg"
+    "img": "./covers/Wonder Boy.jpg"
   },
   {
     "id": 999,
     "name": "Wonderful 101",
-    "img": "/covers/Wonderful 101.jpg"
+    "img": "./covers/Wonderful 101.jpg"
   },
   {
     "id": 1000,
     "name": "World of Goo",
-    "img": "/covers/World of Goo.jpg"
+    "img": "./covers/World of Goo.jpg"
   },
   {
     "id": 1001,
     "name": "World of Horror",
-    "img": "/covers/World of Horror.jpg"
+    "img": "./covers/World of Horror.jpg"
   },
   {
     "id": 1002,
     "name": "World of Warcraft",
-    "img": "/covers/World of Warcraft.jpg"
+    "img": "./covers/World of Warcraft.jpg"
   },
   {
     "id": 1003,
     "name": "Worms",
-    "img": "/covers/Worms.jpg"
+    "img": "./covers/Worms.jpg"
   },
   {
     "id": 1004,
     "name": "Wrecking Crew",
-    "img": "/covers/Wrecking Crew.jpg"
+    "img": "./covers/Wrecking Crew.jpg"
   },
   {
     "id": 1005,
     "name": "X-COM",
-    "img": "/covers/X-COM.jpg"
+    "img": "./covers/X-COM.jpg"
   },
   {
     "id": 1006,
     "name": "X-Plane",
-    "img": "/covers/X-Plane.jpg"
+    "img": "./covers/X-Plane.jpg"
   },
   {
     "id": 1007,
     "name": "X-Wing",
-    "img": "/covers/X-Wing.jpg"
+    "img": "./covers/X-Wing.jpg"
   },
   {
     "id": 1008,
     "name": "X3 Terran Conflict",
-    "img": "/covers/X3 Terran Conflict.jpg"
+    "img": "./covers/X3 Terran Conflict.jpg"
   },
   {
     "id": 1009,
     "name": "Helldivers",
-    "img": "/covers/Helldivers.jpg"
+    "img": "./covers/Helldivers.jpg"
   },
   {
     "id": 1010,
     "name": "Xenoblade Chronicles",
-    "img": "/covers/Xenoblade Chronicles.jpg"
+    "img": "./covers/Xenoblade Chronicles.jpg"
   },
   {
     "id": 1011,
     "name": "Xenogears",
-    "img": "/covers/Xenogears.jpg"
+    "img": "./covers/Xenogears.jpg"
   },
   {
     "id": 1012,
     "name": "Xenosaga",
-    "img": "/covers/Xenosaga.jpg"
+    "img": "./covers/Xenosaga.jpg"
   },
   {
     "id": 1013,
     "name": "Yo-kai Watch",
-    "img": "/covers/Yo-kai Watch.jpg"
+    "img": "./covers/Yo-kai Watch.jpg"
   },
   {
     "id": 1014,
     "name": "Yoshi",
-    "img": "/covers/Yoshi.jpg"
+    "img": "./covers/Yoshi.jpg"
   },
   {
     "id": 1015,
     "name": "Ys",
-    "img": "/covers/Ys.jpg"
+    "img": "./covers/Ys.jpg"
   },
   {
     "id": 1016,
     "name": "Yu-Gi-Oh!",
-    "img": "/covers/Yu-Gi-Oh!.jpg"
+    "img": "./covers/Yu-Gi-Oh!.jpg"
   },
   {
     "id": 1017,
     "name": "Yume Nikki",
-    "img": "/covers/Yume Nikki.jpg"
+    "img": "./covers/Yume Nikki.jpg"
   },
   {
     "id": 1018,
     "name": "Z",
-    "img": "/covers/Z.jpg"
+    "img": "./covers/Z.jpg"
   },
   {
     "id": 1019,
     "name": "Zero Escape",
-    "img": "/covers/Zero Escape.jpg"
+    "img": "./covers/Zero Escape.jpg"
   },
   {
     "id": 1020,
     "name": "Zero Time Dilemma",
-    "img": "/covers/Zero Time Dilemma.jpg"
+    "img": "./covers/Zero Time Dilemma.jpg"
   },
   {
     "id": 1021,
     "name": "Genshin Impact",
-    "img": "/covers/Genshin Impact.jpg"
+    "img": "./covers/Genshin Impact.jpg"
   },
   {
     "id": 1022,
     "name": "Zone of the Enders",
-    "img": "/covers/Zone of the Enders.jpg"
+    "img": "./covers/Zone of the Enders.jpg"
   },
   {
     "id": 1023,
     "name": "Zoo Tycoon",
-    "img": "/covers/Zoo Tycoon.jpg"
+    "img": "./covers/Zoo Tycoon.jpg"
   },
   {
     "id": 1024,
     "name": "Zork",
-    "img": "/covers/Zork.jpg"
+    "img": "./covers/Zork.jpg"
   }
 ]
