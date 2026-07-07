@@ -216,11 +216,11 @@ function renderPair() {
   elements.leftImgContainer.innerHTML = "";
   elements.rightImgContainer.innerHTML = "";
   const leftImgTag = document.createElement("img");
-  leftImgTag.src = `/covers/${left.name}.jpg`;
+  leftImgTag.src = `./covers/${left.name}.jpg`;
   leftImgTag.alt = left.name;
   elements.leftImgContainer.appendChild(leftImgTag);
   const rightImgTag = document.createElement("img");
-  rightImgTag.src = `/covers/${right.name}.jpg`;
+  rightImgTag.src = `./covers/${right.name}.jpg`;
   rightImgTag.alt = right.name;
   elements.rightImgContainer.appendChild(rightImgTag);
   elements.leftCard.classList.remove("game-card--selected");
