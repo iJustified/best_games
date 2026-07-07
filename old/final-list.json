@@ -1,0 +1,3546 @@
+[
+  {
+    "id": 1,
+    "name": "1080 Snowboarding"
+  },
+  {
+    "id": 2,
+    "name": "13 Sentinels"
+  },
+  {
+    "id": 3,
+    "name": "1942"
+  },
+  {
+    "id": 4,
+    "name": "999 Nine Hours Nine Persons Nine Doors"
+  },
+  {
+    "id": 5,
+    "name": "A Hat in Time"
+  },
+  {
+    "id": 6,
+    "name": "A Short Hike"
+  },
+  {
+    "id": 7,
+    "name": "Abzu"
+  },
+  {
+    "id": 8,
+    "name": "Ace Attorney"
+  },
+  {
+    "id": 9,
+    "name": "Ace Combat"
+  },
+  {
+    "id": 10,
+    "name": "Advance Wars"
+  },
+  {
+    "id": 11,
+    "name": "Adventure Island"
+  },
+  {
+    "id": 12,
+    "name": "Age of Decadence"
+  },
+  {
+    "id": 13,
+    "name": "Age of Empires"
+  },
+  {
+    "id": 14,
+    "name": "Age of Mythology"
+  },
+  {
+    "id": 15,
+    "name": "Age of Wonders"
+  },
+  {
+    "id": 16,
+    "name": "AI: The Somnium Files"
+  },
+  {
+    "id": 17,
+    "name": "Air"
+  },
+  {
+    "id": 18,
+    "name": "Albion Online"
+  },
+  {
+    "id": 19,
+    "name": "Alex Kidd"
+  },
+  {
+    "id": 20,
+    "name": "Alien Isolation"
+  },
+  {
+    "id": 21,
+    "name": "Alien Storm"
+  },
+  {
+    "id": 22,
+    "name": "Alien Syndrome"
+  },
+  {
+    "id": 23,
+    "name": "Alien vs Predator Arcade"
+  },
+  {
+    "id": 24,
+    "name": "Aliens vs Predator"
+  },
+  {
+    "id": 25,
+    "name": "Alpha Centauri"
+  },
+  {
+    "id": 26,
+    "name": "Alpha Protocol"
+  },
+  {
+    "id": 27,
+    "name": "Alten Tycoon"
+  },
+  {
+    "id": 28,
+    "name": "Altered Beast"
+  },
+  {
+    "id": 29,
+    "name": "Amagami"
+  },
+  {
+    "id": 30,
+    "name": "American Truck Simulator"
+  },
+  {
+    "id": 31,
+    "name": "Among Us"
+  },
+  {
+    "id": 32,
+    "name": "Animal Boy"
+  },
+  {
+    "id": 33,
+    "name": "Animal Crossing"
+  },
+  {
+    "id": 34,
+    "name": "Anno"
+  },
+  {
+    "id": 35,
+    "name": "Anonymous;Code"
+  },
+  {
+    "id": 36,
+    "name": "Another Code"
+  },
+  {
+    "id": 37,
+    "name": "Anthem"
+  },
+  {
+    "id": 38,
+    "name": "Apex Legends"
+  },
+  {
+    "id": 39,
+    "name": "Ar Nosurge"
+  },
+  {
+    "id": 40,
+    "name": "Ar Tonelico"
+  },
+  {
+    "id": 41,
+    "name": "Arc the Lad"
+  },
+  {
+    "id": 42,
+    "name": "Arcana Heart"
+  },
+  {
+    "id": 43,
+    "name": "Arcanum"
+  },
+  {
+    "id": 44,
+    "name": "ArcheAge"
+  },
+  {
+    "id": 45,
+    "name": "Area 51"
+  },
+  {
+    "id": 46,
+    "name": "Arkanoid"
+  },
+  {
+    "id": 47,
+    "name": "Arknights"
+  },
+  {
+    "id": 48,
+    "name": "Arma"
+  },
+  {
+    "id": 49,
+    "name": "Armored Warriors"
+  },
+  {
+    "id": 50,
+    "name": "Art of Fighting"
+  },
+  {
+    "id": 51,
+    "name": "Arx Fatalis"
+  },
+  {
+    "id": 52,
+    "name": "Ascendancy"
+  },
+  {
+    "id": 53,
+    "name": "Asheron’s Call"
+  },
+  {
+    "id": 54,
+    "name": "Ashes of the Singularity"
+  },
+  {
+    "id": 55,
+    "name": "Assassin’s Creed"
+  },
+  {
+    "id": 56,
+    "name": "Assetto Corsa"
+  },
+  {
+    "id": 57,
+    "name": "Asteroids"
+  },
+  {
+    "id": 58,
+    "name": "Astral Chain"
+  },
+  {
+    "id": 59,
+    "name": "Atelier"
+  },
+  {
+    "id": 60,
+    "name": "Atom RPG"
+  },
+  {
+    "id": 61,
+    "name": "ATV Offroad Fury"
+  },
+  {
+    "id": 62,
+    "name": "Auto Chess"
+  },
+  {
+    "id": 63,
+    "name": "Avernum"
+  },
+  {
+    "id": 64,
+    "name": "Azur Lane"
+  },
+  {
+    "id": 65,
+    "name": "Baldur’s Gate"
+  },
+  {
+    "id": 66,
+    "name": "Banished"
+  },
+  {
+    "id": 67,
+    "name": "Battle Arena Toshinden"
+  },
+  {
+    "id": 68,
+    "name": "Battle Circuit"
+  },
+  {
+    "id": 69,
+    "name": "Battle for Middle Earth"
+  },
+  {
+    "id": 70,
+    "name": "Battle Garegga"
+  },
+  {
+    "id": 71,
+    "name": "Battle Isle"
+  },
+  {
+    "id": 72,
+    "name": "Battlefield"
+  },
+  {
+    "id": 73,
+    "name": "Battlerite"
+  },
+  {
+    "id": 74,
+    "name": "BattleTech"
+  },
+  {
+    "id": 75,
+    "name": "Bayonetta"
+  },
+  {
+    "id": 76,
+    "name": "BeamNG.drive"
+  },
+  {
+    "id": 77,
+    "name": "Beatmania"
+  },
+  {
+    "id": 78,
+    "name": "Beneath a Steel Sky"
+  },
+  {
+    "id": 79,
+    "name": "Betrayal at Krondor"
+  },
+  {
+    "id": 80,
+    "name": "Bionic Commando"
+  },
+  {
+    "id": 81,
+    "name": "BioShock"
+  },
+  {
+    "id": 82,
+    "name": "Black"
+  },
+  {
+    "id": 83,
+    "name": "Black Desert"
+  },
+  {
+    "id": 84,
+    "name": "Black Tiger"
+  },
+  {
+    "id": 85,
+    "name": "Blade & Soul"
+  },
+  {
+    "id": 86,
+    "name": "Blaster Master"
+  },
+  {
+    "id": 87,
+    "name": "BlazBlue"
+  },
+  {
+    "id": 88,
+    "name": "Blazing Star"
+  },
+  {
+    "id": 89,
+    "name": "Blitzkrieg"
+  },
+  {
+    "id": 90,
+    "name": "Blood"
+  },
+  {
+    "id": 91,
+    "name": "Bloodborne"
+  },
+  {
+    "id": 92,
+    "name": "Bloody Roar"
+  },
+  {
+    "id": 93,
+    "name": "Blue Dragon"
+  },
+  {
+    "id": 94,
+    "name": "Blue Protocol"
+  },
+  {
+    "id": 95,
+    "name": "Blue Reflection"
+  },
+  {
+    "id": 96,
+    "name": "Blur"
+  },
+  {
+    "id": 97,
+    "name": "Bonk"
+  },
+  {
+    "id": 98,
+    "name": "Boom Beach"
+  },
+  {
+    "id": 99,
+    "name": "Borderlands"
+  },
+  {
+    "id": 100,
+    "name": "Braid"
+  },
+  {
+    "id": 101,
+    "name": "Bravely Default"
+  },
+  {
+    "id": 102,
+    "name": "Brawl Stars"
+  },
+  {
+    "id": 103,
+    "name": "Breakers"
+  },
+  {
+    "id": 104,
+    "name": "Breakout"
+  },
+  {
+    "id": 105,
+    "name": "Breath of Fire"
+  },
+  {
+    "id": 106,
+    "name": "Broken Sword"
+  },
+  {
+    "id": 107,
+    "name": "Bubble Bobble"
+  },
+  {
+    "id": 108,
+    "name": "Bulletstorm"
+  },
+  {
+    "id": 109,
+    "name": "BurgerTime"
+  },
+  {
+    "id": 110,
+    "name": "Burnout"
+  },
+  {
+    "id": 111,
+    "name": "Bushido Blade"
+  },
+  {
+    "id": 112,
+    "name": "Cabal Online"
+  },
+  {
+    "id": 113,
+    "name": "Cadillacs and Dinosaurs"
+  },
+  {
+    "id": 114,
+    "name": "Caligula Effect"
+  },
+  {
+    "id": 115,
+    "name": "Call of Cthulhu"
+  },
+  {
+    "id": 116,
+    "name": "Call of Duty"
+  },
+  {
+    "id": 117,
+    "name": "Capcom vs SNK"
+  },
+  {
+    "id": 118,
+    "name": "Captain Commando"
+  },
+  {
+    "id": 119,
+    "name": "Castle of Illusion"
+  },
+  {
+    "id": 120,
+    "name": "Celeste"
+  },
+  {
+    "id": 121,
+    "name": "Champions Online"
+  },
+  {
+    "id": 122,
+    "name": "Chaos;Head"
+  },
+  {
+    "id": 123,
+    "name": "Child of Eden"
+  },
+  {
+    "id": 124,
+    "name": "Chip n Dale Rescue Rangers"
+  },
+  {
+    "id": 125,
+    "name": "Chrono"
+  },
+  {
+    "id": 126,
+    "name": "Cities Skylines"
+  },
+  {
+    "id": 127,
+    "name": "City of Heroes"
+  },
+  {
+    "id": 128,
+    "name": "Civilization"
+  },
+  {
+    "id": 129,
+    "name": "Clannad"
+  },
+  {
+    "id": 130,
+    "name": "Clash of Clans"
+  },
+  {
+    "id": 131,
+    "name": "Clash Royale"
+  },
+  {
+    "id": 132,
+    "name": "ClayFighter"
+  },
+  {
+    "id": 133,
+    "name": "Close Combat"
+  },
+  {
+    "id": 134,
+    "name": "Closers"
+  },
+  {
+    "id": 135,
+    "name": "Clu Clu Land"
+  },
+  {
+    "id": 136,
+    "name": "Code Vein"
+  },
+  {
+    "id": 137,
+    "name": "Colin McRae Rally"
+  },
+  {
+    "id": 138,
+    "name": "Colony Ship"
+  },
+  {
+    "id": 139,
+    "name": "Combat Arms"
+  },
+  {
+    "id": 140,
+    "name": "Command & Conquer"
+  },
+  {
+    "id": 141,
+    "name": "Commandos"
+  },
+  {
+    "id": 142,
+    "name": "Company of Heroes"
+  },
+  {
+    "id": 143,
+    "name": "Contra"
+  },
+  {
+    "id": 144,
+    "name": "Cookie Run"
+  },
+  {
+    "id": 145,
+    "name": "Cool Boarders"
+  },
+  {
+    "id": 146,
+    "name": "Counter-Strike"
+  },
+  {
+    "id": 147,
+    "name": "CPS-1 library"
+  },
+  {
+    "id": 148,
+    "name": "CPS-2 library"
+  },
+  {
+    "id": 149,
+    "name": "CPS-3 library"
+  },
+  {
+    "id": 150,
+    "name": "Crash Bandicoot"
+  },
+  {
+    "id": 151,
+    "name": "Crash Team Racing"
+  },
+  {
+    "id": 152,
+    "name": "Crime Fighters"
+  },
+  {
+    "id": 153,
+    "name": "Crossfire"
+  },
+  {
+    "id": 154,
+    "name": "Crossout"
+  },
+  {
+    "id": 155,
+    "name": "Crusader Kings"
+  },
+  {
+    "id": 156,
+    "name": "Crysis"
+  },
+  {
+    "id": 157,
+    "name": "Crystalis"
+  },
+  {
+    "id": 158,
+    "name": "Cuphead"
+  },
+  {
+    "id": 159,
+    "name": "Cyber Lip"
+  },
+  {
+    "id": 160,
+    "name": "Cyberbots"
+  },
+  {
+    "id": 161,
+    "name": "Cyberpunk 2077"
+  },
+  {
+    "id": 162,
+    "name": "Dance Dance Revolution"
+  },
+  {
+    "id": 163,
+    "name": "Danganronpa"
+  },
+  {
+    "id": 164,
+    "name": "Darius"
+  },
+  {
+    "id": 165,
+    "name": "Dark Age of Camelot"
+  },
+  {
+    "id": 166,
+    "name": "Dark Forces"
+  },
+  {
+    "id": 167,
+    "name": "Dark Messiah of Might and Magic"
+  },
+  {
+    "id": 168,
+    "name": "Dark Reign"
+  },
+  {
+    "id": 169,
+    "name": "Dark Souls"
+  },
+  {
+    "id": 170,
+    "name": "Darkest Dungeon"
+  },
+  {
+    "id": 171,
+    "name": "Darklands"
+  },
+  {
+    "id": 172,
+    "name": "Darkstalkers"
+  },
+  {
+    "id": 173,
+    "name": "Day of Defeat"
+  },
+  {
+    "id": 174,
+    "name": "Day of the Tentacle"
+  },
+  {
+    "id": 175,
+    "name": "Daytona USA"
+  },
+  {
+    "id": 176,
+    "name": "DayZ"
+  },
+  {
+    "id": 177,
+    "name": "DC Universe Online"
+  },
+  {
+    "id": 178,
+    "name": "Dead Cells"
+  },
+  {
+    "id": 179,
+    "name": "Dead or Alive"
+  },
+  {
+    "id": 180,
+    "name": "Death Stranding"
+  },
+  {
+    "id": 181,
+    "name": "Deathsmiles"
+  },
+  {
+    "id": 182,
+    "name": "Deep Rock Galactic"
+  },
+  {
+    "id": 183,
+    "name": "Def Jam"
+  },
+  {
+    "id": 184,
+    "name": "Deltarune"
+  },
+  {
+    "id": 185,
+    "name": "Demon’s Souls"
+  },
+  {
+    "id": 186,
+    "name": "Descent"
+  },
+  {
+    "id": 187,
+    "name": "Destiny"
+  },
+  {
+    "id": 188,
+    "name": "Destruction Derby"
+  },
+  {
+    "id": 189,
+    "name": "Deus Ex"
+  },
+  {
+    "id": 190,
+    "name": "Devil May Cry"
+  },
+  {
+    "id": 191,
+    "name": "Devil Summoner"
+  },
+  {
+    "id": 192,
+    "name": "Diablo"
+  },
+  {
+    "id": 193,
+    "name": "Diddy Kong Racing"
+  },
+  {
+    "id": 194,
+    "name": "Digimon"
+  },
+  {
+    "id": 195,
+    "name": "Digital Devil Saga"
+  },
+  {
+    "id": 196,
+    "name": "Dino Crisis"
+  },
+  {
+    "id": 197,
+    "name": "DiRT"
+  },
+  {
+    "id": 198,
+    "name": "Disciples"
+  },
+  {
+    "id": 199,
+    "name": "Disco Elysium"
+  },
+  {
+    "id": 200,
+    "name": "Disgaea"
+  },
+  {
+    "id": 201,
+    "name": "Dishonored"
+  },
+  {
+    "id": 202,
+    "name": "Dissidia Final Fantasy"
+  },
+  {
+    "id": 203,
+    "name": "Divinity"
+  },
+  {
+    "id": 204,
+    "name": "DoDonPachi"
+  },
+  {
+    "id": 205,
+    "name": "Doki Doki Literature Club"
+  },
+  {
+    "id": 206,
+    "name": "Don’t Starve"
+  },
+  {
+    "id": 207,
+    "name": "Donkey Kong"
+  },
+  {
+    "id": 208,
+    "name": "Doom"
+  },
+  {
+    "id": 209,
+    "name": "Dota"
+  },
+  {
+    "id": 210,
+    "name": "Dota 2"
+  },
+  {
+    "id": 211,
+    "name": "Double Dragon"
+  },
+  {
+    "id": 212,
+    "name": "Dragon Age"
+  },
+  {
+    "id": 213,
+    "name": "Dragon Ball"
+  },
+  {
+    "id": 214,
+    "name": "Dragon Force"
+  },
+  {
+    "id": 215,
+    "name": "Dragon Nest"
+  },
+  {
+    "id": 216,
+    "name": "Dragon Quest"
+  },
+  {
+    "id": 217,
+    "name": "Dragon’s Dogma"
+  },
+  {
+    "id": 218,
+    "name": "Drakengard"
+  },
+  {
+    "id": 219,
+    "name": "Dune"
+  },
+  {
+    "id": 220,
+    "name": "Dungeon Fighter Online"
+  },
+  {
+    "id": 221,
+    "name": "Dungeon Keeper"
+  },
+  {
+    "id": 222,
+    "name": "Dungeons & Dragons"
+  },
+  {
+    "id": 223,
+    "name": "Dwarf Fortress"
+  },
+  {
+    "id": 224,
+    "name": "Dynamite Headdy"
+  },
+  {
+    "id": 225,
+    "name": "Dyson Sphere Program"
+  },
+  {
+    "id": 226,
+    "name": "EA Sports FC"
+  },
+  {
+    "id": 227,
+    "name": "Earthworm Jim"
+  },
+  {
+    "id": 228,
+    "name": "Ehrgeiz"
+  },
+  {
+    "id": 229,
+    "name": "Elden Ring"
+  },
+  {
+    "id": 230,
+    "name": "Elevator Action"
+  },
+  {
+    "id": 231,
+    "name": "Elex"
+  },
+  {
+    "id": 232,
+    "name": "Elite"
+  },
+  {
+    "id": 233,
+    "name": "Elite Beat Agents"
+  },
+  {
+    "id": 234,
+    "name": "Elite Dangerous"
+  },
+  {
+    "id": 235,
+    "name": "Elsword"
+  },
+  {
+    "id": 236,
+    "name": "Empire Earth"
+  },
+  {
+    "id": 237,
+    "name": "Encased"
+  },
+  {
+    "id": 238,
+    "name": "Endless Legend"
+  },
+  {
+    "id": 239,
+    "name": "Endless Space"
+  },
+  {
+    "id": 240,
+    "name": "Enlisted"
+  },
+  {
+    "id": 241,
+    "name": "Enter the Gungeon"
+  },
+  {
+    "id": 242,
+    "name": "Epic Seven"
+  },
+  {
+    "id": 243,
+    "name": "Escape from Tarkov"
+  },
+  {
+    "id": 244,
+    "name": "Etrian Odyssey"
+  },
+  {
+    "id": 245,
+    "name": "Euro Truck Simulator"
+  },
+  {
+    "id": 246,
+    "name": "Europa Universalis"
+  },
+  {
+    "id": 247,
+    "name": "EVE Online"
+  },
+  {
+    "id": 248,
+    "name": "EverQuest"
+  },
+  {
+    "id": 249,
+    "name": "Excitebike"
+  },
+  {
+    "id": 250,
+    "name": "Eye of the Beholder"
+  },
+  {
+    "id": 251,
+    "name": "F-Zero"
+  },
+  {
+    "id": 252,
+    "name": "F.E.A.R."
+  },
+  {
+    "id": 253,
+    "name": "F1"
+  },
+  {
+    "id": 254,
+    "name": "Factorio"
+  },
+  {
+    "id": 255,
+    "name": "Fall Guys"
+  },
+  {
+    "id": 256,
+    "name": "Fallout"
+  },
+  {
+    "id": 257,
+    "name": "Far Cry"
+  },
+  {
+    "id": 258,
+    "name": "Farming Simulator"
+  },
+  {
+    "id": 259,
+    "name": "Fatal Fury"
+  },
+  {
+    "id": 260,
+    "name": "Fate"
+  },
+  {
+    "id": 261,
+    "name": "Fate Grand Order"
+  },
+  {
+    "id": 262,
+    "name": "Faxanadu"
+  },
+  {
+    "id": 263,
+    "name": "Fez"
+  },
+  {
+    "id": 264,
+    "name": "FIFA"
+  },
+  {
+    "id": 265,
+    "name": "Fight Night"
+  },
+  {
+    "id": 266,
+    "name": "Final Fantasy"
+  },
+  {
+    "id": 267,
+    "name": "Final Fantasy Tactics"
+  },
+  {
+    "id": 268,
+    "name": "Final Fight"
+  },
+  {
+    "id": 269,
+    "name": "Fire Emblem"
+  },
+  {
+    "id": 270,
+    "name": "Firewatch"
+  },
+  {
+    "id": 271,
+    "name": "FlatOut"
+  },
+  {
+    "id": 272,
+    "name": "Flicky"
+  },
+  {
+    "id": 273,
+    "name": "Flight Simulator"
+  },
+  {
+    "id": 274,
+    "name": "Flower"
+  },
+  {
+    "id": 275,
+    "name": "Flyff"
+  },
+  {
+    "id": 276,
+    "name": "Football Manager"
+  },
+  {
+    "id": 277,
+    "name": "Forsaken World"
+  },
+  {
+    "id": 278,
+    "name": "Fortnite"
+  },
+  {
+    "id": 279,
+    "name": "Forza"
+  },
+  {
+    "id": 280,
+    "name": "Free Fire"
+  },
+  {
+    "id": 281,
+    "name": "Front Mission"
+  },
+  {
+    "id": 282,
+    "name": "Frostpunk"
+  },
+  {
+    "id": 283,
+    "name": "FTL Faster Than Light"
+  },
+  {
+    "id": 284,
+    "name": "Full Throttle"
+  },
+  {
+    "id": 285,
+    "name": "Gabriel Knight"
+  },
+  {
+    "id": 286,
+    "name": "Gacha"
+  },
+  {
+    "id": 287,
+    "name": "Galactic Civilizations"
+  },
+  {
+    "id": 288,
+    "name": "Galaga"
+  },
+  {
+    "id": 289,
+    "name": "Gears of War"
+  },
+  {
+    "id": 290,
+    "name": "Geneforge"
+  },
+  {
+    "id": 291,
+    "name": "Genshin Impact"
+  },
+  {
+    "id": 292,
+    "name": "Ghost of Tsushima"
+  },
+  {
+    "id": 293,
+    "name": "Ghost Recon"
+  },
+  {
+    "id": 294,
+    "name": "Ghost Trick"
+  },
+  {
+    "id": 295,
+    "name": "Ghosts n Goblins"
+  },
+  {
+    "id": 296,
+    "name": "Girls Frontline"
+  },
+  {
+    "id": 297,
+    "name": "God of War"
+  },
+  {
+    "id": 298,
+    "name": "Golden Axe"
+  },
+  {
+    "id": 299,
+    "name": "GoldenEye 007"
+  },
+  {
+    "id": 300,
+    "name": "Gone Home"
+  },
+  {
+    "id": 301,
+    "name": "Gothic"
+  },
+  {
+    "id": 302,
+    "name": "Gradius"
+  },
+  {
+    "id": 303,
+    "name": "Gran Turismo"
+  },
+  {
+    "id": 304,
+    "name": "Grand Chase"
+  },
+  {
+    "id": 305,
+    "name": "Grand Theft Auto"
+  },
+  {
+    "id": 306,
+    "name": "Grandia"
+  },
+  {
+    "id": 307,
+    "name": "GreedFall"
+  },
+  {
+    "id": 308,
+    "name": "GRID"
+  },
+  {
+    "id": 309,
+    "name": "Gris"
+  },
+  {
+    "id": 310,
+    "name": "Grisaia no Kajitsu"
+  },
+  {
+    "id": 311,
+    "name": "Growlanser"
+  },
+  {
+    "id": 312,
+    "name": "Guardian Heroes"
+  },
+  {
+    "id": 313,
+    "name": "Guild Wars"
+  },
+  {
+    "id": 314,
+    "name": "Guilty Gear"
+  },
+  {
+    "id": 315,
+    "name": "Guitar Hero"
+  },
+  {
+    "id": 316,
+    "name": "Gunbird"
+  },
+  {
+    "id": 317,
+    "name": "Gundam Versus"
+  },
+  {
+    "id": 318,
+    "name": "Gunstar Heroes"
+  },
+  {
+    "id": 319,
+    "name": "Gwent"
+  },
+  {
+    "id": 320,
+    "name": "Habbo Hotel"
+  },
+  {
+    "id": 321,
+    "name": "Hades"
+  },
+  {
+    "id": 322,
+    "name": "Half-Life"
+  },
+  {
+    "id": 323,
+    "name": "Halo"
+  },
+  {
+    "id": 324,
+    "name": "Hang-On"
+  },
+  {
+    "id": 325,
+    "name": "Harvest Moon"
+  },
+  {
+    "id": 326,
+    "name": "Haunted Castle"
+  },
+  {
+    "id": 327,
+    "name": "Hay Day"
+  },
+  {
+    "id": 328,
+    "name": "Hearthstone"
+  },
+  {
+    "id": 329,
+    "name": "Hearts of Iron"
+  },
+  {
+    "id": 330,
+    "name": "Helldivers"
+  },
+  {
+    "id": 331,
+    "name": "Heretic"
+  },
+  {
+    "id": 332,
+    "name": "Heroes of Might and Magic"
+  },
+  {
+    "id": 333,
+    "name": "Heroes of the Storm"
+  },
+  {
+    "id": 334,
+    "name": "Hexen"
+  },
+  {
+    "id": 335,
+    "name": "Higurashi no Naku Koro ni"
+  },
+  {
+    "id": 336,
+    "name": "Hitman"
+  },
+  {
+    "id": 337,
+    "name": "Hollow Knight"
+  },
+  {
+    "id": 338,
+    "name": "Homeworld"
+  },
+  {
+    "id": 339,
+    "name": "Honkai Impact 3rd"
+  },
+  {
+    "id": 340,
+    "name": "Honkai Star Rail"
+  },
+  {
+    "id": 341,
+    "name": "Honor of Kings"
+  },
+  {
+    "id": 342,
+    "name": "Horizon"
+  },
+  {
+    "id": 343,
+    "name": "Horizon Chase"
+  },
+  {
+    "id": 344,
+    "name": "Hotel Dusk"
+  },
+  {
+    "id": 345,
+    "name": "Hotline Miami"
+  },
+  {
+    "id": 346,
+    "name": "House of the Dead"
+  },
+  {
+    "id": 347,
+    "name": "Humankind"
+  },
+  {
+    "id": 348,
+    "name": "Hunt Showdown"
+  },
+  {
+    "id": 349,
+    "name": "Hyper Light Drifter"
+  },
+  {
+    "id": 350,
+    "name": "Hyperdimension Neptunia"
+  },
+  {
+    "id": 351,
+    "name": "Ice Climber"
+  },
+  {
+    "id": 352,
+    "name": "Icewind Dale"
+  },
+  {
+    "id": 353,
+    "name": "ICO"
+  },
+  {
+    "id": 354,
+    "name": "Idea Factory Compile Heart Neptunia"
+  },
+  {
+    "id": 355,
+    "name": "Ikaruga"
+  },
+  {
+    "id": 356,
+    "name": "Imperator Rome"
+  },
+  {
+    "id": 357,
+    "name": "IMVU"
+  },
+  {
+    "id": 358,
+    "name": "Inazuma Eleven"
+  },
+  {
+    "id": 359,
+    "name": "Incubation"
+  },
+  {
+    "id": 360,
+    "name": "Indiana Jones Fate of Atlantis"
+  },
+  {
+    "id": 361,
+    "name": "Infocom catalog"
+  },
+  {
+    "id": 362,
+    "name": "Initial D Arcade Stage"
+  },
+  {
+    "id": 363,
+    "name": "Injustice"
+  },
+  {
+    "id": 364,
+    "name": "Inscryption"
+  },
+  {
+    "id": 365,
+    "name": "Inside"
+  },
+  {
+    "id": 366,
+    "name": "Insurgency"
+  },
+  {
+    "id": 367,
+    "name": "interactive fiction lineage"
+  },
+  {
+    "id": 368,
+    "name": "Into the Breach"
+  },
+  {
+    "id": 369,
+    "name": "iRacing"
+  },
+  {
+    "id": 370,
+    "name": "Jade Empire"
+  },
+  {
+    "id": 371,
+    "name": "Jagged Alliance"
+  },
+  {
+    "id": 372,
+    "name": "Jak and Daxter"
+  },
+  {
+    "id": 373,
+    "name": "Jetfighter"
+  },
+  {
+    "id": 374,
+    "name": "Joe & Mac"
+  },
+  {
+    "id": 375,
+    "name": "JoJo’s Bizarre Adventure Heritage for the Future"
+  },
+  {
+    "id": 376,
+    "name": "Journey"
+  },
+  {
+    "id": 377,
+    "name": "Kanon"
+  },
+  {
+    "id": 378,
+    "name": "Karnov’s Revenge"
+  },
+  {
+    "id": 379,
+    "name": "Katana ZERO"
+  },
+  {
+    "id": 380,
+    "name": "Kemco RPG catalog"
+  },
+  {
+    "id": 381,
+    "name": "Kenshi"
+  },
+  {
+    "id": 382,
+    "name": "Kentucky Route Zero"
+  },
+  {
+    "id": 383,
+    "name": "Kerbal Space Program"
+  },
+  {
+    "id": 384,
+    "name": "Kid Chameleon"
+  },
+  {
+    "id": 385,
+    "name": "Kid Icarus"
+  },
+  {
+    "id": 386,
+    "name": "Kill Switch"
+  },
+  {
+    "id": 387,
+    "name": "Killer Instinct"
+  },
+  {
+    "id": 388,
+    "name": "Killzone"
+  },
+  {
+    "id": 389,
+    "name": "KimiKiss"
+  },
+  {
+    "id": 390,
+    "name": "King of Dragons"
+  },
+  {
+    "id": 391,
+    "name": "King’s Field"
+  },
+  {
+    "id": 392,
+    "name": "King’s Quest"
+  },
+  {
+    "id": 393,
+    "name": "Kingdom Come Deliverance"
+  },
+  {
+    "id": 394,
+    "name": "Kingdom Hearts"
+  },
+  {
+    "id": 395,
+    "name": "Kirby"
+  },
+  {
+    "id": 396,
+    "name": "KKND"
+  },
+  {
+    "id": 397,
+    "name": "Knights of the Round"
+  },
+  {
+    "id": 398,
+    "name": "Kunio-kun"
+  },
+  {
+    "id": 399,
+    "name": "Langrisser"
+  },
+  {
+    "id": 400,
+    "name": "Last Blade"
+  },
+  {
+    "id": 401,
+    "name": "League of Legends"
+  },
+  {
+    "id": 402,
+    "name": "Left 4 Dead"
+  },
+  {
+    "id": 403,
+    "name": "Legend of Heroes"
+  },
+  {
+    "id": 404,
+    "name": "Legend of Legaia"
+  },
+  {
+    "id": 405,
+    "name": "Legend of Valkyrie"
+  },
+  {
+    "id": 406,
+    "name": "Legends of Grimrock"
+  },
+  {
+    "id": 407,
+    "name": "Legends of Runeterra"
+  },
+  {
+    "id": 408,
+    "name": "Leisure Suit Larry"
+  },
+  {
+    "id": 409,
+    "name": "Lemmings"
+  },
+  {
+    "id": 410,
+    "name": "Lethal Enforcers"
+  },
+  {
+    "id": 411,
+    "name": "Limbo"
+  },
+  {
+    "id": 412,
+    "name": "Lineage"
+  },
+  {
+    "id": 413,
+    "name": "Little Busters"
+  },
+  {
+    "id": 414,
+    "name": "Little Nemo"
+  },
+  {
+    "id": 415,
+    "name": "Little Nightmares"
+  },
+  {
+    "id": 416,
+    "name": "Little Samson"
+  },
+  {
+    "id": 417,
+    "name": "LittleBigPlanet"
+  },
+  {
+    "id": 418,
+    "name": "Live A Live"
+  },
+  {
+    "id": 419,
+    "name": "Live2D Visual Novel ecosystem"
+  },
+  {
+    "id": 420,
+    "name": "Loom"
+  },
+  {
+    "id": 421,
+    "name": "Loop Hero"
+  },
+  {
+    "id": 422,
+    "name": "Lord of the Rings War of the Ring"
+  },
+  {
+    "id": 423,
+    "name": "Lords of the Realm"
+  },
+  {
+    "id": 424,
+    "name": "Lost Ark"
+  },
+  {
+    "id": 425,
+    "name": "Lost Odyssey"
+  },
+  {
+    "id": 426,
+    "name": "Love Plus"
+  },
+  {
+    "id": 427,
+    "name": "Lufia"
+  },
+  {
+    "id": 428,
+    "name": "Lunar"
+  },
+  {
+    "id": 429,
+    "name": "Madden NFL"
+  },
+  {
+    "id": 430,
+    "name": "Mafia"
+  },
+  {
+    "id": 431,
+    "name": "Magic Sword"
+  },
+  {
+    "id": 432,
+    "name": "Magic The Gathering Arena"
+  },
+  {
+    "id": 433,
+    "name": "Makai Kingdom"
+  },
+  {
+    "id": 434,
+    "name": "Mana"
+  },
+  {
+    "id": 435,
+    "name": "Maniac Mansion"
+  },
+  {
+    "id": 436,
+    "name": "MapleStory"
+  },
+  {
+    "id": 437,
+    "name": "Marathon"
+  },
+  {
+    "id": 438,
+    "name": "Mario Kart"
+  },
+  {
+    "id": 439,
+    "name": "Marvel Snap"
+  },
+  {
+    "id": 440,
+    "name": "Marvel vs Capcom"
+  },
+  {
+    "id": 441,
+    "name": "Mass Effect"
+  },
+  {
+    "id": 442,
+    "name": "Master of Magic"
+  },
+  {
+    "id": 443,
+    "name": "Master of Orion"
+  },
+  {
+    "id": 444,
+    "name": "Max Payne"
+  },
+  {
+    "id": 445,
+    "name": "MechCommander"
+  },
+  {
+    "id": 446,
+    "name": "MechWarrior"
+  },
+  {
+    "id": 447,
+    "name": "Medal of Honor"
+  },
+  {
+    "id": 448,
+    "name": "Mega Man"
+  },
+  {
+    "id": 449,
+    "name": "Megami Tensei"
+  },
+  {
+    "id": 450,
+    "name": "Melty Blood"
+  },
+  {
+    "id": 451,
+    "name": "Men of War"
+  },
+  {
+    "id": 452,
+    "name": "Mercs"
+  },
+  {
+    "id": 453,
+    "name": "Metal Gear"
+  },
+  {
+    "id": 454,
+    "name": "Metal Slug"
+  },
+  {
+    "id": 455,
+    "name": "Metin2"
+  },
+  {
+    "id": 456,
+    "name": "Metro"
+  },
+  {
+    "id": 457,
+    "name": "Metroid"
+  },
+  {
+    "id": 458,
+    "name": "Microsoft Train Simulator"
+  },
+  {
+    "id": 459,
+    "name": "Midnight Club"
+  },
+  {
+    "id": 460,
+    "name": "Might and Magic"
+  },
+  {
+    "id": 461,
+    "name": "Minecraft"
+  },
+  {
+    "id": 462,
+    "name": "MLB The Show"
+  },
+  {
+    "id": 463,
+    "name": "Mobile Legends"
+  },
+  {
+    "id": 464,
+    "name": "Monster Hunter"
+  },
+  {
+    "id": 465,
+    "name": "Monster Train"
+  },
+  {
+    "id": 466,
+    "name": "Mortal Kombat"
+  },
+  {
+    "id": 467,
+    "name": "MotorStorm"
+  },
+  {
+    "id": 468,
+    "name": "Mount and Blade"
+  },
+  {
+    "id": 469,
+    "name": "MU Online"
+  },
+  {
+    "id": 470,
+    "name": "MudRunner"
+  },
+  {
+    "id": 471,
+    "name": "Muramasa"
+  },
+  {
+    "id": 472,
+    "name": "MX vs ATV"
+  },
+  {
+    "id": 473,
+    "name": "Myst"
+  },
+  {
+    "id": 474,
+    "name": "Namco System 11 library"
+  },
+  {
+    "id": 475,
+    "name": "Namco System 12 library"
+  },
+  {
+    "id": 476,
+    "name": "Namco System 22 library"
+  },
+  {
+    "id": 477,
+    "name": "Naruto Ultimate Ninja Storm"
+  },
+  {
+    "id": 478,
+    "name": "NBA 2K"
+  },
+  {
+    "id": 479,
+    "name": "NBA Live"
+  },
+  {
+    "id": 480,
+    "name": "Need for Speed"
+  },
+  {
+    "id": 481,
+    "name": "Nekopara"
+  },
+  {
+    "id": 482,
+    "name": "Neo Geo Battle Coliseum"
+  },
+  {
+    "id": 483,
+    "name": "Neo Geo library"
+  },
+  {
+    "id": 484,
+    "name": "Neon White"
+  },
+  {
+    "id": 485,
+    "name": "Neopets"
+  },
+  {
+    "id": 486,
+    "name": "Neverwinter"
+  },
+  {
+    "id": 487,
+    "name": "Neverwinter Nights"
+  },
+  {
+    "id": 488,
+    "name": "New World"
+  },
+  {
+    "id": 489,
+    "name": "NHL"
+  },
+  {
+    "id": 490,
+    "name": "Ni no Kuni"
+  },
+  {
+    "id": 491,
+    "name": "NieR"
+  },
+  {
+    "id": 492,
+    "name": "Night in the Woods"
+  },
+  {
+    "id": 493,
+    "name": "Ninja Gaiden"
+  },
+  {
+    "id": 494,
+    "name": "Ninja Spirit"
+  },
+  {
+    "id": 495,
+    "name": "Nioh"
+  },
+  {
+    "id": 496,
+    "name": "No Man’s Sky"
+  },
+  {
+    "id": 497,
+    "name": "Northgard"
+  },
+  {
+    "id": 498,
+    "name": "NosTale"
+  },
+  {
+    "id": 499,
+    "name": "Nuclear Throne"
+  },
+  {
+    "id": 500,
+    "name": "Octopath Traveler"
+  },
+  {
+    "id": 501,
+    "name": "Odin Sphere"
+  },
+  {
+    "id": 502,
+    "name": "Ogre Battle"
+  },
+  {
+    "id": 503,
+    "name": "One Piece Burning Blood"
+  },
+  {
+    "id": 504,
+    "name": "Onimusha"
+  },
+  {
+    "id": 505,
+    "name": "OpenTTD"
+  },
+  {
+    "id": 506,
+    "name": "Operation Flashpoint"
+  },
+  {
+    "id": 507,
+    "name": "Operation Wolf"
+  },
+  {
+    "id": 508,
+    "name": "Ori"
+  },
+  {
+    "id": 509,
+    "name": "Osu! Tatakae! Ouendan"
+  },
+  {
+    "id": 510,
+    "name": "Out Run"
+  },
+  {
+    "id": 511,
+    "name": "Outer Wilds"
+  },
+  {
+    "id": 512,
+    "name": "OutRun"
+  },
+  {
+    "id": 513,
+    "name": "Outward"
+  },
+  {
+    "id": 514,
+    "name": "Overwatch"
+  },
+  {
+    "id": 515,
+    "name": "Overwatch 2"
+  },
+  {
+    "id": 516,
+    "name": "Oxenfree"
+  },
+  {
+    "id": 517,
+    "name": "Oxygen Not Included"
+  },
+  {
+    "id": 518,
+    "name": "Pac-Land"
+  },
+  {
+    "id": 519,
+    "name": "Pac-Man"
+  },
+  {
+    "id": 520,
+    "name": "Painkiller"
+  },
+  {
+    "id": 521,
+    "name": "Paladins"
+  },
+  {
+    "id": 522,
+    "name": "Papers Please"
+  },
+  {
+    "id": 523,
+    "name": "Parappa the Rapper"
+  },
+  {
+    "id": 524,
+    "name": "Parodius"
+  },
+  {
+    "id": 525,
+    "name": "Path of Exile"
+  },
+  {
+    "id": 526,
+    "name": "Pathfinder"
+  },
+  {
+    "id": 527,
+    "name": "Pathologic"
+  },
+  {
+    "id": 528,
+    "name": "Perfect Dark"
+  },
+  {
+    "id": 529,
+    "name": "Perfect World"
+  },
+  {
+    "id": 530,
+    "name": "Persona"
+  },
+  {
+    "id": 531,
+    "name": "PES Pro Evolution Soccer"
+  },
+  {
+    "id": 532,
+    "name": "Phantasmagoria"
+  },
+  {
+    "id": 533,
+    "name": "Phantasy Star"
+  },
+  {
+    "id": 534,
+    "name": "Phantasy Star Online"
+  },
+  {
+    "id": 535,
+    "name": "Phantom Brave"
+  },
+  {
+    "id": 536,
+    "name": "Phoenix Point"
+  },
+  {
+    "id": 537,
+    "name": "Pillars of Eternity"
+  },
+  {
+    "id": 538,
+    "name": "Pirate101"
+  },
+  {
+    "id": 539,
+    "name": "Planescape Torment"
+  },
+  {
+    "id": 540,
+    "name": "Planet Coaster"
+  },
+  {
+    "id": 541,
+    "name": "Planet Zoo"
+  },
+  {
+    "id": 542,
+    "name": "Planetarian"
+  },
+  {
+    "id": 543,
+    "name": "Planetary Annihilation"
+  },
+  {
+    "id": 544,
+    "name": "Point Blank"
+  },
+  {
+    "id": 545,
+    "name": "Pokémon"
+  },
+  {
+    "id": 546,
+    "name": "Pokkén Tournament"
+  },
+  {
+    "id": 547,
+    "name": "Police 911"
+  },
+  {
+    "id": 548,
+    "name": "Police Quest"
+  },
+  {
+    "id": 549,
+    "name": "Pony Island"
+  },
+  {
+    "id": 550,
+    "name": "Pop’n Music"
+  },
+  {
+    "id": 551,
+    "name": "Populous"
+  },
+  {
+    "id": 552,
+    "name": "Portal"
+  },
+  {
+    "id": 553,
+    "name": "Postal"
+  },
+  {
+    "id": 554,
+    "name": "Power Stone"
+  },
+  {
+    "id": 555,
+    "name": "Prey"
+  },
+  {
+    "id": 556,
+    "name": "Primal Rage"
+  },
+  {
+    "id": 557,
+    "name": "Prison Architect"
+  },
+  {
+    "id": 558,
+    "name": "Professor Layton"
+  },
+  {
+    "id": 559,
+    "name": "Project CARS"
+  },
+  {
+    "id": 560,
+    "name": "Project I.G.I."
+  },
+  {
+    "id": 561,
+    "name": "Project Zomboid"
+  },
+  {
+    "id": 562,
+    "name": "PUBG Battlegrounds"
+  },
+  {
+    "id": 563,
+    "name": "PUBG Mobile"
+  },
+  {
+    "id": 564,
+    "name": "Punch-Out"
+  },
+  {
+    "id": 565,
+    "name": "Punishing Gray Raven"
+  },
+  {
+    "id": 566,
+    "name": "Quake"
+  },
+  {
+    "id": 567,
+    "name": "Quest for Glory"
+  },
+  {
+    "id": 568,
+    "name": "R-Type"
+  },
+  {
+    "id": 569,
+    "name": "Radiant Historia"
+  },
+  {
+    "id": 570,
+    "name": "Radiant Silvergun"
+  },
+  {
+    "id": 571,
+    "name": "Rage"
+  },
+  {
+    "id": 572,
+    "name": "Rage of the Dragons"
+  },
+  {
+    "id": 573,
+    "name": "Ragnarok"
+  },
+  {
+    "id": 574,
+    "name": "Raid Shadow Legends"
+  },
+  {
+    "id": 575,
+    "name": "Raiden"
+  },
+  {
+    "id": 576,
+    "name": "Railroad Tycoon"
+  },
+  {
+    "id": 577,
+    "name": "Railway Empire"
+  },
+  {
+    "id": 578,
+    "name": "Rain World"
+  },
+  {
+    "id": 579,
+    "name": "Rainbow Six"
+  },
+  {
+    "id": 580,
+    "name": "Rallisport Challenge"
+  },
+  {
+    "id": 581,
+    "name": "Rappelz"
+  },
+  {
+    "id": 582,
+    "name": "Rastan"
+  },
+  {
+    "id": 583,
+    "name": "Ratchet & Clank"
+  },
+  {
+    "id": 584,
+    "name": "Ready or Not"
+  },
+  {
+    "id": 585,
+    "name": "Red Dead Redemption"
+  },
+  {
+    "id": 586,
+    "name": "Red Faction"
+  },
+  {
+    "id": 587,
+    "name": "Resident Evil"
+  },
+  {
+    "id": 588,
+    "name": "Resistance"
+  },
+  {
+    "id": 589,
+    "name": "Return of the Obra Dinn"
+  },
+  {
+    "id": 590,
+    "name": "Rewrite"
+  },
+  {
+    "id": 591,
+    "name": "Rez"
+  },
+  {
+    "id": 592,
+    "name": "Rhythm Heaven"
+  },
+  {
+    "id": 593,
+    "name": "Richard Burns Rally"
+  },
+  {
+    "id": 594,
+    "name": "Ridge Racer"
+  },
+  {
+    "id": 595,
+    "name": "RimWorld"
+  },
+  {
+    "id": 596,
+    "name": "Rise of Nations"
+  },
+  {
+    "id": 597,
+    "name": "Rise of the Triad"
+  },
+  {
+    "id": 598,
+    "name": "Risen"
+  },
+  {
+    "id": 599,
+    "name": "Risk of Rain"
+  },
+  {
+    "id": 600,
+    "name": "Rival Schools"
+  },
+  {
+    "id": 601,
+    "name": "River City Ransom"
+  },
+  {
+    "id": 602,
+    "name": "Road Rash"
+  },
+  {
+    "id": 603,
+    "name": "Roblox"
+  },
+  {
+    "id": 604,
+    "name": "Robocop Rogue City"
+  },
+  {
+    "id": 605,
+    "name": "Robotics;Notes"
+  },
+  {
+    "id": 606,
+    "name": "Rock Band"
+  },
+  {
+    "id": 607,
+    "name": "Rocket League"
+  },
+  {
+    "id": 608,
+    "name": "RollerCoaster Tycoon"
+  },
+  {
+    "id": 609,
+    "name": "RuneScape"
+  },
+  {
+    "id": 610,
+    "name": "Rust"
+  },
+  {
+    "id": 611,
+    "name": "Rygar"
+  },
+  {
+    "id": 612,
+    "name": "S.T.A.L.K.E.R."
+  },
+  {
+    "id": 613,
+    "name": "SaGa"
+  },
+  {
+    "id": 614,
+    "name": "Saints Row"
+  },
+  {
+    "id": 615,
+    "name": "Sam & Max Hit the Road"
+  },
+  {
+    "id": 616,
+    "name": "Samba de Amigo"
+  },
+  {
+    "id": 617,
+    "name": "Samurai Shodown"
+  },
+  {
+    "id": 618,
+    "name": "Satisfactory"
+  },
+  {
+    "id": 619,
+    "name": "Saturday Night Slam Masters"
+  },
+  {
+    "id": 620,
+    "name": "Saya no Uta"
+  },
+  {
+    "id": 621,
+    "name": "Scarlet Nexus"
+  },
+  {
+    "id": 622,
+    "name": "School Days"
+  },
+  {
+    "id": 623,
+    "name": "Sea of Thieves"
+  },
+  {
+    "id": 624,
+    "name": "Second Life"
+  },
+  {
+    "id": 625,
+    "name": "Sega Model 2 library"
+  },
+  {
+    "id": 626,
+    "name": "Sega Model 3 library"
+  },
+  {
+    "id": 627,
+    "name": "Sega Rally"
+  },
+  {
+    "id": 628,
+    "name": "Sekiro"
+  },
+  {
+    "id": 629,
+    "name": "Serious Sam"
+  },
+  {
+    "id": 630,
+    "name": "Shadow Hearts"
+  },
+  {
+    "id": 631,
+    "name": "Shadow of the Colossus"
+  },
+  {
+    "id": 632,
+    "name": "Shadow of the Ninja"
+  },
+  {
+    "id": 633,
+    "name": "Shadow Tower"
+  },
+  {
+    "id": 634,
+    "name": "Shadow Warrior"
+  },
+  {
+    "id": 635,
+    "name": "Shadowrun"
+  },
+  {
+    "id": 636,
+    "name": "Shaiya"
+  },
+  {
+    "id": 637,
+    "name": "Shatterhand"
+  },
+  {
+    "id": 638,
+    "name": "Sherlock Holmes"
+  },
+  {
+    "id": 639,
+    "name": "Shin Megami Tensei"
+  },
+  {
+    "id": 640,
+    "name": "Shining Force"
+  },
+  {
+    "id": 641,
+    "name": "Shinobi"
+  },
+  {
+    "id": 642,
+    "name": "Shinobido"
+  },
+  {
+    "id": 643,
+    "name": "Shovel Knight"
+  },
+  {
+    "id": 644,
+    "name": "Silent Hill"
+  },
+  {
+    "id": 645,
+    "name": "Silent Scope"
+  },
+  {
+    "id": 646,
+    "name": "SimAnt"
+  },
+  {
+    "id": 647,
+    "name": "SimCity"
+  },
+  {
+    "id": 648,
+    "name": "SimCity Classic"
+  },
+  {
+    "id": 649,
+    "name": "SimCopter"
+  },
+  {
+    "id": 650,
+    "name": "SimEarth"
+  },
+  {
+    "id": 651,
+    "name": "SimFarm"
+  },
+  {
+    "id": 652,
+    "name": "SimGolf"
+  },
+  {
+    "id": 653,
+    "name": "SimHealth"
+  },
+  {
+    "id": 654,
+    "name": "SimIsle"
+  },
+  {
+    "id": 655,
+    "name": "SimLife"
+  },
+  {
+    "id": 656,
+    "name": "Simon the Sorcerer"
+  },
+  {
+    "id": 657,
+    "name": "Simpsons Arcade"
+  },
+  {
+    "id": 658,
+    "name": "SimRefinery"
+  },
+  {
+    "id": 659,
+    "name": "SimTheme Park"
+  },
+  {
+    "id": 660,
+    "name": "SimTower"
+  },
+  {
+    "id": 661,
+    "name": "Sins of a Solar Empire"
+  },
+  {
+    "id": 662,
+    "name": "Skate"
+  },
+  {
+    "id": 663,
+    "name": "Skullgirls"
+  },
+  {
+    "id": 664,
+    "name": "Slay the Spire"
+  },
+  {
+    "id": 665,
+    "name": "Sleeping Dogs"
+  },
+  {
+    "id": 666,
+    "name": "Sly Cooper"
+  },
+  {
+    "id": 667,
+    "name": "Smite"
+  },
+  {
+    "id": 668,
+    "name": "Sniper Elite"
+  },
+  {
+    "id": 669,
+    "name": "SNK Arcade Universe"
+  },
+  {
+    "id": 670,
+    "name": "Snow Bros"
+  },
+  {
+    "id": 671,
+    "name": "Solomon’s Key"
+  },
+  {
+    "id": 672,
+    "name": "Sonic Racing"
+  },
+  {
+    "id": 673,
+    "name": "Soul Hackers"
+  },
+  {
+    "id": 674,
+    "name": "Soulcalibur"
+  },
+  {
+    "id": 675,
+    "name": "SoulWorker"
+  },
+  {
+    "id": 676,
+    "name": "Space Channel 5"
+  },
+  {
+    "id": 677,
+    "name": "Space Empires"
+  },
+  {
+    "id": 678,
+    "name": "Space Engineers"
+  },
+  {
+    "id": 679,
+    "name": "Space Harrier"
+  },
+  {
+    "id": 680,
+    "name": "Space Invaders"
+  },
+  {
+    "id": 681,
+    "name": "Space Quest"
+  },
+  {
+    "id": 682,
+    "name": "Spec Ops The Line"
+  },
+  {
+    "id": 683,
+    "name": "Spelunky"
+  },
+  {
+    "id": 684,
+    "name": "Spiderweb Software Universe"
+  },
+  {
+    "id": 685,
+    "name": "Spintires"
+  },
+  {
+    "id": 686,
+    "name": "Splatoon"
+  },
+  {
+    "id": 687,
+    "name": "Splinter Cell"
+  },
+  {
+    "id": 688,
+    "name": "Split/Second"
+  },
+  {
+    "id": 689,
+    "name": "Splitgate"
+  },
+  {
+    "id": 690,
+    "name": "Spyro"
+  },
+  {
+    "id": 691,
+    "name": "Squad"
+  },
+  {
+    "id": 692,
+    "name": "SSX"
+  },
+  {
+    "id": 693,
+    "name": "Star Citizen"
+  },
+  {
+    "id": 694,
+    "name": "Star Force"
+  },
+  {
+    "id": 695,
+    "name": "Star Ocean"
+  },
+  {
+    "id": 696,
+    "name": "Star Trek Online"
+  },
+  {
+    "id": 697,
+    "name": "Star Wars"
+  },
+  {
+    "id": 698,
+    "name": "Star Wars The Old Republic"
+  },
+  {
+    "id": 699,
+    "name": "Star Wars X-Wing"
+  },
+  {
+    "id": 700,
+    "name": "Starbound"
+  },
+  {
+    "id": 701,
+    "name": "StarCraft"
+  },
+  {
+    "id": 702,
+    "name": "Stardew Valley"
+  },
+  {
+    "id": 703,
+    "name": "Starfield"
+  },
+  {
+    "id": 704,
+    "name": "StarTropics"
+  },
+  {
+    "id": 705,
+    "name": "Steel Division"
+  },
+  {
+    "id": 706,
+    "name": "Steins;Gate"
+  },
+  {
+    "id": 707,
+    "name": "Stellaris"
+  },
+  {
+    "id": 708,
+    "name": "Story of Seasons"
+  },
+  {
+    "id": 709,
+    "name": "Street Fighter"
+  },
+  {
+    "id": 710,
+    "name": "Streets of Rage"
+  },
+  {
+    "id": 711,
+    "name": "Strider"
+  },
+  {
+    "id": 712,
+    "name": "Strike Commander"
+  },
+  {
+    "id": 713,
+    "name": "Strikers 1945"
+  },
+  {
+    "id": 714,
+    "name": "Stronghold"
+  },
+  {
+    "id": 715,
+    "name": "Subnautica"
+  },
+  {
+    "id": 716,
+    "name": "Sudden Attack"
+  },
+  {
+    "id": 717,
+    "name": "Sudden Strike"
+  },
+  {
+    "id": 718,
+    "name": "Suikoden"
+  },
+  {
+    "id": 719,
+    "name": "Summoners War"
+  },
+  {
+    "id": 720,
+    "name": "Sunset Riders"
+  },
+  {
+    "id": 721,
+    "name": "Super Mario"
+  },
+  {
+    "id": 722,
+    "name": "Super Meat Boy"
+  },
+  {
+    "id": 723,
+    "name": "Super Off Road"
+  },
+  {
+    "id": 724,
+    "name": "Super R-Type"
+  },
+  {
+    "id": 725,
+    "name": "Super Robot Wars"
+  },
+  {
+    "id": 726,
+    "name": "Supreme Commander"
+  },
+  {
+    "id": 727,
+    "name": "Surviving Mars"
+  },
+  {
+    "id": 728,
+    "name": "Surviving the Aftermath"
+  },
+  {
+    "id": 729,
+    "name": "System Shock"
+  },
+  {
+    "id": 730,
+    "name": "Tactics Ogre"
+  },
+  {
+    "id": 731,
+    "name": "Taiko no Tatsujin"
+  },
+  {
+    "id": 732,
+    "name": "Tales"
+  },
+  {
+    "id": 733,
+    "name": "Team Fortress"
+  },
+  {
+    "id": 734,
+    "name": "Teamfight Tactics"
+  },
+  {
+    "id": 735,
+    "name": "TEAMFIGHT TACTICS"
+  },
+  {
+    "id": 736,
+    "name": "Teenage Mutant Ninja Turtles Arcade"
+  },
+  {
+    "id": 737,
+    "name": "Tekken"
+  },
+  {
+    "id": 738,
+    "name": "Tenchi no Mon"
+  },
+  {
+    "id": 739,
+    "name": "TERA"
+  },
+  {
+    "id": 740,
+    "name": "Terminal Velocity"
+  },
+  {
+    "id": 741,
+    "name": "Terminator Resistance"
+  },
+  {
+    "id": 742,
+    "name": "Terraria"
+  },
+  {
+    "id": 743,
+    "name": "Test Drive"
+  },
+  {
+    "id": 744,
+    "name": "Tetris"
+  },
+  {
+    "id": 745,
+    "name": "text adventure lineage"
+  },
+  {
+    "id": 746,
+    "name": "The 7th Guest"
+  },
+  {
+    "id": 747,
+    "name": "The Binding of Isaac"
+  },
+  {
+    "id": 748,
+    "name": "The Crew"
+  },
+  {
+    "id": 749,
+    "name": "The Division"
+  },
+  {
+    "id": 750,
+    "name": "The Elder Scrolls"
+  },
+  {
+    "id": 751,
+    "name": "The Elder Scrolls Online"
+  },
+  {
+    "id": 752,
+    "name": "The Finals"
+  },
+  {
+    "id": 753,
+    "name": "The King of Fighters"
+  },
+  {
+    "id": 754,
+    "name": "The Last of Us"
+  },
+  {
+    "id": 755,
+    "name": "The Legend of Zelda"
+  },
+  {
+    "id": 756,
+    "name": "The Long Dark"
+  },
+  {
+    "id": 757,
+    "name": "The Lord of the Rings Online"
+  },
+  {
+    "id": 758,
+    "name": "The Ninja Warriors"
+  },
+  {
+    "id": 759,
+    "name": "The Punisher Arcade"
+  },
+  {
+    "id": 760,
+    "name": "The Settlers"
+  },
+  {
+    "id": 761,
+    "name": "The Sims"
+  },
+  {
+    "id": 762,
+    "name": "The Stanley Parable"
+  },
+  {
+    "id": 763,
+    "name": "The Witcher"
+  },
+  {
+    "id": 764,
+    "name": "Theme Hospital"
+  },
+  {
+    "id": 765,
+    "name": "Theme Park"
+  },
+  {
+    "id": 766,
+    "name": "They Are Billions"
+  },
+  {
+    "id": 767,
+    "name": "Thief"
+  },
+  {
+    "id": 768,
+    "name": "Three Wonders"
+  },
+  {
+    "id": 769,
+    "name": "Thunder Force"
+  },
+  {
+    "id": 770,
+    "name": "Tibia"
+  },
+  {
+    "id": 771,
+    "name": "Time Crisis"
+  },
+  {
+    "id": 772,
+    "name": "Time Killers"
+  },
+  {
+    "id": 773,
+    "name": "Timesplitters"
+  },
+  {
+    "id": 774,
+    "name": "Titanfall"
+  },
+  {
+    "id": 775,
+    "name": "To Heart"
+  },
+  {
+    "id": 776,
+    "name": "Toaplan catalog"
+  },
+  {
+    "id": 777,
+    "name": "Tobal"
+  },
+  {
+    "id": 778,
+    "name": "Toki"
+  },
+  {
+    "id": 779,
+    "name": "Tokimeki Memorial"
+  },
+  {
+    "id": 780,
+    "name": "Tokyo Mirage Sessions"
+  },
+  {
+    "id": 781,
+    "name": "Tokyo Xanadu"
+  },
+  {
+    "id": 782,
+    "name": "Tokyo Xtreme Racer"
+  },
+  {
+    "id": 783,
+    "name": "Tom Clancy’s The Division Heartland"
+  },
+  {
+    "id": 784,
+    "name": "Tony Hawk’s Pro Skater"
+  },
+  {
+    "id": 785,
+    "name": "Toontown"
+  },
+  {
+    "id": 786,
+    "name": "Torchlight"
+  },
+  {
+    "id": 787,
+    "name": "Torment Tides of Numenera"
+  },
+  {
+    "id": 788,
+    "name": "Total Annihilation"
+  },
+  {
+    "id": 789,
+    "name": "Total War"
+  },
+  {
+    "id": 790,
+    "name": "Train Sim World"
+  },
+  {
+    "id": 791,
+    "name": "Train Simulator Classic"
+  },
+  {
+    "id": 792,
+    "name": "Transport Tycoon"
+  },
+  {
+    "id": 793,
+    "name": "Transport Tycoon Deluxe"
+  },
+  {
+    "id": 794,
+    "name": "Tree of Savior"
+  },
+  {
+    "id": 795,
+    "name": "Triangle Strategy"
+  },
+  {
+    "id": 796,
+    "name": "Tropico"
+  },
+  {
+    "id": 797,
+    "name": "Tsukihime"
+  },
+  {
+    "id": 798,
+    "name": "TwinBee"
+  },
+  {
+    "id": 799,
+    "name": "Twisted Metal"
+  },
+  {
+    "id": 800,
+    "name": "Two Worlds"
+  },
+  {
+    "id": 801,
+    "name": "Tyranny"
+  },
+  {
+    "id": 802,
+    "name": "UFC"
+  },
+  {
+    "id": 803,
+    "name": "UFO Aftermath"
+  },
+  {
+    "id": 804,
+    "name": "UFO Enemy Unknown"
+  },
+  {
+    "id": 805,
+    "name": "UFO Extraterrestrials"
+  },
+  {
+    "id": 806,
+    "name": "Ufouria"
+  },
+  {
+    "id": 807,
+    "name": "Ultima"
+  },
+  {
+    "id": 808,
+    "name": "Ultima Online"
+  },
+  {
+    "id": 809,
+    "name": "Umineko no Naku Koro ni"
+  },
+  {
+    "id": 810,
+    "name": "Uncharted"
+  },
+  {
+    "id": 811,
+    "name": "Under Night In-Birth"
+  },
+  {
+    "id": 812,
+    "name": null
+  },
+  {
+    "id": 813,
+    "name": "Undertale"
+  },
+  {
+    "id": 814,
+    "name": "Unreal"
+  },
+  {
+    "id": 815,
+    "name": "Utawarerumono"
+  },
+  {
+    "id": 816,
+    "name": "V Rising"
+  },
+  {
+    "id": 817,
+    "name": "Valheim"
+  },
+  {
+    "id": 818,
+    "name": "Valkyria Chronicles"
+  },
+  {
+    "id": 819,
+    "name": "Valkyrie Profile"
+  },
+  {
+    "id": 820,
+    "name": "Valorant"
+  },
+  {
+    "id": 821,
+    "name": "Vampire Survivors"
+  },
+  {
+    "id": 822,
+    "name": "Vampire The Masquerade"
+  },
+  {
+    "id": 823,
+    "name": "Vandal Hearts"
+  },
+  {
+    "id": 824,
+    "name": "Vanillaware Universe"
+  },
+  {
+    "id": 825,
+    "name": "Victoria"
+  },
+  {
+    "id": 826,
+    "name": "Vigilante"
+  },
+  {
+    "id": 827,
+    "name": "Vindictus"
+  },
+  {
+    "id": 828,
+    "name": "Virtua Cop"
+  },
+  {
+    "id": 829,
+    "name": "Virtua Fighter"
+  },
+  {
+    "id": 830,
+    "name": "Virtua Racing"
+  },
+  {
+    "id": 831,
+    "name": "Virtue’s Last Reward"
+  },
+  {
+    "id": 832,
+    "name": "VRChat"
+  },
+  {
+    "id": 833,
+    "name": "War Gods"
+  },
+  {
+    "id": 834,
+    "name": "War Thunder"
+  },
+  {
+    "id": 835,
+    "name": "Warcraft"
+  },
+  {
+    "id": 836,
+    "name": "Warcraft Orcs & Humans"
+  },
+  {
+    "id": 837,
+    "name": "Warframe"
+  },
+  {
+    "id": 838,
+    "name": "Wargame Red Dragon"
+  },
+  {
+    "id": 839,
+    "name": "Warhammer"
+  },
+  {
+    "id": 840,
+    "name": "Warhammer 40K Dawn of War"
+  },
+  {
+    "id": 841,
+    "name": "Warhammer 40K Gladius"
+  },
+  {
+    "id": 842,
+    "name": "Warhammer 40K Space Marine"
+  },
+  {
+    "id": 843,
+    "name": "Warno"
+  },
+  {
+    "id": 844,
+    "name": "Wasteland"
+  },
+  {
+    "id": 845,
+    "name": "Watch Dogs"
+  },
+  {
+    "id": 846,
+    "name": "Wave Race"
+  },
+  {
+    "id": 847,
+    "name": "Way of the Warrior"
+  },
+  {
+    "id": 848,
+    "name": "Werewolf The Apocalypse"
+  },
+  {
+    "id": 849,
+    "name": "What Remains of Edith Finch"
+  },
+  {
+    "id": 850,
+    "name": "Wild Arms"
+  },
+  {
+    "id": 851,
+    "name": "Wing Commander"
+  },
+  {
+    "id": 852,
+    "name": "Wipeout"
+  },
+  {
+    "id": 853,
+    "name": "Wizard101"
+  },
+  {
+    "id": 854,
+    "name": "Wizardry"
+  },
+  {
+    "id": 855,
+    "name": "Wolfenstein"
+  },
+  {
+    "id": 856,
+    "name": "Wonder Boy"
+  },
+  {
+    "id": 857,
+    "name": "World Heroes"
+  },
+  {
+    "id": 858,
+    "name": "World in Conflict"
+  },
+  {
+    "id": 859,
+    "name": "World of Tanks"
+  },
+  {
+    "id": 860,
+    "name": "World of Warcraft"
+  },
+  {
+    "id": 861,
+    "name": "World of Warships"
+  },
+  {
+    "id": 862,
+    "name": "WRC"
+  },
+  {
+    "id": 863,
+    "name": "WWE 2K"
+  },
+  {
+    "id": 864,
+    "name": "X-COM"
+  },
+  {
+    "id": 865,
+    "name": "X-Men Arcade"
+  },
+  {
+    "id": 866,
+    "name": "X-Plane"
+  },
+  {
+    "id": 867,
+    "name": "Xain’d Sleena"
+  },
+  {
+    "id": 868,
+    "name": "Xenoblade Chronicles"
+  },
+  {
+    "id": 869,
+    "name": "Xenogears"
+  },
+  {
+    "id": 870,
+    "name": "Xenonauts"
+  },
+  {
+    "id": 871,
+    "name": "Xenosaga"
+  },
+  {
+    "id": 872,
+    "name": "Xevious"
+  },
+  {
+    "id": 873,
+    "name": "Yakuza"
+  },
+  {
+    "id": 874,
+    "name": "Yo-kai Watch"
+  },
+  {
+    "id": 875,
+    "name": "Ys"
+  },
+  {
+    "id": 876,
+    "name": "Z"
+  },
+  {
+    "id": 877,
+    "name": "Zanac"
+  },
+  {
+    "id": 878,
+    "name": "Zelda CD-i"
+  },
+  {
+    "id": 879,
+    "name": "Zenless Zone Zero"
+  },
+  {
+    "id": 880,
+    "name": "Zero Escape"
+  },
+  {
+    "id": 881,
+    "name": "Zero Gunner"
+  },
+  {
+    "id": 882,
+    "name": "Zero Wing"
+  },
+  {
+    "id": 883,
+    "name": "Zillion"
+  },
+  {
+    "id": 884,
+    "name": "Zoids"
+  },
+  {
+    "id": 885,
+    "name": "Zoo Tycoon"
+  },
+  {
+    "id": 886,
+    "name": "Zork"
+  }
+]

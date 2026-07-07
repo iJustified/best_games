@@ -1,0 +1,1731 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      const gamesList = [
+        `
+        Gex
+      Super Mario
+The Legend of Zelda
+Pokémon
+Metroid
+Kirby
+Donkey Kong
+Star Fox
+F-Zero
+Pikmin
+Animal Crossing
+Splatoon
+EarthBound
+Kid Icarus
+Fire Emblem
+Wario
+Yoshi
+Mega Man
+Street Fighter
+Resident Evil
+Devil May Cry
+Monster Hunter
+Dragon's Dogma
+Ace Attorney
+Dead Rising
+Onimusha
+Okami
+Viewtiful Joe
+Dino Crisis
+Breath of Fire
+Final Fight
+Ghosts 'n Goblins
+1942
+Bionic Commando
+Strider
+Sonic the Hedgehog
+Shinobi
+Streets of Rage
+Phantasy Star
+Panzer Dragoon
+Virtua Fighter
+Virtua Racing
+House of the Dead
+Crazy Taxi
+Jet Set Radio
+Shenmue
+NiGHTS into Dreams
+Rez
+Ecco the Dolphin
+Golden Axe
+Altered Beast
+Wonder Boy
+OutRun
+Space Channel 5
+Fantasy Zone
+Ristar
+ToeJam & Earl
+Dynamite Headdy
+Gunstar Heroes
+Thunder Force
+Metal Slug
+Disney’s Aladdin
+The King of Fighters
+Samurai Shodown
+Fatal Fury
+Art of Fighting
+Garou
+Sengoku
+Virtua Cop
+Sega Rally
+Daytona USA
+Crazy Taxi
+Doom
+Quake
+Wolfenstein
+Hexen
+Heretic
+Commander Keen
+Duke Nukem
+Unreal
+Half-Life
+Counter-Strike
+Portal
+Team Fortress
+Left 4 Dead
+Dota
+StarCraft
+WarCraft
+Diablo
+Overwatch
+World of Warcraft
+Hearthstone
+Heroes of the Storm
+Command & Conquer
+Red Alert
+Dune
+The Sims
+SimCity
+Spore
+Ultima
+Wing Commander
+System Shock
+Thief
+Deus Ex
+BioShock
+Dishonored
+Prey
+Fallout
+The Elder Scrolls
+Baldur's Gate
+Planescape
+Icewind Dale
+Neverwinter Nights
+Mass Effect
+Dragon Age
+Knights of the Old Republic
+Civilization
+X-COM
+Total War
+Age of Empires
+Age of Mythology
+Stronghold
+Heroes of Might and Magic
+Diablo
+Warhammer 40,000
+Homeworld
+Star Control
+Master of Orion
+Dungeon Keeper
+Populous
+RollerCoaster Tycoon
+Transport Tycoon
+Commandos
+Jagged Alliance
+Worms
+Carmageddon
+Descent
+Lemmings
+The 7th Guest
+Myst
+Riven
+The Longest Journey
+Gabriel Knight
+King's Quest
+Space Quest
+Police Quest
+Quest for Glory
+Maniac Mansion
+Day of the Tentacle
+Grim Fandango
+Full Throttle
+Monkey Island
+Sam & Max
+Leisure Suit Larry
+The Secret of Monkey Island
+Broken Sword
+Beneath a Steel Sky
+Another World
+Flashback
+Heart of Darkness
+Oddworld
+Abe's Oddysee
+Rayman
+Beyond Good & Evil
+Prince of Persia
+Assassin's Creed
+Far Cry
+Tom Clancy's Splinter Cell
+Tom Clancy's Rainbow Six
+Tom Clancy's Ghost Recon
+Watch Dogs
+The Division
+Anno
+TrackMania
+Driver
+Test Drive
+Need for Speed
+Burnout
+Mirror's Edge
+Skate
+SSX
+FIFA
+Madden NFL
+NHL
+NBA Live
+Tony Hawk's Pro Skater
+Gran Turismo
+Forza
+Mario Kart
+Wipeout
+F-Zero
+Ridge Racer
+Initial D Arcade Stage
+Virtua Tennis
+Top Spin
+Pro Evolution Soccer
+Soccer Kid
+Rocket League
+Dark Souls
+Demon's Souls
+Bloodborne
+Elden Ring
+Sekiro
+Nioh
+Monster Train
+Hollow Knight
+Ori
+Cuphead
+Celeste
+Braid
+Fez
+Limbo
+Inside
+LittleBigPlanet
+Dreams
+Journey
+Flower
+Shadow of the Colossus
+ICO
+The Last Guardian
+The Last of Us
+Uncharted
+God of War
+Ghost of Tsushima
+Ratchet & Clank
+Jak and Daxter
+Sly Cooper
+Ape Escape
+Patapon
+LocoRoco
+Vib-Ribbon
+Eternal Darkness
+Pikmin
+Viewtiful Joe
+Killer7
+No More Heroes
+Bayonetta
+Astral Chain
+Wonderful 101
+Xenoblade Chronicles
+Xenosaga
+Xenogears
+Chrono
+Dragon Quest
+Kingdom Hearts
+Star Ocean
+Tales
+Ys
+Trails
+Suikoden
+Valkyrie Profile
+Mana
+SaGa
+Shin Megami Tensei
+Persona
+Fire Emblem
+Advance Wars
+Tactics Ogre
+Disgaea
+Ogre Battle
+The World Ends with You
+Drakengard
+Parasite Eve
+Vagrant Story
+Live A Live
+EarthBound
+Mother
+Golden Sun
+Breath of Fire
+Lunar
+Grandia
+Wild Arms
+Skies of Arcadia
+Radiant Historia
+Etrian Odyssey
+Rune Factory
+Harvest Moon
+Stardew Valley
+Animal Crossing
+Fantasy Life
+Ace Attorney Investigations
+Danganronpa
+Zero Escape
+Steins;Gate
+Fate
+Clannad
+Higurashi
+Umineko
+The House in Fata Morgana
+428: Shibuya Scramble
+VA-11 Hall-A
+Disco Elysium
+The Stanley Parable
+The Witness
+Outer Wilds
+Return of the Obra Dinn
+Papers, Please
+Her Story
+Telling Lies
+Kentucky Route Zero
+What Remains of Edith Finch
+Gone Home
+Firewatch
+Oxenfree
+Night in the Woods
+To the Moon
+Undertale
+Deltarune
+Lisa
+OneShot
+Hylics
+Pathologic
+The Void
+The Path
+American McGee's Alice
+Psychonauts
+Brutal Legend
+Costume Quest
+World of Goo
+Super Hexagon
+Baba Is You
+Minecraft
+Terraria
+Roblox
+Garry's Mod
+Kerbal Space Program
+Factorio
+Satisfactory
+RimWorld
+Dwarf Fortress
+Don't Starve
+The Binding of Isaac
+Spelunky
+Cave Story
+La-Mulana
+Shovel Knight
+Axiom Verge
+Blasphemous
+Dead Cells
+Hades
+Transistor
+Bastion
+Pyre
+Risk of Rain
+Enter the Gungeon
+Nuclear Throne
+FTL: Faster Than Light
+Into the Breach
+Slay the Spire
+Inscryption
+Cult of the Lamb
+Vampire Survivors
+Papers, Please
+Beholder
+This War of Mine
+Frostpunk
+Banished
+Prison Architect
+Cities: Skylines
+Surviving Mars
+Planet Coaster
+Planet Zoo
+Euro Truck Simulator
+American Truck Simulator
+Microsoft Flight Simulator
+X-Plane
+Elite
+Elite Dangerous
+EVE Online
+Star Citizen
+No Man's Sky
+Star Wars: Knights of the Old Republic
+Star Wars: Battlefront
+Star Wars: Jedi
+Star Wars: The Old Republic
+Star Wars: Dark Forces
+Star Wars: Rogue Squadron
+Indiana Jones and the Fate of Atlantis
+Baldur's Gate
+Divinity
+Pillars of Eternity
+Tyranny
+Pathfinder
+Wasteland
+Arcanum
+Vampire: The Masquerade
+Darkest Dungeon
+Grim Dawn
+Torchlight
+Titan Quest
+Path of Exile
+Sacred
+Dungeon Siege
+Fable
+Jade Empire
+The Witcher
+Cyberpunk
+Red Dead Redemption
+Grand Theft Auto
+Bully
+L.A. Noire
+Max Payne
+Payday
+Manhunt
+Middle-earth: Shadow of Mordor
+The Battle for Middle-earth
+Midnight Club
+Alan Wake
+Control
+Quantum Break
+Silent Hill
+Castlevania
+Contra
+Metal Gear
+Snatcher
+Policenauts
+Zone of the Enders
+Suikoden
+Yu-Gi-Oh!
+Bomberman
+Goemon
+Parodius
+Gradius
+R-Type
+Darius
+Ikaruga
+Radiant Silvergun
+Rez
+Tetris
+Puyo Puyo
+Puzzle Bobble
+Bubble Bobble
+Q*bert
+Frogger
+Pac-Man
+Galaga
+Galaxian
+Space Invaders
+Asteroids
+Centipede
+Missile Command
+Pong
+Breakout
+Arkanoid
+Excitebike
+Ice Climber
+Balloon Fight
+Clu Clu Land
+Duck Hunt
+Punch-Out!!
+Wrecking Crew
+Ninja Gaiden
+Battletoads
+Double Dragon
+River City Ransom
+Kunio-kun
+Final Fantasy
+Dragon Warrior
+Phantasy Star
+Shining Force
+Langrisser
+Warsong
+Fire Emblem
+Mother
+ActRaiser
+Soul Blazer
+Illusion of Gaia
+Terranigma
+Secret of Mana
+Chrono Trigger
+Shenmue
+Soulcalibur
+Tekken
+Mortal Kombat
+Killer Instinct
+Marvel vs. Capcom
+Guilty Gear
+BlazBlue
+Melty Blood
+Darkstalkers
+Virtua Fighter
+Dead or Alive
+Soul Edge
+The Last Blade
+Samurai Shodown
+King of Fighters '98
+M.U.G.E.N
+WarioWare
+Rhythm Heaven
+Elite Beat Agents
+Osu!
+Taiko no Tatsujin
+Return to Castle Wolfenstein
+Call of Duty
+Battlefield
+Medal of Honor
+Brothers in Arms
+Escape from Tarkov
+Arma
+Operation Flashpoint
+SWAT
+No One Lives Forever
+S.T.A.L.K.E.R.
+Metro
+Crysis
+F.E.A.R.
+Painkiller
+Serious Sam
+Red Faction
+Timesplitters
+Turok
+GoldenEye 007
+Perfect Dark
+Conker's Bad Fur Day
+Banjo-Kazooie
+Viva Piñata
+Kameo
+Jet Force Gemini
+Diddy Kong Racing
+1080 Snowboarding
+Wave Race
+Super Smash Bros.
+Mario Party
+Luigi's Mansion
+XCOM: Enemy Unknown
+Alpha Centauri
+Crusader Kings
+Europa Universalis
+Hearts of Iron
+Victoria
+Stellaris
+Master of Magic
+Disciples
+Dune II
+Total Annihilation
+Supreme Commander
+Company of Heroes
+Ground Control
+Z
+Star Wars: Empire at War
+Sins of a Solar Empire
+Desperados
+Shadow Tactics
+Theme Park
+Caesar III
+Pharaoh
+Zeus: Master of Olympus
+OpenTTD
+Football Manager
+Championship Manager
+Out of the Park Baseball
+Nintendogs
+Spore
+Creatures
+Zoo Tycoon
+DCS World
+IL-2 Sturmovik
+Silent Hunter
+Falcon
+A-10 Cuba!
+Elite Dangerous
+Ecco the Dolphin
+Shadow Man
+The Suffering
+Freedom Fighters
+Psi-Ops
+Second Sight
+The Darkness
+Prey (2006)
+Singularity
+Clive Barker's Jericho
+Condemned
+The Chronicles of Riddick
+Stubbs the Zombie
+Destroy All Humans!
+Broken Sword
+Syberia
+The Dig
+Full Throttle
+Gabriel Knight
+Sanitarium
+I Have No Mouth, and I Must Scream
+The Neverhood
+Skullmonkeys
+Heart of Darkness
+Abe's Exoddus
+Another World
+Flashback
+Blackthorne
+Little Inferno
+Machinarium
+Botanicula
+Samorost
+The Swapper
+Antichamber
+Q.U.B.E.
+The Talos Principle
+The Beginner's Guide
+The Stanley Parable: Ultra Deluxe
+Kentucky Route Zero
+Inscryption
+The Forgotten City
+The Case of the Golden Idol
+Return of the Obra Dinn
+A Plague Tale
+Amnesia
+Penumbra
+Outlast
+Soma
+Layers of Fear
+Alien: Isolation
+Dead Space
+The Evil Within
+Alan Wake 2
+Fatal Frame
+Clock Tower
+Rule of Rose
+Haunting Ground
+Kuon
+Sirens
+Dino Crisis
+Parasite Eve
+The 3rd Birthday
+Werewolf: The Apocalypse
+The Incredible Machine
+Zork
+Akalabeth
+Rogue
+NetHack
+Angband
+Moria
+ADOM
+Hack
+Dungeon Crawl Stone Soup
+Catacomb
+Wizardry
+Might and Magic
+Dungeon Master
+Eye of the Beholder
+Lands of Lore
+Betrayal at Krondor
+Darklands
+Albion
+The Dark Eye
+Realms of Arkania
+Star Control II
+Privateer
+Freelancer
+The Lord of the Rings Online
+X-Wing
+Tie Fighter
+Freelancer
+Descent: Freespace
+Independence War
+X3: Terran Conflict
+Everspace
+FTL: Faster Than Light
+Sunless Sea
+80 Days
+Against the Storm
+Oxygen Not Included
+Prison Architect
+The Escapists
+Papers, Please
+Democracy
+PowerWash Simulator
+House Flipper
+PC Building Simulator
+Goat Simulator
+Untitled Goose Game
+Katamari Damacy
+We Love Katamari
+LocoRoco
+Patapon
+Every Extend Extra
+Lumines
+Meteos
+Electroplankton
+KORG DS-10
+Nintendogs
+Brain Age
+Picross
+Professor Layton
+Ghost Trick
+Another Code
+Hotel Dusk
+Trace Memory
+The World Ends with You
+Giftpia
+Captain Rainbow
+Moon
+Linda³
+Seaman
+Doshin the Giant
+Odama
+Cubivore
+Baten Kaitos
+Eternal Darkness
+Killer7
+No More Heroes
+The Silver Case
+Flower, Sun, and Rain
+Lollipop Chainsaw
+Shadows of the Damned
+El Shaddai
+Asura's Wrath
+Remember Me
+Enslaved: Odyssey to the West
+Heavenly Sword
+Folklore
+White Knight Chronicles
+The Order: 1886
+Gravity Rush
+Knack
+Driveclub
+Everybody's Golf
+Hot Shots Golf
+Siren
+Tokyo Jungle
+Rain
+The Unfinished Swan
+Concrete Genie
+Tearaway
+Tomba!
+Ape Escape
+MediEvil
+Um Jammer Lammy
+Gitaroo Man
+Bust a Groove
+Vib-Ribbon
+Threads of Fate
+Legend of Legaia
+Legend of Dragoon
+Arc the Lad
+Grandia
+Breath of Fire
+Wild Arms
+Suikoden
+Valkyrie Profile
+Xenogears
+Xenosaga
+Chrono Cross
+The World Ends with You
+Radiant Historia
+The Alliance Alive
+Tokyo Xanadu
+Drakengard
+Lost Odyssey
+Blue Dragon
+The Last Story
+Pandora's Tower
+Tales of Symphonia
+Tales of Vesperia
+Vagrant Story
+Parasite Eve
+Front Mission
+Valkyria Chronicles
+Jeanne d'Arc
+Tactics Ogre
+Disgaea
+La Pucelle
+Phantom Brave
+Makai Kingdom
+Atelier
+Ar tonelico
+Mana Khemia
+.hack
+Monster Rancher
+Digimon World
+Axiom Verge
+Cocoon
+Tunic
+Death's Door
+Hyper Light Drifter
+CrossCode
+Iconoclasts
+Owlboy
+VVVVVV
+N++
+Braid
+Fez
+World of Goo
+Aquaria
+Dust: An Elysian Tail
+Guacamelee
+Mark of the Ninja
+The Messenger
+Katana ZERO
+Hotline Miami
+Papers, Please
+The Red Strings Club
+Paradise Killer
+Disco Elysium
+Citizen Sleeper
+Norco
+Pentiment
+The Forgotten City
+Outer Wilds
+The Case of the Golden Idol
+Return of the Obra Dinn
+The Witness
+Antichamber
+The Talos Principle
+The Stanley Parable
+The Beginner's Guide
+Everything
+Mountain
+Proteus
+Dear Esther
+Everybody's Gone to the Rapture
+What Remains of Edith Finch
+Gone Home
+Firewatch
+Oxenfree
+Night in the Woods
+Kentucky Route Zero
+Road 96
+Before Your Eyes
+Florence
+Gris
+Spiritfarer
+A Short Hike
+Mutazione
+Sayonara Wild Hearts
+Thumper
+Tetris Effect
+Lumines
+Super Hexagon
+Downwell
+VVVVVV
+Nidhogg
+TowerFall
+Duck Game
+Duck Tales
+Lovers in a Dangerous Spacetime
+Overcooked
+Moving Out
+Keep Talking and Nobody Explodes
+Human: Fall Flat
+Gang Beasts
+Untitled Goose Game
+Goat Simulator
+Octodad
+I Am Bread
+Surgeon Simulator
+QWOP
+Getting Over It
+Pogostuck
+Jump King
+The Stanley Parable
+Doki Doki Literature Club
+Yume Nikki
+Ib
+Mad Father
+The Witch's House
+OFF
+OneShot
+Omori
+Undertale
+Deltarune
+Hylics
+Cruelty Squad
+Lobotomy Corporation
+Library of Ruina
+VA-11 Hall-A
+Coffee Talk
+2064: Read Only Memories
+Neo Cab
+Heaven's Vault
+The Roottrees are Dead
+In Other Waters
+Citizen Sleeper
+Signalis
+The Excavation of Hob's Barrow
+The Cat Lady
+Fran Bow
+Fortnite
+Pubg
+Sally Face
+Little Misfortune
+Detention
+Devotion
+Faith: The Unholy Trinity
+Darkwood
+Pathologic
+The Void
+Cryostasis
+S.T.A.L.K.E.R.
+This War of Mine
+Spec Ops: The Line
+Brothers: A Tale of Two Sons
+A Way Out
+It Takes Two
+The Cave
+World of Goo
+LittleBigPlanet
+Dreams
+Journey
+Flower
+Flow
+Abzu
+Rime
+The Pathless
+Solar Ash
+Shadow of the Colossus
+ICO
+The Last Guardian
+The Last of Us
+Uncharted
+God of War
+Spider-Man
+Infamous
+Resistance
+Killzone
+SOCOM
+Warhawk
+Twisted Metal
+MotorStorm
+Wipeout
+Pursuit Force
+Syphon Filter
+Ape Escape
+Jak and Daxter
+Ratchet & Clank
+Sly Cooper
+MediEvil
+Everybody's Golf
+Gravity Rush
+Concrete Genie
+Astro Bot
+Dreams
+Tearaway
+Mass Effect
+Dragon Age
+The Elder Scrolls
+Fallout
+Grid
+Baldur's Gate
+Icewind Dale
+Neverwinter Nights
+Pillars of Eternity
+Tyranny
+Pathfinder
+Wasteland
+Arcanum
+Vampire: The Masquerade
+Star Wars: Knights of the Old Republic
+Jade Empire
+Fable
+Kingdoms of Amalur
+The Outer Worlds
+GreedFall
+Risen
+Gothic
+Two Worlds
+Elex
+Sacred
+Dungeon Siege
+Titan Quest
+Grim Dawn
+Torchlight
+Path of Exile
+Diablo
+Borderlands
+Destiny
+The Division
+Warframe
+Guild Wars
+Lineage
+EverQuest
+Ultima Online
+Runescape
+EVE Online
+World of Warcraft
+The Elder Scrolls Online
+Black Desert
+Ragnarok Online
+Monster Hunter
+Dauntless
+Hunt: Showdown
+Sea of Thieves
+Rust
+DayZ
+ARK: Survival Evolved
+Subnautica
+The Forest
+Sons of the Forest
+Valheim
+Terraria
+Minecraft
+Roblox
+Garry's Mod
+Second Life
+Habbo
+Kerbal Space Program
+Space Engineers
+Factorio
+Satisfactory
+Dyson Sphere Program
+RimWorld
+Dwarf Fortress
+Oxygen Not Included
+Prison Architect
+Cities: Skylines
+SimCity
+The Sims
+RollerCoaster Tycoon
+Planet Coaster
+Planet Zoo
+Zoo Tycoon
+Theme Park
+Populous
+Black & White
+Dungeon Keeper
+Lemmings
+Worms
+Carmageddon
+FlatOut
+TrackMania
+Need for Speed
+Burnout
+Test Drive
+Driver
+Midtown Madness
+Crazy Taxi
+OutRun
+Daytona USA
+Sega Rally
+Ridge Racer
+Gran Turismo
+Forza
+Project Gotham Racing
+Mario Kart
+Crash Team Racing
+Diddy Kong Racing
+F-Zero
+Wipeout
+Excitebike
+Wave Race
+1080 Snowboarding
+SSX
+Tony Hawk's Pro Skater
+Skate
+Jet Set Radio
+Sonic Riders
+MotorStorm
+Split/Second
+Blur
+Rocket League
+PGA Tour
+Everybody's Golf
+Virtua Tennis
+Top Spin
+Fight Night
+Punch-Out!!
+Wii Fit
+Dance Dance Revolution
+Beat Saber
+Guitar Hero
+Rock Band
+Taiko no Tatsujin
+Parappa the Rapper
+Rhythm Heaven
+Elite Beat Agents
+Osu!
+Karaoke Revolution
+Street Fighter
+Tekken
+Mortal Kombat
+The King of Fighters
+Guilty Gear
+BlazBlue
+Virtua Fighter
+Soulcalibur
+Dead or Alive
+Killer Instinct
+Marvel vs. Capcom
+Darkstalkers
+Darksiders
+Samurai Shodown
+Fatal Fury
+Art of Fighting
+Garou
+The Last Blade
+Melty Blood
+Skullgirls
+Under Night In-Birth
+Dragon Ball FighterZ
+Super Smash Bros.
+Pokkén Tournament
+Bushido Blade
+Tobal
+Ehrgeiz
+Bloody Roar
+Primal Rage
+ClayFighter
+Rival Schools
+Capcom vs. SNK
+Fighting EX Layer
+Dengeki Bunko Fighting Climax
+Power Stone
+Virtual-On
+Virtua Cop
+Time Crisis
+House of the Dead
+Silent Scope
+Police Trainer
+Point Blank
+Typing of the Dead
+After Burner
+Space Harrier
+Galaxy Force
+Thunder Blade
+Top Gun
+Ace Combat
+H.A.W.X.
+Crimson Skies
+Sky Rogue
+IL-2 Sturmovik
+Microsoft Flight Simulator
+X-Plane
+DCS World
+Falcon
+Silent Hunter
+Steel Battalion
+Armored Core
+Front Mission
+Zone of the Enders
+Daemon X Machina
+Custom Robo
+Virtual-On
+MechWarrior
+MechCommander
+Earth Defense Force
+Vanquish
+Binary Domain
+Lost Planet
+Bionic Commando
+Strider
+Ninja Gaiden
+Shinobi
+Tenchu
+Way of the Samurai
+Bushido Blade
+Onimusha
+God Hand
+Viewtiful Joe
+Bayonetta
+Devil May Cry
+Astral Chain
+Nier
+Okami
+Clover Studio
+Kamiwaza
+Maken X
+D
+Enemy Zero
+Dino Crisis
+Clock Tower
+Fatal Frame
+Silent Hill
+Resident Evil
+Haunting Ground
+Rule of Rose
+Siren
+Parasite Eve
+The Evil Within
+Dead Space
+Alan Wake
+Control
+Quantum Break
+Max Payne
+L.A. Noire
+Bully
+Manhunt
+Red Dead Redemption
+Grand Theft Auto
+Midnight Club
+The Warriors
+Mafia
+Sleeping Dogs
+Saints Row
+Prototype
+Infamous
+Crackdown
+Mercenaries
+Just Cause
+Destroy All Humans!
+Stubbs the Zombie
+The Saboteur
+Freedom Fighters
+Psi-Ops
+Second Sight
+The Darkness
+Condemned
+F.E.A.R.
+Suffering
+Black
+Singularity
+Timesplitters
+Perfect Dark
+GoldenEye 007
+Turok
+Doom
+Quake
+Wolfenstein
+Hexen
+Heretic
+Rise of the Triad
+Blood
+Shadow Warrior
+Duke Nukem
+Serious Sam
+Painkiller
+Unreal
+Half-Life
+Portal
+Counter-Strike
+Team Fortress
+Left 4 Dead
+Call of Duty
+Battlefield
+Medal of Honor
+Titanfall
+Apex Legends
+Overwatch
+Halo
+Gears of War
+Killzone
+Resistance
+Destiny
+Marathon
+Prey
+Crysis
+S.T.A.L.K.E.R.
+Far Cry
+Metro
+Arma
+Operation Flashpoint
+SWAT
+No One Lives Forever
+System Shock
+Thief
+Deus Ex
+BioShock
+Dishonored
+Deathloop
+Watch Dogs
+Assassin's Creed
+Prince of Persia
+Rayman
+Beyond Good & Evil
+Anno
+The Settlers
+TrackMania
+Driver
+The Neverhood
+Skullmonkeys
+Sanitarium
+I Have No Mouth, and I Must Scream
+Zork
+Myst
+Riven
+The 7th Guest
+The 11th Hour
+Phantasmagoria
+Gabriel Knight
+King's Quest
+Space Quest
+Police Quest
+Quest for Glory
+Leisure Suit Larry
+Maniac Mansion
+Day of the Tentacle
+The Secret of Monkey Island
+Monkey Island
+Sam & Max
+Full Throttle
+Grim Fandango
+Broken Sword
+Beneath a Steel Sky
+The Longest Journey
+Dreamfall
+Syberia
+The Dig
+Blade Runner
+Tex Murphy
+The Pandora Directive
+Under a Killing Moon
+Discworld
+Simon the Sorcerer
+Toonstruck
+The Black Mirror
+Still Life
+Ceville
+Machinarium
+Botanicula
+Samorost
+Amanita Design
+Another World
+Flashback
+Heart of Darkness
+Blackthorne
+The Story of Thor
+Oddworld
+Rayman
+Prince of Persia
+Little Big Adventure
+Little Nightmares
+Twinsen's Odyssey
+Fade to Black
+Alone in the Dark
+The 7th Guest
+The Incredible Machine
+Lode Runner
+Beyond Oasis
+Landstalker
+Shining Force
+Shining in the Darkness
+Phantasy Star
+Lunar
+Grandia
+Breath of Fire
+Wild Arms
+Suikoden
+Valkyrie Profile
+Star Ocean
+Tales
+Ys
+Trails
+The Legend of Heroes
+Dragon Quest
+Final Fantasy
+Kingdom Hearts
+Mana
+SaGa
+Shin Megami Tensei
+Persona
+Devil Summoner
+Digital Devil Saga
+Etrian Odyssey
+Fire Emblem
+Advance Wars
+Tactics Ogre
+Disgaea
+Ogre Battle
+Langrisser
+Warsong
+Growlanser
+Front Mission
+Vandal Hearts
+Jeanne d'Arc
+Pokémon
+Digimon World
+Monster Rancher
+Yo-kai Watch
+Medabots
+EarthBound
+Mother
+Golden Sun
+Xenogears
+Xenosaga
+Xenoblade Chronicles
+Chrono
+Chrono Trigger
+Chrono Cross
+Radiant Historia
+The World Ends with You
+Live A Live
+Baten Kaitos
+Skies of Arcadia
+Lost Odyssey
+Blue Dragon
+The Last Story
+Pandora's Tower
+Nier
+Drakengard
+13 Sentinels: Aegis Rim
+Odin Sphere
+Muramasa
+Dragon's Crown
+GrimGrimoire
+Disgaea
+Atelier
+Ar tonelico
+Mana Khemia
+.hack
+The Caligula Effect
+Tokyo Xanadu
+Blue Reflection
+Utawarerumono
+Fate
+Steins;Gate
+Ace Attorney
+Danganronpa
+Zero Escape
+428: Shibuya Scramble
+Clannad
+Bad Day L.A.
+Higurashi
+Umineko
+The House in Fata Morgana
+Root Letter
+Chaos;Child
+AI: The Somnium Files
+The Silver Case
+Flower, Sun, and Rain
+999
+Virtue's Last Reward
+Zero Time Dilemma
+Phoenix Wright
+Ghost Trick
+Professor Layton
+Hotel Dusk
+Trace Memory
+Another Code
+The Room
+The Witness
+The Talos Principle
+The Stanley Parable
+Outer Wilds
+Return of the Obra Dinn
+Disco Elysium
+Pentiment
+Citizen Sleeper
+The Forgotten City
+Papers, Please
+Her Story
+Telling Lies
+Immortality
+The Beginner's Guide
+The Path
+American McGee's Alice
+Psychonauts
+Brutal Legend
+Grim Fandango
+Beyond Good & Evil
+Killer7
+Super Hexagon
+The Binding of Isaac
+Spelunky
+Cave Story
+Dwarf Fortress
+Hollow Knight
+Ori
+Cuphead
+Celeste
+Hades
+Bastion
+Transistor
+Pyre
+Hyper Light Drifter
+Dead Cells
+Enter the Gungeon
+Nuclear Throne
+Risk of Rain
+FTL: Faster Than Light
+Into the Breach
+Slay the Spire
+Inscryption
+Cult of the Lamb
+Vampire Survivors
+Rogue Legacy
+Crypt of the NecroDancer
+Shiren the Wanderer
+Mystery Dungeon
+Crying Suns
+Darkest Dungeon
+Don't Starve
+The Stanley Parable
+Super Meat Boy
+VVVVVV
+N++
+Nidhogg
+TowerFall
+Baba Is You
+World of Goo
+Fez
+Braid
+Limbo
+Inside
+Cocoon
+Tunic
+Death's Door
+A Short Hike
+Spiritfarer
+Gris
+Sable
+Eastward
+Sea of Stars
+Chained Echoes
+Undertale
+Deltarune
+Omori
+OneShot
+Yume Nikki
+Ib
+Mad Father
+The Witch's House
+OFF
+Lisa
+Hylics
+Cruelty Squad
+Signalis
+Darkwood
+Fear & Hunger
+Pathologic
+The Void
+Cryostasis
+The Cat Lady
+Fran Bow
+Sally Face
+Detention
+Devotion
+Amnesia
+Penumbra
+Outlast
+Soma
+Alien: Isolation
+Layers of Fear
+Observer
+Visage
+Darkwood
+The Mortuary Assistant
+Five Nights at Freddy's
+Doki Doki Literature Club
+Yume Nikki
+Corpse Party
+Ao Oni
+World of Horror
+The Last Door
+Lobotomy Corporation
+Library of Ruina
+The Red Strings Club
+VA-11 Hall-A
+Coffee Talk
+2064: Read Only Memories
+Neo Cab
+Heaven's Vault
+In Other Waters
+Paradise Killer
+Norco
+Roadwarden
+Citizen Sleeper
+Unpacking
+Dorfromantik
+Townscaper
+Mini Metro
+Mini Motorways
+Loop Hero
+Balatro
+Peglin
+Dicey Dungeons
+Monster Train
+Griftlands
+Card Crawl
+Papers, Please
+Beholder
+This War of Mine
+Frostpunk
+Against the Storm
+Banished
+RimWorld
+Factorio
+Satisfactory
+Dyson Sphere Program
+Kerbal Space Program
+Space Engineers
+Astroneer
+Subnautica
+The Long Dark
+Green Hell
+The Forest
+Valheim
+V Rising
+Terraria
+Starbound
+Core Keeper
+Necesse
+Minecraft
+Roblox
+Garry's Mod
+Second Life
+IMVU
+Kerbal Space Program
+Cities: Skylines
+SimCity
+The Sims
+Spore
+RollerCoaster Tycoon
+Planet Coaster
+Planet Zoo
+Two Point Hospital
+Dungeon Keeper
+Populous
+Lemmings
+Worms
+Carmageddon
+Descent
+Freelancer
+X3: Terran Conflict
+Elite
+Elite Dangerous
+EVE Online
+Star Citizen
+No Man's Sky
+Outer Wilds
+Sunless Sea
+Sunless Skies
+80 Days
+Papers, Please
+The Stanley Parable
+Kentucky Route Zero
+What Remains of Edith Finch
+Gone Home
+Firewatch
+Oxenfree
+Night in the Woods
+Florence
+Before Your Eyes
+The Beginner's Guide
+Everything
+Proteus
+Dear Esther
+Journey
+Flower
+Flow
+Abzu
+Rime
+The Pathless
+Solar Ash
+ICO
+Shadow of the Colossus
+The Last Guardian
+The Last of Us
+Uncharted
+God of War
+Spider-Man
+Astro Bot
+LittleBigPlanet
+Dreams
+Tearaway
+Gravity Rush
+Concrete Genie
+Folklore
+Tokyo Jungle
+Rain
+The Unfinished Swan`,
+      ];
+
+      const rawGamesArray = gamesList[0].split("\n").map((game) => game.trim());
+
+      // 2. Убираем дубликаты с помощью new Set() и преобразуем обратно в массив
+      const uniqueGamesArray = [...new Set(rawGamesArray)];
+
+      // 3. Сортируем очищенный список по алфавиту
+      const dynamicGamesArray = uniqueGamesArray.sort((a, b) => a.localeCompare(b));
+
+      console.log(dynamicGamesArray);
+
+      // Исходный массив игр
+      const finalGamesArray = ["1000xRESIST", "1080 Snowboarding", "13 Sentinels"];
+
+      function convertToJSONList(arr) {
+        // Проходим по массиву с помощью .map()
+        // и для каждой строки создаем объект { id, name }
+        const formattedArray = arr.map((gameName, index) => {
+          return {
+            id: index + 1, // Индексы в массиве с 0, поэтому прибавляем 1
+            name: gameName,
+          };
+        });
+
+        // Превращаем полученный массив объектов в JSON-строку с отступами в 2 пробела для красоты
+        return JSON.stringify(formattedArray, null, 2);
+      }
+
+      // Вызов функции
+      const gamesJSON = convertToJSONList(finalGamesArray);
+
+      console.log(gamesJSON);
+    </script>
+
+    <!-- 
+  curl.exe -X POST "https://api.igdb.com/v4/games" ^
+
+  -H "Client-ID: kfq56bz2fc02cpa04fehcyp24atkzw" ^
+
+  -H "Authorization: Bearer behdqws5lx18y1gshmc7ejazmua5is" ^
+
+  -H "Accept: application/json" ^
+
+  -d "search \"Doom\"; fields name,cover.image_id; limit 1;"
+   -->
+
+    <!-- 
+   curl.exe -X POST "https://api.igdb.com/v4/games" `
+  -H "Client-ID: kfq56bz2fc02cpa04fehcyp24atkzw" `
+  -H "Authorization: Bearer behdqws5lx18y1gshmc7ejazmua5is" `
+  -H "Accept: application/json" `
+  -d "search \"Doom\"; fields name,cover.image_id; limit 1;"
+   -->
+
+    <!-- 
+   curl.exe -X POST "https://api.igdb.com/v4/games" -H "Client-ID: kfq56bz2fc02cpa04fehcyp24atkzw" -H "Authorization: Bearer behdqws5lx18y1gshmc7ejazmua5is" -H "Accept: application/json" -d "search \"Doom\"; fields name,cover.image_id; limit 1;"
+   -->
+
+    <!-- 
+   $headers = @{
+  "Client-ID" = "kfq56bz2fc02cpa04fehcyp24atkzw"
+  "Authorization" = "Bearer behdqws5lx18y1gshmc7ejazmua5is"
+  "Accept" = "application/json"
+}
+
+$body = 'search "Doom"; fields name,cover.image_id; limit 1;'
+
+Invoke-RestMethod -Method Post -Uri "https://api.igdb.com/v4/games" -Headers $headers -Body $body
+   -->
+  </body>
+</html>

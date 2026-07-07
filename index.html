@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Турнир игр</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Share+Tech+Mono&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <div class="page-bg" aria-hidden="true">
+      <div class="page-bg__grid page-bg__grid--fine"></div>
+      <span class="page-bg__pixel page-bg__pixel--1">▲</span>
+      <span class="page-bg__pixel page-bg__pixel--2">■</span>
+      <span class="page-bg__pixel page-bg__pixel--3">●</span>
+      <span class="page-bg__pixel page-bg__pixel--4">♦</span>
+      <span class="page-bg__pixel page-bg__pixel--5">▶</span>
+      <span class="page-bg__pixel page-bg__pixel--6">◆</span>
+    </div>
+
+    <main class="tournament">
+      <header class="tournament__header">
+        <p class="tournament__issue">COMPUTER GAMES · ISSUE №42 · 1994</p>
+        <h1 class="tournament__title">
+          <span class="glitch-text" data-text="Турнир игр">Турнир игр</span>
+        </h1>
+        <p class="tournament__subtitle">Выберите лучшую игру из пары</p>
+      </header>
+
+      <section class="tournament__start">
+        <p class="tournament__start-info">
+          <span class="tournament__games-count">—</span> игр ·
+          <span class="tournament__rounds-count">—</span> раундов
+        </p>
+        <div class="btn-block">
+          <button type="button" class="tournament__start-btn">
+            <span class="glitch-text" data-text="Начать турнир">Начать турнир</span>
+          </button>
+        </div>
+        <p class="tournament__resume tournament__resume--hidden">
+          Турнир восстановлен после обновления страницы
+        </p>
+      </section>
+
+      <section class="tournament__status tournament__status--hidden" aria-live="polite">
+        <div class="tournament__round">
+          Раунд <span class="tournament__round-current">1</span> из
+          <span class="tournament__round-total">—</span>
+        </div>
+        <div class="tournament__progress">
+          Пара <span class="tournament__pair-current">1</span> из
+          <span class="tournament__pair-total">—</span>
+        </div>
+        <div class="tournament__bar">
+          <div class="tournament__bar-fill"></div>
+        </div>
+      </section>
+
+      <section class="tournament__arena tournament__arena--hidden">
+        <div class="game-card-block game-card-block--left">
+          <button type="button" class="game-card game-card--left" data-side="left">
+            <span class="game-card__label">PLAYER 1</span>
+            <span class="game-card__name"></span>
+            <span class="game-card__img-container"> </span>
+          </button>
+        </div>
+
+        <div class="tournament__vs">VS</div>
+
+        <div class="game-card-block game-card-block--right">
+          <button type="button" class="game-card game-card--right" data-side="right">
+            <span class="game-card__label">PLAYER 2</span>
+            <span class="game-card__name"></span>
+            <span class="game-card__img-container"></span>
+          </button>
+        </div>
+      </section>
+
+      <section class="tournament__winner tournament__winner--hidden">
+        <h2 class="tournament__winner-title">Победитель турнира</h2>
+        <div class="panel-block panel-block--winner">
+          <p class="tournament__winner-name"></p>
+        </div>
+        <div class="btn-block">
+          <button type="button" class="tournament__restart">
+            <span class="glitch-text" data-text="Новый турнир">Новый турнир</span>
+          </button>
+        </div>
+      </section>
+
+      <p class="tournament__error tournament__error--hidden"></p>
+
+      <aside class="tournament__rules">
+        <h2 class="tournament__rules-title">Правила турнира</h2>
+        <ul class="tournament__rules-list">
+          <li>
+            Одна франшиза — один представитель. Чтобы не раздувать сетку, каждую серию игр
+            представляет только одна часть.
+          </li>
+          <li>
+            Выбор за вами. Какая именно игра будет защищать честь серии — решать вам. Например, из
+            вселенной Resident Evil вы сами выбираете своего фаворита (будь то RE2, RE4 или RE7).
+          </li>
+          <li>
+            Что считается франшизой? Любые номерные части, сиквелы и спин-оффы одной линейки. Так,
+            Half-Life и Half-Life 2 — это одна франшиза. Все игры серии Resident Evil — тоже одна.
+          </li>
+          <li>
+            Духовные наследники — раздельно. Похожие игры от одних авторов не объединяются, если это
+            разные IP. Например, Dark Souls и Elden Ring — это разные франшизы, и они могут сойтись
+            в битве друг против друга.
+          </li>
+        </ul>
+        <p>В конце должен остаться только один! ⚔️</p>
+      </aside>
+
+      <style>
+        .tournament__rules {
+          margin-bottom: 1.5rem;
+          padding: 1.5rem;
+          background: var(--color-surface);
+          border: 2px solid var(--color-border);
+          font-family: var(--font-mono);
+          color: var(--color-text);
+        }
+
+        .tournament__rules-title {
+          font-size: 1.1rem;
+          margin-bottom: 1rem;
+          color: var(--color-accent);
+          text-transform: uppercase;
+          letter-spacing: 0.05em;
+        }
+
+        .tournament__rules-list {
+          margin: 0;
+          padding-left: 1.2rem;
+          line-height: 1.5;
+          font-size: 0.95rem;
+        }
+
+        .tournament__rules-list li {
+          margin-bottom: 0.5rem;
+        }
+
+        @media (min-width: 1700px) {
+          .tournament {
+            max-width: 960px;
+            padding-left: 1.25rem;
+          }
+          .tournament__rules {
+            position: fixed;
+            left: calc(50% - 480px - 320px - 40px);
+            top: 2.5rem;
+            width: 320px;
+            margin-top: 0;
+            margin-bottom: 2rem;
+          }
+        }
+      </style>
+
+      <div class="btn-block btn-block--fixed tournament__reset-wrap tournament__reset-wrap--hidden">
+        <button type="button" class="tournament__reset">
+          <span class="glitch-text" data-text="Новый турнир">Новый турнир</span>
+        </button>
+      </div>
+    </main>
+
+    <script src="js/app.js" type="module"></script>
+  </body>
+</html>
