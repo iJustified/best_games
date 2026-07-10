@@ -253,7 +253,7 @@ function renderPair() {
       rightLoaded = true;
       tryReveal();
     };
-  }, 200); // время совпадает с transition в CSS
+  }, 400); // время совпадает с transition в CSS
 
   // const rightImgTag = document.createElement("img");
   // rightImgTag.src = `./covers/${right.name}.jpg`;
