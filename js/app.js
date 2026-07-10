@@ -20,8 +20,10 @@ const elements = {
   rightName: document.querySelector(".game-card--right .game-card__name"),
   // leftImg: document.querySelector(".game-card--left .game-card__img"),
   // rightImg: document.querySelector(".game-card--right .game-card__img"),
-  leftImgContainer: document.querySelector(".game-card--left .game-card__img-container"),
-  rightImgContainer: document.querySelector(".game-card--right .game-card__img-container"),
+  leftImg: document.querySelector(".game-card--left .game-card__img"),
+  rightImg: document.querySelector(".game-card--right .game-card__img"),
+  // leftImgContainer: document.querySelector(".game-card--left .game-card__img-container"),
+  // rightImgContainer: document.querySelector(".game-card--right .game-card__img-container"),
   winnerSection: document.querySelector(".tournament__winner"),
   winnerName: document.querySelector(".tournament__winner-name"),
   winnerImgContainer: document.querySelector(".tournament__winner-img-container"),
@@ -221,16 +223,20 @@ function renderPair() {
 
   elements.leftName.textContent = left.name;
   elements.rightName.textContent = right.name;
-  elements.leftImgContainer.innerHTML = "";
-  elements.rightImgContainer.innerHTML = "";
-  const leftImgTag = document.createElement("img");
-  leftImgTag.src = `./covers/${left.name}.jpg`;
-  leftImgTag.alt = left.name;
-  elements.leftImgContainer.appendChild(leftImgTag);
-  const rightImgTag = document.createElement("img");
-  rightImgTag.src = `./covers/${right.name}.jpg`;
-  rightImgTag.alt = right.name;
-  elements.rightImgContainer.appendChild(rightImgTag);
+  // elements.leftImgContainer.innerHTML = "";
+  // elements.rightImgContainer.innerHTML = "";
+  // const leftImgTag = document.createElement("img");
+  // leftImgTag.src = `./covers/${left.name}.jpg`;
+  // leftImgTag.alt = left.name;
+  // elements.leftImgContainer.appendChild(leftImgTag);
+  elements.leftImg.src = `./covers/${left.name}.jpg`;
+  elements.leftImg.alt = left.name;
+  // const rightImgTag = document.createElement("img");
+  // rightImgTag.src = `./covers/${right.name}.jpg`;
+  // rightImgTag.alt = right.name;
+  // elements.rightImgContainer.appendChild(rightImgTag);
+  elements.rightImg.src = `./covers/${right.name}.jpg`;
+  elements.rightImg.alt = right.name;
   elements.leftCard.classList.remove("game-card--selected");
   elements.rightCard.classList.remove("game-card--selected");
   elements.leftCard.disabled = false;
