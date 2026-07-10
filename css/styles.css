@@ -699,6 +699,7 @@ body {
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
+  margin-bottom: 2rem;
 }
 
 .tournament__winner--hidden {
@@ -761,6 +762,19 @@ body {
 .tournament--finished .tournament__arena,
 .tournament--finished .tournament__start {
   display: none;
+}
+
+.game-card__img-container {
+  transition: transform 0.2s ease-in-out;
+  transform: scaleX(1);
+  -webkit-transition: transform 0.2s ease-in-out;
+  -moz-transition: transform 0.2s ease-in-out;
+  -ms-transition: transform 0.2s ease-in-out;
+  -o-transition: transform 0.2s ease-in-out;
+}
+
+.game-card__img-container--flipped {
+  transform: scaleX(0);
 }
 
 @media (max-width: 640px) {

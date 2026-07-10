@@ -22,8 +22,8 @@ const elements = {
   // rightImg: document.querySelector(".game-card--right .game-card__img"),
   leftImg: document.querySelector(".game-card--left .game-card__img"),
   rightImg: document.querySelector(".game-card--right .game-card__img"),
-  // leftImgContainer: document.querySelector(".game-card--left .game-card__img-container"),
-  // rightImgContainer: document.querySelector(".game-card--right .game-card__img-container"),
+  leftImgContainer: document.querySelector(".game-card--left .game-card__img-container"),
+  rightImgContainer: document.querySelector(".game-card--right .game-card__img-container"),
   winnerSection: document.querySelector(".tournament__winner"),
   winnerName: document.querySelector(".tournament__winner-name"),
   winnerImgContainer: document.querySelector(".tournament__winner-img-container"),
@@ -221,22 +221,47 @@ function updateStatus() {
 function renderPair() {
   const [left, right] = getCurrentPair();
 
-  elements.leftName.textContent = left.name;
-  elements.rightName.textContent = right.name;
-  // elements.leftImgContainer.innerHTML = "";
-  // elements.rightImgContainer.innerHTML = "";
-  // const leftImgTag = document.createElement("img");
-  // leftImgTag.src = `./covers/${left.name}.jpg`;
-  // leftImgTag.alt = left.name;
-  // elements.leftImgContainer.appendChild(leftImgTag);
-  elements.leftImg.src = `./covers/${left.name}.jpg`;
-  elements.leftImg.alt = left.name;
+  elements.leftImgContainer.classList.add("game-card__img-container--flipped");
+  elements.rightImgContainer.classList.add("game-card__img-container--flipped");
+
+  setTimeout(() => {
+    elements.leftName.textContent = left.name;
+    elements.rightName.textContent = right.name;
+    // elements.leftImgContainer.innerHTML = "";
+    // elements.rightImgContainer.innerHTML = "";
+    // const leftImgTag = document.createElement("img");
+    // leftImgTag.src = `./covers/${left.name}.jpg`;
+    // leftImgTag.alt = left.name;
+    // elements.leftImgContainer.appendChild(leftImgTag);
+    elements.leftImg.src = `./covers/${left.name}.jpg`;
+    elements.rightImg.src = `./covers/${right.name}.jpg`;
+
+    let leftLoaded = false;
+    let rightLoaded = false;
+
+    const tryReveal = () => {
+      if (leftLoaded && rightLoaded) {
+        elements.leftImgContainer.classList.remove("game-card__img-container--flipped");
+        elements.rightImgContainer.classList.remove("game-card__img-container--flipped");
+      }
+    };
+    elements.leftImg.onload = () => {
+      leftLoaded = true;
+      tryReveal();
+    };
+    elements.rightImg.onload = () => {
+      rightLoaded = true;
+      tryReveal();
+    };
+  }, 200); // время совпадает с transition в CSS
+
   // const rightImgTag = document.createElement("img");
   // rightImgTag.src = `./covers/${right.name}.jpg`;
   // rightImgTag.alt = right.name;
   // elements.rightImgContainer.appendChild(rightImgTag);
-  elements.rightImg.src = `./covers/${right.name}.jpg`;
+  elements.leftImg.alt = left.name;
   elements.rightImg.alt = right.name;
+
   elements.leftCard.classList.remove("game-card--selected");
   elements.rightCard.classList.remove("game-card--selected");
   elements.leftCard.disabled = false;
