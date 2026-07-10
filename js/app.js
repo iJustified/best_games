@@ -24,6 +24,7 @@ const elements = {
   rightImgContainer: document.querySelector(".game-card--right .game-card__img-container"),
   winnerSection: document.querySelector(".tournament__winner"),
   winnerName: document.querySelector(".tournament__winner-name"),
+  winnerImgContainer: document.querySelector(".tournament__winner-img-container"),
   restartBtn: document.querySelector(".tournament__restart"),
   resetWrap: document.querySelector(".tournament__reset-wrap"),
   resetBtn: document.querySelector(".tournament__reset"),
@@ -43,6 +44,8 @@ let state = {
   isFinished: false,
   champion: null,
 };
+
+console.log(state.participants);
 
 function isPowerOfTwo(value) {
   return value > 0 && (value & (value - 1)) === 0;
@@ -115,6 +118,11 @@ function showWinnerScreen(game) {
   elements.resetWrap.classList.add("tournament__reset-wrap--hidden");
   elements.winnerSection.classList.remove("tournament__winner--hidden");
   elements.winnerName.textContent = game.name;
+  elements.winnerImgContainer.innerHTML = "";
+  const winnerImgTag = document.createElement("img");
+  winnerImgTag.src = `./covers/${game.name}.jpg`;
+  winnerImgTag.alt = game.name;
+  elements.winnerImgContainer.appendChild(winnerImgTag);
 }
 
 function serializeState() {
@@ -250,6 +258,7 @@ function startRound() {
 function startNextRound() {
   state.round += 1;
   state.participants = state.winners;
+  console.log(state.winners);
   startRound();
 }
 

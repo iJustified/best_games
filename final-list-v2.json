@@ -3916,13 +3916,13 @@
   },
   {
     "id": 784,
-    "name": "Star Wars Dark Forces",
-    "img": "./covers/Star Wars Dark Forces.jpg"
+    "name": "LEGO",
+    "img": "./covers/LEGO.jpg"
   },
   {
     "id": 785,
-    "name": "Star Wars Empire at War",
-    "img": "./covers/Star Wars Empire at War.jpg"
+    "name": "Sea Dogs",
+    "img": "./covers/Sea Dogs.jpg"
   },
   {
     "id": 786,
@@ -3936,8 +3936,8 @@
   },
   {
     "id": 788,
-    "name": "Star Wars Rogue Squadron",
-    "img": "./covers/Star Wars Rogue Squadron.jpg"
+    "name": "Sniper Elite",
+    "img": "./covers/Sniper Elite.jpg"
   },
   {
     "id": 789,
@@ -4341,8 +4341,8 @@
   },
   {
     "id": 869,
-    "name": "The Longest Journey",
-    "img": "./covers/The Longest Journey.jpg"
+    "name": "Remnant",
+    "img": "./covers/Remnant.jpg"
   },
   {
     "id": 870,

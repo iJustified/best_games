@@ -422,14 +422,14 @@ body {
   display: inline-block;
 }
 
-.panel-block::before {
+/* .panel-block::before {
   content: "";
   position: absolute;
   inset: 0;
   background: var(--color-shadow-bright);
   transform: translate(var(--shadow-offset-x), var(--shadow-offset-y));
   z-index: 0;
-}
+} */
 
 /* ── Rhombus buttons ── */
 
@@ -683,6 +683,10 @@ body {
   background: var(--color-surface);
   border: 2px solid var(--color-border);
   box-shadow: var(--shadow-offset-x) var(--shadow-offset-y) 0 var(--color-shadow);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
 }
 
 .tournament__winner--hidden {
@@ -696,6 +700,7 @@ body {
   text-transform: uppercase;
   color: var(--color-text-muted);
   margin-bottom: 2rem;
+  max-width: 400px;
 }
 
 .tournament__winner-name {
@@ -703,17 +708,23 @@ body {
   z-index: 1;
   display: inline-block;
   padding: 1.5rem 2.5rem;
-  margin-bottom: 2.5rem;
+  margin-bottom: 0.75rem;
   font-family: var(--font-mono);
   font-size: clamp(1.5rem, 5vw, 2.25rem);
   letter-spacing: 0.03em;
   color: var(--color-accent-bright);
   background: var(--color-surface-light);
   border: 2px solid var(--color-accent);
+  width: 100%;
+}
+
+.tournament__winner-img-container {
+  position: relative;
+  z-index: 1;
 }
 
 .panel-block--winner {
-  margin-bottom: 0;
+  margin-bottom: 2rem;
 }
 
 /* ── Error ── */

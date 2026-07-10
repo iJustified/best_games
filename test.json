@@ -1,0 +1,22 @@
+[
+    {
+        "id": 4,
+        "name": "1942",
+        "img": "./covers/1942.jpg"
+    },
+    {
+        "id": 6,
+        "name": "428 Shibuya Scramble",
+        "img": "./covers/428 Shibuya Scramble.jpg"
+    },
+    {
+        "id": 1,
+        "name": "hack",
+        "img": "./covers/hack.jpg"
+    },
+    {
+        "id": 2,
+        "name": "1080 Snowboarding",
+        "img": "./covers/1080 Snowboarding.jpg"
+    }
+]
