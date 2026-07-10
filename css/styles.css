@@ -675,6 +675,18 @@ body {
   word-break: break-word;
 }
 
+.game-card__img-container {
+  display: block;
+  /* width: ; */
+  aspect-ratio: 3 / 4;
+}
+.game-card__img-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
 /* ── Winner ── */
 
 .tournament__winner {
